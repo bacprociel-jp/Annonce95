@@ -1,7 +1,6 @@
-Collect cloud · PY
 #!/usr/bin/env python3
 """Collecteur cloud (GitHub Actions) : interroge directement Bien'ici et PAP.
- 
+
 Écrit data/annonces.json. Les adresses de recherche viennent de sources.json.
 Variables d'environnement facultatives :
   FULL=1       parcourt toutes les pages (sinon : s'arrête dès qu'une page n'apporte rien de nouveau)
@@ -15,19 +14,19 @@ import sys
 import time
 import urllib.request
 from urllib.parse import quote, urljoin
- 
+
 from bs4 import BeautifulSoup
- 
+
 from common import (RACINE, charger, extraire_annonces, fusionner, maintenant_iso, notifier,
                     sauver)
- 
+
 DATA = RACINE / "data" / "annonces.json"
 CONFIG = RACINE / "sources.json"
 UA = "Mozilla/5.0 (compatible; annonces95/2.0; usage personnel)"
 PAUSE = 1.0  # secondes entre deux requêtes, pour rester poli
 BIENICI = "https://www.bienici.com"
- 
- 
+
+
 def http_get(url: str) -> str:
     req = urllib.request.Request(url, headers={
         "User-Agent": UA,
@@ -36,8 +35,8 @@ def http_get(url: str) -> str:
     })
     with urllib.request.urlopen(req, timeout=30) as rep:
         return rep.read().decode("utf-8", errors="replace")
- 
- 
+
+
 # =========================================================================== Bien'ici
 def resoudre_zone(nom: str = "Val-d'Oise"):
     """Demande à Bien'ici l'identifiant de zone du département."""
@@ -48,14 +47,14 @@ def resoudre_zone(nom: str = "Val-d'Oise"):
     choix = next((d for d in candidats if "val-d" in str(d.get("name", "")).lower()), candidats[0])
     print(f"  Zone Bien'ici : {choix.get('name')} → {choix['zoneIds']}")
     return choix["zoneIds"]
- 
- 
+
+
 def premier_nombre(valeur):
     if isinstance(valeur, list):
         valeur = min((v for v in valeur if isinstance(v, (int, float))), default=None)
     return valeur if isinstance(valeur, (int, float)) else None
- 
- 
+
+
 def lire_reponse_bienici(donnees: dict):
     """Transforme la réponse JSON de Bien'ici en annonces normalisées."""
     res = []
@@ -79,14 +78,14 @@ def lire_reponse_bienici(donnees: dict):
             "cp": cp or None,
         })
     return res
- 
- 
+
+
 PLAFOND = 2500  # Bien'ici ne sert jamais plus de 2500 résultats pour une même recherche
 TAILLE = 100
 # Tranches de prix pour le passage complet : le département dépasse le plafond en une seule recherche
 BORNES = [0, 100_000, 150_000, 200_000, 250_000, 300_000, 400_000, 600_000, None]
- 
- 
+
+
 def requete_bienici(zones, cfg, debut, prix_min=None, prix_max=None):
     filtres = {
         "size": TAILLE, "from": debut, "showAllModels": False, "filterType": "buy",
@@ -103,8 +102,8 @@ def requete_bienici(zones, cfg, debut, prix_min=None, prix_max=None):
             filtres[cle_api] = cfg[cle_cfg]
     url = f"{BIENICI}/realEstateAds.json?filters={quote(json.dumps(filtres, separators=(',', ':')))}"
     return json.loads(http_get(url))
- 
- 
+
+
 def parcourir(zones, cfg, connus, complet, premiere, prix_min=None, prix_max=None):
     """Lit les pages d'une recherche, sans jamais dépasser le plafond de Bien'ici.
     Une erreur en cours de route ne fait pas perdre ce qui a déjà été lu."""
@@ -126,13 +125,13 @@ def parcourir(zones, cfg, connus, complet, premiere, prix_min=None, prix_max=Non
             print(f"  Avertissement : arrêt à {debut} annonces ({e!r}). Résultats conservés.")
             break
     return resultat
- 
- 
+
+
 def collecter_bienici(cfg: dict, connus: set, complet: bool):
     zones = cfg.get("zone_ids") or resoudre_zone()
     if not complet:
         return parcourir(zones, cfg, connus, False, requete_bienici(zones, cfg, 0))
- 
+
     # Passage complet : on découpe par tranches de prix pour contourner le plafond de 2500
     bas, haut = cfg.get("prix_min") or 0, cfg.get("prix_max")
     bornes = [b for b in BORNES if b is not None and b > bas and (haut is None or b < haut)]
@@ -141,7 +140,7 @@ def collecter_bienici(cfg: dict, connus: set, complet: bool):
     total_global = (requete_bienici(zones, cfg, 0, bas or None, haut).get("total") or 0)
     print(f"  Bien'ici : {total_global} annonces au total pour le département.")
     resultat, filtre_ignore = [], []
- 
+
     def explorer(lo, hi, profondeur):
         if filtre_ignore:
             return
@@ -161,20 +160,20 @@ def collecter_bienici(cfg: dict, connus: set, complet: bool):
             return
         resultat.extend(parcourir(zones, cfg, connus, True, donnees, lo or None, hi))
         time.sleep(PAUSE)
- 
+
     for lo, hi in tranches:
         explorer(lo, hi, 0)
     return resultat
- 
- 
+
+
 # =========================================================================== PAP
 def page_suivante(html: str, url: str):
     soupe = BeautifulSoup(html, "lxml")
     a = soupe.find("a", rel=lambda r: r and "next" in r) or soupe.find(
         "a", string=re.compile(r"^\s*Suivant", re.I))
     return urljoin(url, a["href"]) if a and a.get("href") else None
- 
- 
+
+
 def collecter_pap(urls, connus: set, complet: bool):
     pages_max = 15 if complet else 4
     resultat = []
@@ -193,8 +192,8 @@ def collecter_pap(urls, connus: set, complet: bool):
             url = suivante
             time.sleep(PAUSE)
     return resultat
- 
- 
+
+
 # =========================================================================== principal
 def main():
     cfg = json.loads(CONFIG.read_text(encoding="utf-8")) if CONFIG.exists() else {}
@@ -204,7 +203,7 @@ def main():
     connus = {a["url"] for a in existantes} | {o["url"] for a in existantes for o in a.get("autres", [])}
     maintenant = maintenant_iso()
     print(f"Mode {'complet' if complet else 'rapide'}, {len(existantes)} annonces déjà connues.")
- 
+
     nouvelles, actives, echecs = [], 0, 0
     cfg_bienici = cfg.get("bienici", {})
     if cfg_bienici.get("actif", True):
@@ -224,10 +223,10 @@ def main():
             print("ERREUR PAP :", repr(e))
     else:
         print("PAP ignoré : aucune adresse de recherche dans sources.json.")
- 
+
     if actives and echecs == actives:
         sys.exit("Toutes les sources ont échoué : aucune mise à jour (rien n'est retiré).")
- 
+
     premiere_fois = not existantes
     ajoutees = fusionner(existantes, nouvelles, maintenant)
     print(f"{len(nouvelles)} annonce(s) lue(s), {len(ajoutees)} nouvelle(s).")
@@ -235,9 +234,7 @@ def main():
         print("Fichier mis à jour.")
     if not premiere_fois:  # pas de rafale de notifications au tout premier lancement
         notifier(ajoutees)
- 
- 
+
+
 if __name__ == "__main__":
     main()
- 
-Claude a terminé sa réponse.
