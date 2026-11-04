@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Appartements à vendre dans le Val-d’Oise</title>
+<meta name="description" content="Annonces d’appartements à vendre dans le Val-d’Oise, filtrées par prix et surface.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --fond: #eef2f1;
+    --surface: #ffffff;
+    --encre: #18262b;
+    --discret: #5b6b70;
+    --trait: #d3dcda;
+    --accent: #0f5c5c;
+    --accent-texte: #ffffff;
+    --nouveau: #f2b134;
+    --nouveau-texte: #3a2900;
+    --focus: #0b6bcb;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fond: #11191b;
+      --surface: #192427;
+      --encre: #e7efed;
+      --discret: #9db0b3;
+      --trait: #2c3b3f;
+      --accent: #5fc3bd;
+      --accent-texte: #0b1a1b;
+      --nouveau: #f2b134;
+      --nouveau-texte: #2b1e00;
+      --focus: #7ab8ff;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-padding-top: 1rem; }
+  body {
+    margin: 0;
+    background: var(--fond);
+    color: var(--encre);
+    font: 400 1.0625rem/1.55 "Source Sans 3", system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  :focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
+  .page { max-width: 62rem; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+
+  h1, .prix, .phrase {
+    font-family: "Bricolage Grotesque", "Source Sans 3", system-ui, sans-serif;
+  }
+  h1 { font-size: 1rem; font-weight: 500; margin: 0 0 1rem; color: var(--discret); letter-spacing: 0.01em; }
+
+  /* La phrase est le filtre */
+  .phrase {
+    font-size: clamp(1.6rem, 4.2vw, 2.6rem);
+    line-height: 1.7;
+    font-weight: 500;
+    margin: 0 0 1.5rem;
+    max-width: 22em;
+  }
+  .phrase label { display: inline; }
+  .phrase input {
+    font: inherit;
+    font-weight: 700;
+    width: 5.4em;
+    padding: 0 0.25em;
+    margin: 0 0.1em;
+    color: var(--accent);
+    background: transparent;
+    border: 0;
+    border-bottom: 3px solid var(--accent);
+    border-radius: 0;
+    text-align: center;
+    -moz-appearance: textfield;
+  }
+  .phrase input.court { width: 3.2em; }
+  .phrase input::-webkit-outer-spin-button,
+  .phrase input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+  .phrase input::placeholder { color: var(--discret); font-weight: 500; opacity: 0.7; }
+
+  .barre {
+    display: flex; flex-wrap: wrap; gap: 0.75rem 1.5rem; align-items: center;
+    padding: 0.9rem 0; border-top: 1px solid var(--trait); border-bottom: 1px solid var(--trait);
+    margin-bottom: 1.5rem; color: var(--discret);
+  }
+  .barre strong { color: var(--encre); font-weight: 600; }
+  .barre .espace { flex: 1; }
+  select, .bouton {
+    font: inherit; color: var(--encre); background: var(--surface);
+    border: 1px solid var(--trait); border-radius: 6px; padding: 0.35rem 0.6rem;
+  }
+  .bouton { cursor: pointer; }
+  .bouton:hover { border-color: var(--accent); }
+  .case { display: inline-flex; gap: 0.4rem; align-items: center; cursor: pointer; }
+  .case input { width: 1.05rem; height: 1.05rem; accent-color: var(--accent); }
+
+  ul.liste { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.75rem; }
+  .annonce {
+    display: grid; grid-template-columns: 1fr auto; gap: 0.25rem 1.25rem; align-items: center;
+    background: var(--surface); border: 1px solid var(--trait); border-radius: 10px;
+    padding: 1rem 1.25rem;
+  }
+  .annonce.nouveau { border-left: 6px solid var(--nouveau); }
+  .prix { font-size: 1.6rem; font-weight: 700; line-height: 1.2; }
+  .details { color: var(--discret); }
+  .details b { color: var(--encre); font-weight: 600; }
+  .titre { grid-column: 1; margin: 0; font-size: 0.98rem; color: var(--discret);
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .actions { grid-column: 2; grid-row: 1 / span 3; display: flex; flex-direction: column; gap: 0.4rem; align-items: flex-end; }
+  .voir {
+    display: inline-block; background: var(--accent); color: var(--accent-texte);
+    text-decoration: none; font-weight: 600; padding: 0.55rem 1rem; border-radius: 8px; white-space: nowrap;
+  }
+  .voir:hover { filter: brightness(1.1); }
+  .aussi { font-size: 0.9rem; color: var(--discret); }
+  .aussi a { color: var(--discret); }
+  .badge {
+    display: inline-block; background: var(--nouveau); color: var(--nouveau-texte);
+    font-weight: 600; font-size: 0.85rem; padding: 0.05rem 0.55rem; border-radius: 99px; margin-left: 0.5rem;
+    vertical-align: 0.2em;
+  }
+  .vide { padding: 2.5rem 1rem; text-align: center; color: var(--discret); }
+  .vide strong { display: block; color: var(--encre); font-size: 1.15rem; margin-bottom: 0.3rem; }
+  footer { margin-top: 2.5rem; color: var(--discret); font-size: 0.92rem; }
+  footer a { color: inherit; }
+
+  @media (max-width: 36rem) {
+    .annonce { grid-template-columns: 1fr; }
+    .actions { grid-column: 1; grid-row: auto; flex-direction: row; justify-content: space-between; align-items: center; margin-top: 0.4rem; }
+    .titre { white-space: normal; }
+  }
+</style>
+</head>
+<body>
+<main class="page">
+  <h1>Appartements à vendre dans le Val-d’Oise</h1>
+
+  <p class="phrase">
+    Je cherche entre
+    <label><input id="prixMin" type="number" inputmode="numeric" min="0" step="5000" placeholder="0" aria-label="Prix minimum en euros"></label>
+    et
+    <label><input id="prixMax" type="number" inputmode="numeric" min="0" step="5000" placeholder="∞" aria-label="Prix maximum en euros"></label>
+    €, pour
+    <label><input id="surfMin" class="court" type="number" inputmode="numeric" min="0" step="5" placeholder="0" aria-label="Surface minimum en mètres carrés"></label>
+    à
+    <label><input id="surfMax" class="court" type="number" inputmode="numeric" min="0" step="5" placeholder="∞" aria-label="Surface maximum en mètres carrés"></label>
+    m².
+  </p>
+
+  <div class="barre">
+    <span id="compteur" aria-live="polite"></span>
+    <span class="espace"></span>
+    <label class="case"><input type="checkbox" id="seulNouveau"> Nouveautés seulement</label>
+    <label>Trier par
+      <select id="tri">
+        <option value="recent">les plus récentes</option>
+        <option value="prix">prix croissant</option>
+        <option value="m2">prix au m² croissant</option>
+        <option value="surface">surface décroissante</option>
+      </select>
+    </label>
+    <button class="bouton" id="partager" type="button">Copier le lien de cette recherche</button>
+  </div>
+
+  <ul class="liste" id="liste"></ul>
+
+  <footer>
+    <span id="maj"></span>
+    Les annonces appartiennent à leurs sites d’origine : chaque lien y renvoie.
+  </footer>
+</main>
+
+<script>
+(function () {
+  const $ = (id) => document.getElementById(id);
+  const euro = new Intl.NumberFormat("fr-FR");
+  const champs = { prixMin: "pmin", prixMax: "pmax", surfMin: "smin", surfMax: "smax" };
+  const CLE_VISITE = "annonces95:derniereVisite";
+
+  let annonces = [];
+  const visitePrecedente = Number(localStorage.getItem(CLE_VISITE) || 0);
+
+  // --- Critères : URL d’abord, sinon mémoire du navigateur
+  function lireCriteres() {
+    const params = new URLSearchParams(location.search);
+    const sauvegarde = JSON.parse(localStorage.getItem("annonces95:criteres") || "{}");
+    for (const [id, cle] of Object.entries(champs)) {
+      $(id).value = params.has(cle) ? params.get(cle) : (params.toString() ? "" : (sauvegarde[cle] || ""));
+    }
+    if (params.get("tri")) $("tri").value = params.get("tri");
+    $("seulNouveau").checked = params.get("nouv") === "1";
+  }
+  function ecrireCriteres() {
+    const params = new URLSearchParams();
+    const sauvegarde = {};
+    for (const [id, cle] of Object.entries(champs)) {
+      const v = $(id).value;
+      if (v) { params.set(cle, v); sauvegarde[cle] = v; }
+    }
+    if ($("tri").value !== "recent") params.set("tri", $("tri").value);
+    if ($("seulNouveau").checked) params.set("nouv", "1");
+    localStorage.setItem("annonces95:criteres", JSON.stringify(sauvegarde));
+    const q = params.toString();
+    history.replaceState(null, "", q ? "?" + q : location.pathname);
+  }
+
+  const num = (id) => { const v = parseFloat($(id).value); return isNaN(v) ? null : v; };
+
+  function filtrer() {
+    const pmin = num("prixMin"), pmax = num("prixMax"), smin = num("surfMin"), smax = num("surfMax");
+    const seulNouv = $("seulNouveau").checked;
+    let res = annonces.filter((a) =>
+      (pmin === null || a.prix >= pmin) && (pmax === null || a.prix <= pmax) &&
+      (smin === null || a.surface >= smin) && (smax === null || a.surface <= smax) &&
+      (!seulNouv || Date.parse(a.premier_vu) > visitePrecedente)
+    );
+    const tri = $("tri").value;
+    const m2 = (a) => a.prix / a.surface;
+    if (tri === "prix") res.sort((a, b) => a.prix - b.prix);
+    else if (tri === "m2") res.sort((a, b) => m2(a) - m2(b));
+    else if (tri === "surface") res.sort((a, b) => b.surface - a.surface);
+    else res.sort((a, b) => Date.parse(b.premier_vu) - Date.parse(a.premier_vu));
+    return res;
+  }
+
+  function ilYa(iso) {
+    const h = (Date.now() - Date.parse(iso)) / 36e5;
+    if (h < 1) return "il y a moins d’une heure";
+    if (h < 24) return "il y a " + Math.floor(h) + " h";
+    const j = Math.floor(h / 24);
+    return "il y a " + j + (j > 1 ? " jours" : " jour");
+  }
+
+  function creer(tag, props, ...enfants) {
+    const el = document.createElement(tag);
+    Object.assign(el, props || {});
+    for (const e of enfants) el.append(e);
+    return el;
+  }
+
+  function afficher() {
+    ecrireCriteres();
+    const res = filtrer();
+    const nb = res.length;
+    $("compteur").replaceChildren(
+      creer("strong", {}, String(nb)),
+      " annonce" + (nb > 1 ? "s" : "")
+    );
+    const liste = $("liste");
+    liste.replaceChildren();
+    if (!nb) {
+      liste.append(creer("li", { className: "vide" },
+        creer("strong", {}, annonces.length ? "Aucune annonce ne correspond." : "Aucune annonce pour l’instant."),
+        annonces.length ? "Élargissez la fourchette de prix ou de surface." : "Les premières annonces apparaîtront dès la prochaine collecte."));
+      return;
+    }
+    for (const a of res.slice(0, 300)) {
+      const nouveau = Date.parse(a.premier_vu) > visitePrecedente;
+      const lieu = a.commune ? a.commune + (a.cp ? " (" + a.cp + ")" : "") : (a.cp || "Val-d’Oise");
+      const prixM2 = Math.round(a.prix / a.surface);
+      const prix = creer("div", { className: "prix" }, euro.format(a.prix) + " €");
+      if (nouveau) prix.append(creer("span", { className: "badge" }, "Nouveau"));
+      const details = creer("div", { className: "details" });
+      details.append(creer("b", {}, String(a.surface).replace(".", ",") + " m²"),
+        " · " + euro.format(prixM2) + " €/m² · " + lieu);
+      const actions = creer("div", { className: "actions" },
+        creer("a", { className: "voir", href: a.url, target: "_blank", rel: "noopener noreferrer" }, "Voir sur " + a.source));
+      if (a.autres && a.autres.length) {
+        const aussi = creer("div", { className: "aussi" }, "Aussi sur ");
+        a.autres.forEach((o, i) => {
+          if (i) aussi.append(", ");
+          aussi.append(creer("a", { href: o.url, target: "_blank", rel: "noopener noreferrer" }, o.source));
+        });
+        actions.append(aussi);
+      }
+      liste.append(creer("li", { className: "annonce" + (nouveau ? " nouveau" : "") },
+        prix, details,
+        creer("p", { className: "titre", title: a.titre }, a.titre + " — " + ilYa(a.premier_vu)),
+        actions));
+    }
+  }
+
+  // --- Chargement : annonces du cloud (Bien'ici, PAP) + annonces du domicile (Leboncoin, SeLoger)
+  async function lire(url) {
+    try {
+      const rep = await fetch(url + "?t=" + Date.now(), { cache: "no-store" });
+      return rep.ok ? await rep.json() : { annonces: [], maj: null };
+    } catch (e) { return null; }
+  }
+  function signature(a) { return a.cp ? [a.prix, Math.round(a.surface), a.cp].join("|") : null; }
+  function fusionner(toutes) {
+    const parUrl = new Map(), parSig = new Map(), res = [];
+    for (const a of toutes) {
+      if (parUrl.has(a.url)) continue;
+      const sig = signature(a);
+      const doublon = sig && parSig.get(sig);
+      if (doublon) {
+        doublon.autres = (doublon.autres || []).concat([{ source: a.source, url: a.url }], a.autres || []);
+        parUrl.set(a.url, doublon);
+        continue;
+      }
+      const copie = Object.assign({}, a);
+      res.push(copie);
+      parUrl.set(a.url, copie);
+      if (sig) parSig.set(sig, copie);
+    }
+    return res;
+  }
+  async function charger() {
+    lireCriteres();
+    const [cloud, domicile] = await Promise.all([lire("data/annonces.json"), lire("data/annonces_domicile.json")]);
+    if (cloud === null && domicile === null) {
+      $("liste").replaceChildren(creer("li", { className: "vide" },
+        creer("strong", {}, "Impossible de charger les annonces."),
+        "Rechargez la page dans quelques instants."));
+      return;
+    }
+    const sources = [cloud, domicile].filter(Boolean);
+    annonces = fusionner(sources.flatMap((x) => x.annonces || []));
+    const maj = sources.map((x) => x.maj).filter(Boolean).sort().pop();
+    if (maj) $("maj").textContent = "Dernière mise à jour : " + new Date(maj).toLocaleString("fr-FR", { dateStyle: "short", timeStyle: "short" }) + ". ";
+    afficher();
+    localStorage.setItem(CLE_VISITE, String(Date.now()));
+  }
+
+  for (const id of [...Object.keys(champs), "tri", "seulNouveau"]) {
+    $(id).addEventListener("input", afficher);
+  }
+  $("partager").addEventListener("click", async () => {
+    try { await navigator.clipboard.writeText(location.href); $("partager").textContent = "Lien copié"; }
+    catch { $("partager").textContent = "Copiez l’adresse du navigateur"; }
+    setTimeout(() => ($("partager").textContent = "Copier le lien de cette recherche"), 2000);
+  });
+  charger();
+})();
+</script>
+</body>
+</html>

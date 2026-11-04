@@ -1,0 +1,19 @@
+{
+  "bienici": {
+    "actif": true,
+    "zone_ids": [],
+    "prix_min": null,
+    "prix_max": null,
+    "surface_min": null,
+    "surface_max": null
+  },
+  "pap": [
+    "COLLE ICI L'ADRESSE D'UNE RECHERCHE PAP (appartements à vendre, Val-d'Oise)"
+  ],
+  "leboncoin": [
+    "COLLE ICI L'ADRESSE D'UNE RECHERCHE LEBONCOIN (ventes immobilières, appartements, Val-d'Oise)"
+  ],
+  "seloger": [
+    "COLLE ICI L'ADRESSE D'UNE RECHERCHE SELOGER (achat, appartements, Val-d'Oise)"
+  ]
+}
