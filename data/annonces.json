@@ -1,6 +1,78 @@
 {
- "maj": "2026-11-04T18:35:18+00:00",
+ "maj": "2026-11-04T23:44:34+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag343031-557937170",
+   "source": "Bien'ici",
+   "titre": "T2 À VENDRE SUR ENGHIEN-LES-BAINS",
+   "prix": 200000,
+   "surface": 39.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "54aae8ba1d",
+   "premier_vu": "2026-11-04T23:44:34+00:00",
+   "vu": "2026-11-04"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/netty-company53474tds-appt-9828",
+   "source": "Bien'ici",
+   "titre": "APPARTEMENT 4 PIECES AVEC DEUX PLACES EN SOUS SOL",
+   "prix": 185000,
+   "surface": 64.04,
+   "commune": "Montmagny",
+   "cp": "95360",
+   "id": "c0915003ed",
+   "premier_vu": "2026-11-04T23:44:34+00:00",
+   "vu": "2026-11-04"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1733461",
+   "source": "Bien'ici",
+   "titre": "APPARTEMENT 5 PIÈCES - 90 M² - 2 PLACES DE PARKING",
+   "prix": 325000,
+   "surface": 90.0,
+   "commune": "Montmagny",
+   "cp": "95360",
+   "id": "266a49e30e",
+   "premier_vu": "2026-11-04T23:44:34+00:00",
+   "vu": "2026-11-04"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/bkeys-b8e22dfe-2de4-4196-bad8-e9e496228db2",
+   "source": "Bien'ici",
+   "titre": "Magnifique Duplex T3 de 72 m² avec Terrasse",
+   "prix": 286221,
+   "surface": 72.18,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "420eeea638",
+   "premier_vu": "2026-11-04T23:44:34+00:00",
+   "vu": "2026-11-04"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/bkeys-02f182d2-5aef-418a-b4f5-2e2be2e5d651",
+   "source": "Bien'ici",
+   "titre": "Coup de cœur à Pontoise – Charmant T3 de 50 m² avec parking",
+   "prix": 304600,
+   "surface": 50.18,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "5b2ac09d45",
+   "premier_vu": "2026-11-04T23:44:34+00:00",
+   "vu": "2026-11-04"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2146910",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 209000,
+   "surface": 58.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "005fa0d471",
+   "premier_vu": "2026-11-04T23:44:34+00:00",
+   "vu": "2026-11-04"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag762216-557852375",
    "source": "Bien'ici",
@@ -26289,7 +26361,13 @@
    "cp": "95300",
    "id": "ada7408a8f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-04"
+   "vu": "2026-11-04",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/bkeys-16fabcd2-78ef-4b2c-aa4c-770754f55581"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-5844",
@@ -34521,7 +34599,13 @@
    "cp": "95150",
    "id": "90e321021e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-04"
+   "vu": "2026-11-04",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/dr-house-immo-1-1147288"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/dr-house-immo-1-1137058",
@@ -39653,7 +39737,13 @@
    "cp": "95160",
    "id": "aca9467fc1",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-04"
+   "vu": "2026-11-04",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2147054"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag060811-536066279",
