@@ -1,0 +1,51 @@
+name: Collecte des annonces
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"   # collecte rapide : toutes les 20 minutes (GitHub peut décaler de quelques minutes)
+    - cron: "17 3 * * *"     # collecte complète : chaque nuit, retire aussi les annonces disparues
+  workflow_dispatch:
+    inputs:
+      complet:
+        description: "Parcourir toutes les pages"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: collector/requirements.txt
+
+      - run: pip install -r collector/requirements.txt
+
+      - name: Interroger Bien'ici et PAP
+        env:
+          FULL: ${{ (github.event.schedule == '17 3 * * *' || inputs.complet) && '1' || '' }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python collector/collect_cloud.py
+
+      - name: Publier les changements
+        run: |
+          if [ -n "$(git status --porcelain data/annonces.json)" ]; then
+            git config user.name "collecteur"
+            git config user.email "collecteur@users.noreply.github.com"
+            git add data/annonces.json
+            git commit -m "Mise à jour des annonces"
+            git pull --rebase
+            git push
+          fi
