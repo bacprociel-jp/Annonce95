@@ -1,6 +1,90 @@
 {
- "maj": "2026-11-05T11:09:30+00:00",
+ "maj": "2026-11-05T12:55:25+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5474974",
+   "source": "Bien'ici",
+   "titre": "Appartement Herblay-sur-seine 4 pièce(s) 88.55 m2",
+   "prix": 320000,
+   "surface": 88.55,
+   "commune": "Herblay",
+   "cp": "95220",
+   "id": "22b8849349",
+   "premier_vu": "2026-11-05T12:55:25+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87562512",
+   "source": "Bien'ici",
+   "titre": "MAISON  DE 200 M² - TERRAIN  DE 1 516 M²",
+   "prix": 650000,
+   "surface": 200.0,
+   "commune": "Saint-Witz",
+   "cp": "95470",
+   "id": "9a13f79855",
+   "premier_vu": "2026-11-05T12:55:25+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag951007-558054170",
+   "source": "Bien'ici",
+   "titre": "DANS UNE RESIDENCE CALME APPARTEMENT DUX PIECES",
+   "prix": 150000,
+   "surface": 35.0,
+   "commune": "Hérouville",
+   "cp": "95300",
+   "id": "aeb1781f06",
+   "premier_vu": "2026-11-05T12:55:25+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2027984",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 150000,
+   "surface": 81.01,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "3645a86091",
+   "premier_vu": "2026-11-05T12:55:25+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2130042",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 170000,
+   "surface": 47.3,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "e059268d3e",
+   "premier_vu": "2026-11-05T12:55:25+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2135967",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 185000,
+   "surface": 61.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "354a0efc82",
+   "premier_vu": "2026-11-05T12:55:25+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2150699",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 209000,
+   "surface": 65.83,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "b064af9e2a",
+   "premier_vu": "2026-11-05T12:55:25+00:00",
+   "vu": "2026-11-05"
+  },
   {
    "url": "https://www.bienici.com/annonce/era-2-61709107",
    "source": "Bien'ici",
