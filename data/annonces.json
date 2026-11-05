@@ -1,6 +1,270 @@
 {
- "maj": "2026-11-05T12:55:25+00:00",
+ "maj": "2026-11-05T20:27:45+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-1971194",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 159000,
+   "surface": 38.07,
+   "commune": "Herblay",
+   "cp": "95220",
+   "id": "dbd1487186",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2150547",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 175000,
+   "surface": 52.51,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "5ae5070d53",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2123468",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 230000,
+   "surface": 57.77,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "5726596938",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2152638",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 268000,
+   "surface": 69.84,
+   "commune": "Le Plessis-Bouchard",
+   "cp": "95130",
+   "id": "79ebbeb241",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag754248-558140549",
+   "source": "Bien'ici",
+   "titre": "Duplex lumineux de 3 pièces avec balcon, 2 parking",
+   "prix": 209000,
+   "surface": 69.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "9be9a1f406",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939750090",
+   "source": "Bien'ici",
+   "titre": "Appartement Ermont 4 pièces 79.64 m2 161m² au sol",
+   "prix": 279000,
+   "surface": 79.64,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "f776672ce4",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558115718",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T1 1 pièce(s) à Argenteuil",
+   "prix": 189500,
+   "surface": 27.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "e5767edea3",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558115523",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T2 2 pièce(s) à Saint-Leu-la-Forêt",
+   "prix": 254500,
+   "surface": 41.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "bab3df57ef",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558115346",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T3 3 pièce(s) à Montigny-lès-Cormeilles",
+   "prix": 265400,
+   "surface": 66.0,
+   "commune": "Montigny-lès-Cormeilles",
+   "cp": "95370",
+   "id": "4a22d1b0f6",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558115244",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T2 2 pièce(s) à La Frette-sur-Seine",
+   "prix": 269500,
+   "surface": 41.0,
+   "commune": "La Frette-sur-Seine",
+   "cp": "95530",
+   "id": "7268098e47",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558115727",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T2 2 pièce(s) à Bezons",
+   "prix": 288500,
+   "surface": 43.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "c5eef3167d",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558114452",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T2 2 pièce(s) à Cormeilles-en-Parisis",
+   "prix": 299100,
+   "surface": 59.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "c9781fe5bb",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558114719",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T3 3 pièce(s) à Saint-Leu-la-Forêt",
+   "prix": 347500,
+   "surface": 69.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "79bc847dc7",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558115157",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T3 3 pièce(s) à Cormeilles-en-Parisis",
+   "prix": 452500,
+   "surface": 90.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "5b4571eda8",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558114728",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T5 + 5 pièce(s) à Saint-Leu-la-Forêt",
+   "prix": 544500,
+   "surface": 122.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "2b7aebf426",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558115169",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T4 4 pièce(s) à Cormeilles-en-Parisis",
+   "prix": 598500,
+   "surface": 128.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "3d6ce2ea18",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558087284",
+   "source": "Bien'ici",
+   "titre": "*Charmant studio avec terrasse en coeur de ville*",
+   "prix": 169000,
+   "surface": 28.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "69df911f27",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558087134",
+   "source": "Bien'ici",
+   "titre": "*Charmant 2 pièces avec balcon en coeur de ville*",
+   "prix": 242000,
+   "surface": 38.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "942102dd43",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558086783",
+   "source": "Bien'ici",
+   "titre": "*Charmant 3 pièces avec balcon en coeur de ville*",
+   "prix": 359000,
+   "surface": 62.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "1ec9c5b99b",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558086993",
+   "source": "Bien'ici",
+   "titre": "*Charmant 3 pièces avec terrasse et très grand jardin en coeur de ville*",
+   "prix": 378000,
+   "surface": 62.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "fbf72efcae",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558087743",
+   "source": "Bien'ici",
+   "titre": "*Magnifique 5 pièces Duplex traversant avec terrasses et parking*",
+   "prix": 695000,
+   "surface": 135.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "e13734283f",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558088424",
+   "source": "Bien'ici",
+   "titre": "*Magnifique 5 pièces Duplex traversant avec grande terrasse de 46m2 et parking*",
+   "prix": 698000,
+   "surface": 133.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "eea761cbdf",
+   "premier_vu": "2026-11-05T20:27:45+00:00",
+   "vu": "2026-11-05"
+  },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5474974",
    "source": "Bien'ici",
@@ -29153,7 +29417,13 @@
    "cp": "95120",
    "id": "72f35b47cd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-05",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/nestenn-1-99939797133"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-AGENCE-CENTRALE-ARTHURIMMO-COM-5954",
@@ -37321,7 +37591,13 @@
    "cp": "95480",
    "id": "387f6edfbd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-05",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/apimo-87563086"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/era-2-61552947",
@@ -38401,7 +38677,13 @@
    "cp": "95870",
    "id": "c96749993e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-05",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558088631"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5444744",
