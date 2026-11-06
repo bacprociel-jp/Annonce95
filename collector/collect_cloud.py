@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Collecteur cloud (GitHub Actions) : interroge directement Bien'ici et PAP.
+"""Collecteur cloud (GitHub Actions) : interroge directement Bien'ici.
+PAP, Leboncoin et SeLoger bloquent les serveurs : ils sont lus par collect_home.py.
 
 Écrit data/annonces.json. Les adresses de recherche viennent de sources.json.
 Variables d'environnement facultatives :
@@ -9,16 +10,12 @@ Variables d'environnement facultatives :
 """
 import json
 import os
-import re
 import sys
 import time
 import urllib.request
-from urllib.parse import quote, urljoin
+from urllib.parse import quote
 
-from bs4 import BeautifulSoup
-
-from common import (RACINE, charger, extraire_annonces, fusionner, maintenant_iso, notifier,
-                    sauver)
+from common import RACINE, charger, fusionner, maintenant_iso, notifier, sauver
 
 DATA = RACINE / "data" / "annonces.json"
 CONFIG = RACINE / "sources.json"
@@ -166,34 +163,6 @@ def collecter_bienici(cfg: dict, connus: set, complet: bool):
     return resultat
 
 
-# =========================================================================== PAP
-def page_suivante(html: str, url: str):
-    soupe = BeautifulSoup(html, "lxml")
-    a = soupe.find("a", rel=lambda r: r and "next" in r) or soupe.find(
-        "a", string=re.compile(r"^\s*Suivant", re.I))
-    return urljoin(url, a["href"]) if a and a.get("href") else None
-
-
-def collecter_pap(urls, connus: set, complet: bool):
-    pages_max = 15 if complet else 4
-    resultat = []
-    for depart in urls:
-        url = depart
-        for _ in range(pages_max):
-            html = http_get(url)
-            page = extraire_annonces(html, "PAP", base=url, motif="/annonce/")
-            print(f"  PAP : {len(page)} annonces sur {url[:90]}")
-            resultat.extend(page)
-            if not complet and page and not any(a["url"] not in connus for a in page):
-                break
-            suivante = page_suivante(html, url)
-            if not suivante or suivante == url:
-                break
-            url = suivante
-            time.sleep(PAUSE)
-    return resultat
-
-
 # =========================================================================== principal
 def main():
     cfg = json.loads(CONFIG.read_text(encoding="utf-8")) if CONFIG.exists() else {}
@@ -213,16 +182,6 @@ def main():
         except Exception as e:
             echecs += 1
             print("ERREUR Bien'ici :", repr(e))
-    urls_pap = [u for u in cfg.get("pap", []) if u.startswith("http")]
-    if urls_pap:
-        actives += 1
-        try:
-            nouvelles += collecter_pap(urls_pap, connus, complet)
-        except Exception as e:
-            echecs += 1
-            print("ERREUR PAP :", repr(e))
-    else:
-        print("PAP ignoré : aucune adresse de recherche dans sources.json.")
 
     if actives and echecs == actives:
         sys.exit("Toutes les sources ont échoué : aucune mise à jour (rien n'est retiré).")

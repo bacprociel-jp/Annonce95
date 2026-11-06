@@ -117,6 +117,14 @@ def extraire_annonces(html: str, source: str, base: str | None = None, motif: st
     return resultats
 
 
+def page_suivante(html: str, url: str):
+    """Adresse de la page de résultats suivante, si elle existe."""
+    soupe = BeautifulSoup(html, "lxml")
+    a = soupe.find("a", rel=lambda r: r and "next" in r) or soupe.find(
+        "a", string=re.compile(r"^\s*Suivant", re.I))
+    return urljoin(url, a["href"]) if a and a.get("href") else None
+
+
 # --------------------------------------------------------------------------- fusion
 def signature(a) -> str | None:
     """Même bien publié sur plusieurs sites : même prix, même surface, même code postal."""

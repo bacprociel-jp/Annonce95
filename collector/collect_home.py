@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Collecteur domicile : lit Leboncoin et SeLoger avec un vrai Chrome, depuis ta connexion Internet.
+"""Collecteur domicile : lit PAP, Leboncoin et SeLoger avec un vrai Chrome, depuis ta connexion Internet.
 
 Pourquoi chez toi ? Ces deux sites bloquent les serveurs (dont GitHub Actions) mais acceptent
 en général un navigateur normal sur une connexion domestique.
@@ -24,7 +24,7 @@ from bs4 import BeautifulSoup
 from playwright.sync_api import sync_playwright
 
 from common import (RACINE, charger, extraire_annonces, fusionner, maintenant_iso, nettoyer_url,
-                    notifier, sauver)
+                    notifier, page_suivante, sauver)
 
 DATA = RACINE / "data" / "annonces_domicile.json"
 CONFIG = RACINE / "sources.json"
@@ -99,7 +99,9 @@ def avec_page(url: str, n: int) -> str:
 
 
 def bloque(page) -> bool:
-    return "captcha-delivery.com" in page.content() or "captcha" in page.url.lower()
+    contenu = page.content().lower()
+    return ("captcha-delivery.com" in contenu or "captcha" in page.url.lower()
+            or ("just a moment" in contenu and "cloudflare" in contenu))
 
 
 def ouvrir(page, url: str, sans_fenetre: bool) -> str:
@@ -132,6 +134,26 @@ def collecter_leboncoin(page, urls, connus, complet, sans_fenetre):
             res.extend(annonces)
             if not annonces or (not complet and not any(a["url"] not in connus for a in annonces)):
                 break
+            time.sleep(random.uniform(3, 7))
+    return res
+
+
+def collecter_pap(page, urls, connus, complet, sans_fenetre):
+    pages_max = 15 if complet else 3
+    res = []
+    for depart in urls:
+        url = depart
+        for _ in range(pages_max):
+            html = ouvrir(page, url, sans_fenetre)
+            annonces = extraire_annonces(html, "PAP", base=url, motif="/annonce/")
+            print(f"  PAP : {len(annonces)} annonces sur {url[:90]}")
+            res.extend(annonces)
+            if not annonces or (not complet and not any(a["url"] not in connus for a in annonces)):
+                break
+            suivante = page_suivante(html, url)
+            if not suivante or suivante == url:
+                break
+            url = suivante
             time.sleep(random.uniform(3, 7))
     return res
 
@@ -173,10 +195,11 @@ def main():
     args = ap.parse_args()
 
     cfg = json.loads(CONFIG.read_text(encoding="utf-8")) if CONFIG.exists() else {}
+    urls_pap = [u for u in cfg.get("pap", []) if u.startswith("http")]
     urls_lbc = [u for u in cfg.get("leboncoin", []) if u.startswith("http")]
     urls_sl = [u for u in cfg.get("seloger", []) if u.startswith("http")]
-    if not (urls_lbc or urls_sl):
-        sys.exit("Aucune adresse Leboncoin ou SeLoger dans sources.json.")
+    if not (urls_pap or urls_lbc or urls_sl):
+        sys.exit("Aucune adresse PAP, Leboncoin ou SeLoger dans sources.json.")
 
     existantes = charger(DATA)
     avant = json.dumps(existantes, sort_keys=True)
@@ -192,6 +215,7 @@ def main():
         )
         page = ctx.pages[0] if ctx.pages else ctx.new_page()
         for nom, fonction, urls in (
+            ("PAP", lambda u: collecter_pap(page, u, connus, args.complet, args.headless), urls_pap),
             ("Leboncoin", lambda u: collecter_leboncoin(page, u, connus, args.complet, args.headless), urls_lbc),
             ("SeLoger", lambda u: collecter_seloger(page, u, args.headless), urls_sl),
         ):
