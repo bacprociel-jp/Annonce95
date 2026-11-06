@@ -1,6 +1,294 @@
 {
- "maj": "2026-11-06T11:06:44+00:00",
+ "maj": "2026-11-06T15:48:15+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/eiffage-immobilier-6593-6593",
+   "source": "Bien'ici",
+   "titre": "Clos Des Bleuets BRS",
+   "prix": 147000,
+   "surface": 34.95,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "893ad182e7",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558340937",
+   "source": "Bien'ici",
+   "titre": "T2 – 45 M² – BALCON",
+   "prix": 212900,
+   "surface": 45.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "0377bf17d3",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558339929",
+   "source": "Bien'ici",
+   "titre": "T2 – 42,8 M² AVEC LOGGIA",
+   "prix": 236000,
+   "surface": 42.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "2566a2e1cd",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87565899",
+   "source": "Bien'ici",
+   "titre": "T3 TRAVERSANT TERRASSE PARKING",
+   "prix": 242000,
+   "surface": 60.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "id": "0e07822a22",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6892",
+   "source": "Bien'ici",
+   "titre": "Superbe appartement F3 en duplex avec Spacieuse terrasse ple",
+   "prix": 229900,
+   "surface": 61.97,
+   "commune": "Courdimanche",
+   "cp": "95800",
+   "id": "68ac941234",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87565745",
+   "source": "Bien'ici",
+   "titre": "4 PIECES SUD EST OUEST DERNIER ETAGE TERRASSES ET PARKING",
+   "prix": 360000,
+   "surface": 88.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "id": "a9f4864de0",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2153435",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 230000,
+   "surface": 77.57,
+   "commune": "Sannois",
+   "cp": "95110",
+   "id": "1c346dd390",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2151532",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 249000,
+   "surface": 43.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "3fe3230341",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558324125",
+   "source": "Bien'ici",
+   "titre": "OPPORTUNITÉ À SAISIR – 4 PIÈCES EN REZ-DE-JARDIN – GARE À 6 MIN À PIED – TERRASSE – 2 PARKINGS",
+   "prix": 450000,
+   "surface": 95.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "d33198b35b",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1731969",
+   "source": "Bien'ici",
+   "titre": "F3",
+   "prix": 184500,
+   "surface": 57.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "0e52a87bc6",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5473274",
+   "source": "Bien'ici",
+   "titre": "Appartement Franconville 4 pièce(s) 63.45 m2",
+   "prix": 139000,
+   "surface": 63.45,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "daef050205",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952031-558317528",
+   "source": "Bien'ici",
+   "titre": "CERGY PRÉFECTURE – GRAND STUDIO MEUBLÉ AVEC TERRASSE ET PARKING",
+   "prix": 140000,
+   "surface": 27.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "34880b2d18",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952031-558318758",
+   "source": "Bien'ici",
+   "titre": "À VENDRE – BEL F2 AVEC GRANDE TERRASSE – PONTOISE, BORDS DE L'OISE",
+   "prix": 220000,
+   "surface": 52.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "2dd6305b03",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-IMMODEUX2020-680",
+   "source": "Bien'ici",
+   "titre": "Studio   Centre d'Enghien-les-Bains",
+   "prix": 179000,
+   "surface": 37.32,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "b94a841ad3",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558297902",
+   "source": "Bien'ici",
+   "titre": "OPPORTUNITÉ À SAISIR – 2 PIÈCES – GARE À 6 MIN À PIED – PARKING",
+   "prix": 306000,
+   "surface": 53.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "56450b41e7",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558300752",
+   "source": "Bien'ici",
+   "titre": "SUPERBE 4 PIÈCES – PROCHE GARE – BALCON – PARKING",
+   "prix": 335000,
+   "surface": 81.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "a1f31310b8",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558300782",
+   "source": "Bien'ici",
+   "titre": "SUPERBE 4 PIÈCES AU 5E ÉTAGE – PROCHE GARE – BALCON – PARKING",
+   "prix": 345000,
+   "surface": 81.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "c2b4049add",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558300893",
+   "source": "Bien'ici",
+   "titre": "SUPERBE 4 PIÈCES DUPLEX – TRAM T2 À PROXIMITÉ IMMÉDIATE – 2 TERRASSES – PARKING ET CAVE",
+   "prix": 377000,
+   "surface": 80.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "15fc8ddcd3",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558297980",
+   "source": "Bien'ici",
+   "titre": "OPPORTUNITÉ À SAISIR – 3 PIÈCES – GARE À 6 MIN À PIED – LOGGIA D'ENVIRON 15 M² – PARKING",
+   "prix": 379000,
+   "surface": 68.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "113e432cd9",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558298061",
+   "source": "Bien'ici",
+   "titre": "OPPORTUNITÉ À SAISIR – 3 PIÈCES – GARE À 6 MIN À PIED – LOGGIA D'ENVIRON 15 M² – PARKING",
+   "prix": 385000,
+   "surface": 70.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "55c973f7b5",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558299912",
+   "source": "Bien'ici",
+   "titre": "SUPERBE 4 PIÈCES – GARE À 6 MIN À PIED – TERRASSE – 2 PARKINGS",
+   "prix": 449000,
+   "surface": 95.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "8953c033d3",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558300851",
+   "source": "Bien'ici",
+   "titre": "EXCEPTION – 4 PIÈCES – DERNIER ÉTAGE – PROCHE GARE – MAGNIFIQUE TERRASSE – 2 PARKINGS",
+   "prix": 453000,
+   "surface": 105.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "5abe4dba11",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2153754",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 229000,
+   "surface": 47.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "d7aeb8b74a",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2153757",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 260000,
+   "surface": 64.0,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "e75f55cad8",
+   "premier_vu": "2026-11-06T15:48:15+00:00",
+   "vu": "2026-11-06"
+  },
   {
    "url": "https://www.bienici.com/annonce/gedeon-34173845",
    "source": "Bien'ici",
@@ -15067,7 +15355,13 @@
    "cp": "95200",
    "id": "e5bae2683d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-06",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61715689"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag951353-549408128",
@@ -15235,7 +15529,13 @@
    "cp": "95170",
    "id": "a9be1be33b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-06",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag440414-558296528"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_811_677776",
@@ -15577,7 +15877,13 @@
    "cp": "95140",
    "id": "7f66da952e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-06",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61715714"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-62710",
@@ -30819,7 +31125,17 @@
    "cp": "95320",
    "id": "6bad2136af",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag951686-558304880"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag951686-558304889"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2026885",
@@ -42687,7 +43003,13 @@
    "cp": "95100",
    "id": "57a31da162",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-06",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61716374"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-2582",
