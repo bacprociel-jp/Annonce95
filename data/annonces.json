@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-05T20:27:45+00:00",
+ "maj": "2026-11-06T01:06:26+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/netty-company53474tds-appt-9826",
+   "source": "Bien'ici",
+   "titre": "Eaubonne 95600 – F2 dernier étage, résidence 2017, parking",
+   "prix": 218000,
+   "surface": 40.39,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "503206ac3c",
+   "premier_vu": "2026-11-06T01:06:26+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/netty-company53474tds-appt-9818",
+   "source": "Bien'ici",
+   "titre": "Saint-Leu-la-Forêt – T3 exposé plein sud avec loggia et park",
+   "prix": 241500,
+   "surface": 58.43,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "bdc98391da",
+   "premier_vu": "2026-11-06T01:06:26+00:00",
+   "vu": "2026-11-06"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1971194",
    "source": "Bien'ici",
@@ -11,7 +35,7 @@
    "cp": "95220",
    "id": "dbd1487186",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2150547",
@@ -23,7 +47,7 @@
    "cp": "95320",
    "id": "5ae5070d53",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2123468",
@@ -35,7 +59,7 @@
    "cp": "95800",
    "id": "5726596938",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2152638",
@@ -47,7 +71,7 @@
    "cp": "95130",
    "id": "79ebbeb241",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag754248-558140549",
@@ -59,7 +83,7 @@
    "cp": "95800",
    "id": "9be9a1f406",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939750090",
@@ -71,7 +95,7 @@
    "cp": "95120",
    "id": "f776672ce4",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558115718",
@@ -83,7 +107,7 @@
    "cp": "95100",
    "id": "e5767edea3",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558115523",
@@ -95,7 +119,7 @@
    "cp": "95320",
    "id": "bab3df57ef",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558115346",
@@ -107,7 +131,7 @@
    "cp": "95370",
    "id": "4a22d1b0f6",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558115244",
@@ -119,7 +143,7 @@
    "cp": "95530",
    "id": "7268098e47",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558115727",
@@ -131,7 +155,7 @@
    "cp": "95870",
    "id": "c5eef3167d",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558114452",
@@ -143,7 +167,7 @@
    "cp": "95240",
    "id": "c9781fe5bb",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558114719",
@@ -155,7 +179,7 @@
    "cp": "95320",
    "id": "79bc847dc7",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558115157",
@@ -167,7 +191,7 @@
    "cp": "95240",
    "id": "5b4571eda8",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558114728",
@@ -179,7 +203,7 @@
    "cp": "95320",
    "id": "2b7aebf426",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag933595-558115169",
@@ -191,7 +215,7 @@
    "cp": "95240",
    "id": "3d6ce2ea18",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558087284",
@@ -203,7 +227,7 @@
    "cp": "95240",
    "id": "69df911f27",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558087134",
@@ -215,7 +239,7 @@
    "cp": "95240",
    "id": "942102dd43",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558086783",
@@ -227,7 +251,7 @@
    "cp": "95240",
    "id": "1ec9c5b99b",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558086993",
@@ -239,7 +263,7 @@
    "cp": "95240",
    "id": "fbf72efcae",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558087743",
@@ -251,7 +275,7 @@
    "cp": "95240",
    "id": "e13734283f",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558088424",
@@ -263,7 +287,7 @@
    "cp": "95240",
    "id": "eea761cbdf",
    "premier_vu": "2026-11-05T20:27:45+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5474974",
@@ -275,7 +299,7 @@
    "cp": "95220",
    "id": "22b8849349",
    "premier_vu": "2026-11-05T12:55:25+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87562512",
@@ -287,7 +311,7 @@
    "cp": "95470",
    "id": "9a13f79855",
    "premier_vu": "2026-11-05T12:55:25+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag951007-558054170",
@@ -299,7 +323,7 @@
    "cp": "95300",
    "id": "aeb1781f06",
    "premier_vu": "2026-11-05T12:55:25+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2027984",
@@ -311,7 +335,7 @@
    "cp": "95200",
    "id": "3645a86091",
    "premier_vu": "2026-11-05T12:55:25+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2130042",
@@ -323,7 +347,7 @@
    "cp": "95000",
    "id": "e059268d3e",
    "premier_vu": "2026-11-05T12:55:25+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2135967",
@@ -335,7 +359,7 @@
    "cp": "95800",
    "id": "354a0efc82",
    "premier_vu": "2026-11-05T12:55:25+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2150699",
@@ -347,7 +371,7 @@
    "cp": "95130",
    "id": "b064af9e2a",
    "premier_vu": "2026-11-05T12:55:25+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/era-2-61709107",
@@ -359,7 +383,7 @@
    "cp": "95100",
    "id": "5f44a4956c",
    "premier_vu": "2026-11-05T11:09:30+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5249964",
@@ -383,7 +407,7 @@
    "cp": "95290",
    "id": "6f27d1f1dc",
    "premier_vu": "2026-11-05T04:53:37+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag343031-557937170",
@@ -395,7 +419,7 @@
    "cp": "95880",
    "id": "54aae8ba1d",
    "premier_vu": "2026-11-04T23:44:34+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/netty-company53474tds-appt-9828",
@@ -407,7 +431,7 @@
    "cp": "95360",
    "id": "c0915003ed",
    "premier_vu": "2026-11-04T23:44:34+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1733461",
@@ -419,7 +443,7 @@
    "cp": "95360",
    "id": "266a49e30e",
    "premier_vu": "2026-11-04T23:44:34+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/bkeys-b8e22dfe-2de4-4196-bad8-e9e496228db2",
@@ -455,7 +479,7 @@
    "cp": "95560",
    "id": "005fa0d471",
    "premier_vu": "2026-11-04T23:44:34+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag762216-557852375",
@@ -467,7 +491,7 @@
    "cp": "95000",
    "id": "09da67294f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2049515",
@@ -479,7 +503,7 @@
    "cp": "95160",
    "id": "2a1de5bddf",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2136166",
@@ -491,7 +515,7 @@
    "cp": "95320",
    "id": "7baa4fc859",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2135678",
@@ -503,7 +527,7 @@
    "cp": "95000",
    "id": "d5e0ae3d33",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2060636",
@@ -515,7 +539,7 @@
    "cp": "95800",
    "id": "f8a6f3bcd3",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2145919",
@@ -527,7 +551,7 @@
    "cp": "95100",
    "id": "e89c05e208",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2148934",
@@ -539,7 +563,7 @@
    "cp": "95570",
    "id": "7b321402db",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2114871",
@@ -551,7 +575,7 @@
    "cp": "95380",
    "id": "2b66a3b1f7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2150140",
@@ -563,7 +587,7 @@
    "cp": "95520",
    "id": "aa5d633f04",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2045915",
@@ -575,7 +599,7 @@
    "cp": "95420",
    "id": "0b91309e0a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2098107",
@@ -587,7 +611,7 @@
    "cp": "95000",
    "id": "e6b5ad330d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2082739",
@@ -599,7 +623,7 @@
    "cp": "95160",
    "id": "c9f096244e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2148497",
@@ -611,7 +635,7 @@
    "cp": "95150",
    "id": "75af8f3e93",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2081239",
@@ -623,7 +647,7 @@
    "cp": "95160",
    "id": "2ffe9326e9",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2140369",
@@ -635,7 +659,7 @@
    "cp": "95200",
    "id": "280a157e94",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2115820",
@@ -647,7 +671,7 @@
    "cp": "95300",
    "id": "cec66dd30b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2081913",
@@ -659,7 +683,7 @@
    "cp": "95100",
    "id": "ad2970e4d9",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2120741",
@@ -671,7 +695,7 @@
    "cp": "95220",
    "id": "baf98d7260",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag757026-557710784",
@@ -1763,7 +1787,7 @@
    "cp": "95190",
    "id": "64341715d7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/netty-company40603xwj-appt-1956",
@@ -1775,7 +1799,7 @@
    "cp": "95210",
    "id": "de525a20d3",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag762216-557851433",
@@ -1787,7 +1811,7 @@
    "cp": "95000",
    "id": "5ee04af822",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1730711",
@@ -1799,7 +1823,7 @@
    "cp": "95100",
    "id": "287e33bfbb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939776920",
@@ -1811,7 +1835,7 @@
    "cp": "95300",
    "id": "2f456d4988",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1916961",
@@ -1823,7 +1847,7 @@
    "cp": "95300",
    "id": "bd5cf2acdf",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2063732",
@@ -1835,7 +1859,7 @@
    "cp": "95310",
    "id": "5faa740cdd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2100009",
@@ -1847,7 +1871,7 @@
    "cp": "95640",
    "id": "ecac6f6f1d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2055765",
@@ -1859,7 +1883,7 @@
    "cp": "95270",
    "id": "0520d94296",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2111756",
@@ -1871,7 +1895,7 @@
    "cp": "95140",
    "id": "c7b400345b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2112583",
@@ -1883,7 +1907,7 @@
    "cp": "95180",
    "id": "ee6b286c76",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2099578",
@@ -1895,7 +1919,7 @@
    "cp": "95140",
    "id": "48a3210ca1",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2088312",
@@ -1907,7 +1931,7 @@
    "cp": "95360",
    "id": "57d8df6fca",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2064006",
@@ -1919,7 +1943,7 @@
    "cp": "95380",
    "id": "15f5fa1baf",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2144062",
@@ -1931,7 +1955,7 @@
    "cp": "95260",
    "id": "38f6781914",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2143926",
@@ -1943,7 +1967,7 @@
    "cp": "95190",
    "id": "dfe94ef9a7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2070845",
@@ -1955,7 +1979,7 @@
    "cp": "95220",
    "id": "4ff3b46e59",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2144031",
@@ -1967,7 +1991,7 @@
    "cp": "95500",
    "id": "c1a3baa378",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2081558",
@@ -1979,7 +2003,7 @@
    "cp": "95480",
    "id": "0ceb12ad2d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2070710",
@@ -1991,7 +2015,7 @@
    "cp": "95200",
    "id": "58ccc1f1df",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2098194",
@@ -2003,7 +2027,7 @@
    "cp": "95700",
    "id": "65bab44166",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2130221",
@@ -2015,7 +2039,7 @@
    "cp": "95140",
    "id": "07fec77adb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2046719",
@@ -2027,7 +2051,7 @@
    "cp": "95120",
    "id": "ac4a91a6de",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2150795",
@@ -2039,7 +2063,7 @@
    "cp": "95560",
    "id": "58168d4e31",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2059058",
@@ -2051,7 +2075,7 @@
    "cp": "95150",
    "id": "febc853b93",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2090911",
@@ -2063,7 +2087,7 @@
    "cp": "95220",
    "id": "81fb5683dd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2126741",
@@ -2075,7 +2099,7 @@
    "cp": "95440",
    "id": "6a03400697",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2046016",
@@ -2087,7 +2111,7 @@
    "cp": "95340",
    "id": "2cc76c1816",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2136827",
@@ -2099,7 +2123,7 @@
    "cp": "95360",
    "id": "24b26cd18d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2141539",
@@ -2111,7 +2135,7 @@
    "cp": "95350",
    "id": "f6e06fd543",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2095352",
@@ -2123,7 +2147,7 @@
    "cp": "95200",
    "id": "4215e99cad",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1951815",
@@ -2135,7 +2159,7 @@
    "cp": "95300",
    "id": "53754249e6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2001734",
@@ -2147,7 +2171,7 @@
    "cp": "95100",
    "id": "9ecb0f3edf",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2144385",
@@ -2159,7 +2183,7 @@
    "cp": "95100",
    "id": "97a719eb80",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2177,7 +2201,7 @@
    "cp": "95150",
    "id": "74dbbd96dd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2137637",
@@ -2189,7 +2213,7 @@
    "cp": "95190",
    "id": "73f2d40a1c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2130728",
@@ -2201,7 +2225,7 @@
    "cp": "95100",
    "id": "11ba72ee1f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2143155",
@@ -2213,7 +2237,7 @@
    "cp": "95220",
    "id": "a9cddf309a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2148476",
@@ -2225,7 +2249,7 @@
    "cp": "95150",
    "id": "f7d114a70d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2103718",
@@ -2237,7 +2261,7 @@
    "cp": "95200",
    "id": "4a70c328a6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2052672",
@@ -2249,7 +2273,7 @@
    "cp": "95200",
    "id": "26b784e2c2",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2267,7 +2291,7 @@
    "cp": "95340",
    "id": "a4d0a29a12",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2097551",
@@ -2279,7 +2303,7 @@
    "cp": "95420",
    "id": "1ea2b940cf",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2297,7 +2321,7 @@
    "cp": "95240",
    "id": "076bc2e677",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2052113",
@@ -2309,7 +2333,7 @@
    "cp": "95870",
    "id": "e22b97144b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2062528",
@@ -2321,7 +2345,7 @@
    "cp": "95220",
    "id": "37de6987f5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2125559",
@@ -2333,7 +2357,7 @@
    "cp": "95400",
    "id": "d1759c0841",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2138925",
@@ -2345,7 +2369,7 @@
    "cp": "95200",
    "id": "79075f58b5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2148484",
@@ -2357,7 +2381,7 @@
    "cp": "95150",
    "id": "debaf4f4e1",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2127412",
@@ -2369,7 +2393,7 @@
    "cp": "95100",
    "id": "a10161770e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2046063",
@@ -2381,7 +2405,7 @@
    "cp": "95310",
    "id": "c960b5f482",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2133596",
@@ -2393,7 +2417,7 @@
    "cp": "95260",
    "id": "1a46bbc957",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2122579",
@@ -2405,7 +2429,7 @@
    "cp": "95870",
    "id": "e52447dace",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2129908",
@@ -2417,7 +2441,7 @@
    "cp": "95210",
    "id": "33f7e18e24",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2089360",
@@ -2429,7 +2453,7 @@
    "cp": "95260",
    "id": "ab45f1bc23",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2110836",
@@ -2441,7 +2465,7 @@
    "cp": "95170",
    "id": "7b1678a6cb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2062559",
@@ -2453,7 +2477,7 @@
    "cp": "95220",
    "id": "169e050e63",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2079713",
@@ -2465,7 +2489,7 @@
    "cp": "95260",
    "id": "fddcb6a37f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2072769",
@@ -2477,7 +2501,7 @@
    "cp": "95300",
    "id": "70e2f38443",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2077228",
@@ -2489,7 +2513,7 @@
    "cp": "95140",
    "id": "924cb21a9b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2048850",
@@ -2501,7 +2525,7 @@
    "cp": "95400",
    "id": "4a6d95c95b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2108010",
@@ -2513,7 +2537,7 @@
    "cp": "95310",
    "id": "aa7191c34b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2531,7 +2555,7 @@
    "cp": "95540",
    "id": "97cee696ad",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2123099",
@@ -2543,7 +2567,7 @@
    "cp": "95480",
    "id": "c51721bae6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2134638",
@@ -2555,7 +2579,7 @@
    "cp": "95380",
    "id": "929efb3764",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2064983",
@@ -2567,7 +2591,7 @@
    "cp": "95870",
    "id": "8490743a25",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2150108",
@@ -2579,7 +2603,7 @@
    "cp": "95150",
    "id": "3ed9048d15",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2052808",
@@ -2591,7 +2615,7 @@
    "cp": "95310",
    "id": "8721cda221",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2068161",
@@ -2603,7 +2627,7 @@
    "cp": "95140",
    "id": "1ee2b7b67e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2099921",
@@ -2615,7 +2639,7 @@
    "cp": "95420",
    "id": "863fdf9d97",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2120716",
@@ -2627,7 +2651,7 @@
    "cp": "95460",
    "id": "5f1f69fc73",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2045970",
@@ -2639,7 +2663,7 @@
    "cp": "95300",
    "id": "164ff3063b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2019558",
@@ -2651,7 +2675,7 @@
    "cp": "95590",
    "id": "0157e064a2",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2135490",
@@ -2663,7 +2687,7 @@
    "cp": "95370",
    "id": "d4efdf2d13",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2147740",
@@ -2675,7 +2699,7 @@
    "cp": "95400",
    "id": "bb37b58e56",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2120820",
@@ -2687,7 +2711,7 @@
    "cp": "95320",
    "id": "837892a41f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2136832",
@@ -2699,7 +2723,7 @@
    "cp": "95150",
    "id": "1d1bad40d5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2115673",
@@ -2711,7 +2735,7 @@
    "cp": "95340",
    "id": "101ca1b687",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2097122",
@@ -2723,7 +2747,7 @@
    "cp": "95100",
    "id": "dd29990371",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2071022",
@@ -2735,7 +2759,7 @@
    "cp": "95300",
    "id": "d99212e390",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2134054",
@@ -2747,7 +2771,7 @@
    "cp": "95270",
    "id": "bbd66fdca6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2105552",
@@ -2759,7 +2783,7 @@
    "cp": "95870",
    "id": "63e6c03f4b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -2777,7 +2801,7 @@
    "cp": "95400",
    "id": "e265afd07c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2118150",
@@ -2789,7 +2813,7 @@
    "cp": "95400",
    "id": "9f6b685d30",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2136765",
@@ -2801,7 +2825,7 @@
    "cp": "95610",
    "id": "cec6f1cc46",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2055205",
@@ -2813,7 +2837,7 @@
    "cp": "95200",
    "id": "8310c9db54",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2107323",
@@ -2825,7 +2849,7 @@
    "cp": "95330",
    "id": "1a798c37ff",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2110592",
@@ -2837,7 +2861,7 @@
    "cp": "95300",
    "id": "c8e31f451f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2110168",
@@ -2849,7 +2873,7 @@
    "cp": "95310",
    "id": "d13d06fccb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2047562",
@@ -2861,7 +2885,7 @@
    "cp": "95100",
    "id": "7502cd1029",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCYAL281474977545821",
@@ -2957,7 +2981,7 @@
    "cp": "95280",
    "id": "f279d9eabb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ag603844-557598065",
@@ -7683,7 +7707,7 @@
    "cp": "95110",
    "id": "a84bb63c11",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5478484",
@@ -7695,7 +7719,7 @@
    "cp": "95190",
    "id": "5a7c1eb323",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-1339_EXPERTIMO22-328690",
@@ -7707,7 +7731,7 @@
    "cp": "95120",
    "id": "ce13012f38",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61706947",
@@ -7719,7 +7743,7 @@
    "cp": "95360",
    "id": "b23ec328b8",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/eiffage-6222-6222_1P_D2-004",
@@ -7731,7 +7755,7 @@
    "cp": "95250",
    "id": "86a75981a6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -7749,7 +7773,7 @@
    "cp": "95200",
    "id": "e5d9d05257",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2151898",
@@ -7761,7 +7785,7 @@
    "cp": "95400",
    "id": "b77b76edce",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2147838",
@@ -7773,7 +7797,7 @@
    "cp": "95150",
    "id": "29e057caee",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2152234",
@@ -7785,7 +7809,7 @@
    "cp": "95340",
    "id": "ef12253e38",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -7803,7 +7827,7 @@
    "cp": "95130",
    "id": "a2794a7d46",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1999852",
@@ -7815,7 +7839,7 @@
    "cp": "95360",
    "id": "f83cc4b0a2",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2134476",
@@ -7827,7 +7851,7 @@
    "cp": "95000",
    "id": "9bc1d6d3bc",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2145243",
@@ -7839,7 +7863,7 @@
    "cp": "95500",
    "id": "c40939f7da",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2098790",
@@ -7851,7 +7875,7 @@
    "cp": "95640",
    "id": "d114cb686d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2051266",
@@ -7863,7 +7887,7 @@
    "cp": "95000",
    "id": "b6f97b654a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2047393",
@@ -7875,7 +7899,7 @@
    "cp": "95300",
    "id": "33db665998",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -7893,7 +7917,7 @@
    "cp": "95100",
    "id": "86f6d6ff53",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2084702",
@@ -7905,7 +7929,7 @@
    "cp": "95680",
    "id": "d5bdbd56ee",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2133554",
@@ -7917,7 +7941,7 @@
    "cp": "95490",
    "id": "c89d3e48c4",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1987323",
@@ -7929,7 +7953,7 @@
    "cp": "95150",
    "id": "c051b77c09",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -7947,7 +7971,7 @@
    "cp": "95170",
    "id": "21bc5aba0b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2098389",
@@ -7959,7 +7983,7 @@
    "cp": "95230",
    "id": "4cee8b8e28",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2108020",
@@ -7971,7 +7995,7 @@
    "cp": "95380",
    "id": "87455ef638",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2025215",
@@ -7983,7 +8007,7 @@
    "cp": "95150",
    "id": "de80038187",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1957301",
@@ -7995,7 +8019,7 @@
    "cp": "95200",
    "id": "cee0c715db",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2129648",
@@ -8007,7 +8031,7 @@
    "cp": "95200",
    "id": "3f2fa333dd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2097478",
@@ -8019,7 +8043,7 @@
    "cp": "95110",
    "id": "a2e5c29661",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2130883",
@@ -8031,7 +8055,7 @@
    "cp": "95360",
    "id": "762372441a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2133755",
@@ -8043,7 +8067,7 @@
    "cp": "95310",
    "id": "6e2f85ac80",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2131344",
@@ -8055,7 +8079,7 @@
    "cp": "95130",
    "id": "ac9b0260f5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2069239",
@@ -8067,7 +8091,7 @@
    "cp": "95000",
    "id": "879efc961d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -8089,7 +8113,7 @@
    "cp": "95230",
    "id": "410f5ad5fe",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2138366",
@@ -8101,7 +8125,7 @@
    "cp": "95130",
    "id": "056b24b69c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2117216",
@@ -8113,7 +8137,7 @@
    "cp": "95460",
    "id": "c8b3675387",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1976664",
@@ -8125,7 +8149,7 @@
    "cp": "95100",
    "id": "7988614a7d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -8143,7 +8167,7 @@
    "cp": "95300",
    "id": "bb6761ce86",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2148480",
@@ -8155,7 +8179,7 @@
    "cp": "95150",
    "id": "ec1610a6a1",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2138386",
@@ -15477,7 +15501,7 @@
    "cp": "95240",
    "id": "8765e08356",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -20807,7 +20831,7 @@
    "cp": "95870",
    "id": "bdc4dd8618",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2098539",
@@ -25427,7 +25451,7 @@
    "cp": "95870",
    "id": "d9468eb2ee",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_811_677785",
@@ -29417,7 +29441,7 @@
    "cp": "95120",
    "id": "72f35b47cd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -31615,7 +31639,7 @@
    "cp": "95480",
    "id": "a4dc8bdd4e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2143624",
@@ -34117,7 +34141,7 @@
    "cp": "95250",
    "id": "ed44d190f7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/laforet-immo-facile-52960954",
@@ -34993,7 +35017,7 @@
    "cp": "95150",
    "id": "90e321021e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -37579,7 +37603,7 @@
    "cp": "95250",
    "id": "ab19bcb588",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87559865",
@@ -37591,7 +37615,7 @@
    "cp": "95480",
    "id": "387f6edfbd",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -37609,7 +37633,7 @@
    "cp": "95220",
    "id": "91e0548d8b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61704955",
@@ -37621,7 +37645,7 @@
    "cp": "95210",
    "id": "29619bd798",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61704986",
@@ -37633,7 +37657,7 @@
    "cp": "95230",
    "id": "debc0146e6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1803479-2",
@@ -38677,7 +38701,7 @@
    "cp": "95870",
    "id": "c96749993e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
@@ -40143,7 +40167,7 @@
    "cp": "95160",
    "id": "aca9467fc1",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05",
+   "vu": "2026-11-06",
    "autres": [
     {
      "source": "Bien'ici",
