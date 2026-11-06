@@ -1,6 +1,258 @@
 {
- "maj": "2026-11-06T15:48:15+00:00",
+ "maj": "2026-11-06T21:14:49+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1738847",
+   "source": "Bien'ici",
+   "titre": "Bel appartement 4 pièces, idéal pour une famille;",
+   "prix": 159500,
+   "surface": 67.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "e0c01eceff",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939780403",
+   "source": "Bien'ici",
+   "titre": "Appartement Sannois 5 pièces - 106 m2 - 4 chambres - 2 terrasses  - Dernier étage",
+   "prix": 249000,
+   "surface": 106.0,
+   "commune": "Sannois",
+   "cp": "95110",
+   "id": "82aa251c25",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-53015805",
+   "source": "Bien'ici",
+   "titre": "Appartement Eaubonne 3 pièces 66.03 m2",
+   "prix": 212500,
+   "surface": 66.03,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "118caeaef4",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61708960",
+   "source": "Bien'ici",
+   "titre": "Appartement Eragny Sur Oise 4 pièces 78.48 m2",
+   "prix": 195000,
+   "surface": 78.48,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "727ef3e9c8",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-1989745",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 123000,
+   "surface": 66.0,
+   "commune": "Villiers-le-Bel",
+   "cp": "95400",
+   "id": "e0cfe49530",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2152457",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 183000,
+   "surface": 51.92,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "554fed662d",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5480489",
+   "source": "Bien'ici",
+   "titre": "Appartement Arnouville 3 pièce(s) 60 m2",
+   "prix": 185000,
+   "surface": 70.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "id": "5b6e8e696c",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/netty-company58280dtb-appt-1921",
+   "source": "Bien'ici",
+   "titre": "4 pièces 3 chambres",
+   "prix": 210000,
+   "surface": 63.24,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "fca9f70d96",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/netty-company58280dtb-appt-1964",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre Eaubonne",
+   "prix": 249000,
+   "surface": 82.51,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "17151eebe0",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558363965",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T2 2 pièce(s) à Taverny",
+   "prix": 206104,
+   "surface": 38.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "ee90be9522",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558363665",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T2 2 pièce(s) à Louvres",
+   "prix": 224500,
+   "surface": 48.0,
+   "commune": "Louvres",
+   "cp": "95380",
+   "id": "401296e8e9",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558363737",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T2 2 pièce(s) à Osny",
+   "prix": 259500,
+   "surface": 45.0,
+   "commune": "Osny",
+   "cp": "95520",
+   "id": "e6a8d8c17f",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558363980",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T3 3 pièce(s) à Taverny",
+   "prix": 317500,
+   "surface": 65.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "7abd03694b",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-558363497",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T5 + 5 pièce(s) à Cormeilles-en-Parisis",
+   "prix": 605500,
+   "surface": 128.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "fd27c0f216",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/la-residence-1-95723_64",
+   "source": "Bien'ici",
+   "titre": "Appartement de 2 pièces",
+   "prix": 150000,
+   "surface": 38.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "65122dfc9d",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-2252",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 335000,
+   "surface": 55.36,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "3bf0a7fe25",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558340799",
+   "source": "Bien'ici",
+   "titre": "T2 – 44,71 M² – BALCON",
+   "prix": 209900,
+   "surface": 44.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "72ea5f6a3b",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558340025",
+   "source": "Bien'ici",
+   "titre": "T2 – 6ᵉ ÉTAGE – TERRASSE – BEZONS",
+   "prix": 215000,
+   "surface": 42.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "591cb5f249",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558340343",
+   "source": "Bien'ici",
+   "titre": "T3 – JARDIN PRIVATIF – TERRASSE & LOGGIA",
+   "prix": 299000,
+   "surface": 61.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "b3ab597949",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558340217",
+   "source": "Bien'ici",
+   "titre": "T3 – 61 M² – 2 BALCONS – 4ᵉ ÉTAGE",
+   "prix": 318000,
+   "surface": 61.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "51c0a41ad4",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-558340475",
+   "source": "Bien'ici",
+   "titre": "T4 – 6ᵉ ÉTAGE – GRANDE TERRASSE DE 22 M²",
+   "prix": 367000,
+   "surface": 73.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "b9f9887da4",
+   "premier_vu": "2026-11-06T21:14:49+00:00",
+   "vu": "2026-11-06"
+  },
   {
    "url": "https://www.bienici.com/annonce/eiffage-immobilier-6593-6593",
    "source": "Bien'ici",
@@ -8277,7 +8529,13 @@
    "cp": "95410",
    "id": "c0de7645ce",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-05"
+   "vu": "2026-11-06",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/hektor-ACCESS-Immobilier-2562"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag755942-479043440",
@@ -14192,6 +14450,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/iad-france-2036045"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag753775-558367124"
     }
    ]
   },
@@ -17509,7 +17771,13 @@
    "cp": "95600",
    "id": "5bf4ccb4ac",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-06",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/netty-company58280dtb-appt-1941"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-251874801",
@@ -32271,7 +32539,13 @@
    "cp": "95490",
    "id": "7109ed4f3a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-06",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/nestenn-1-99939372363"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-5486",
