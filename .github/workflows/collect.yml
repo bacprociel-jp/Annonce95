@@ -32,10 +32,12 @@ jobs:
 
       - run: pip install -r collector/requirements.txt
 
-      - name: Interroger Bien'ici et PAP
+      - name: Interroger Bien'ici et lire les alertes e-mail
         env:
           FULL: ${{ (github.event.schedule == '17 3 * * *' || inputs.complet) && '1' || '' }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          IMAP_USER: ${{ secrets.IMAP_USER }}
+          IMAP_PASSWORD: ${{ secrets.IMAP_PASSWORD }}
           SITE_URL: ${{ vars.SITE_URL }}
         run: python collector/collect_cloud.py
 
