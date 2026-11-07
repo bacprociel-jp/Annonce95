@@ -1,6 +1,78 @@
 {
- "maj": "2026-11-07T18:27:03+00:00",
+ "maj": "2026-11-07T22:15:35+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2149329",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 119500,
+   "surface": 34.72,
+   "commune": "Gonesse",
+   "cp": "95500",
+   "id": "75736bdefa",
+   "premier_vu": "2026-11-07T22:15:35+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/era-2-61716379",
+   "source": "Bien'ici",
+   "titre": "Superbe appartement 5 pièces à vendre à Saint Ouen L Aumone - 127,80 m²",
+   "prix": 345000,
+   "surface": 127.8,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "d0c0094837",
+   "premier_vu": "2026-11-07T22:15:35+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2151277",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 1 pièce",
+   "prix": 130000,
+   "surface": 20.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "a1e20be672",
+   "premier_vu": "2026-11-07T22:15:35+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2150486",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 199000,
+   "surface": 69.18,
+   "commune": "Survilliers",
+   "cp": "95470",
+   "id": "a091b7ecec",
+   "premier_vu": "2026-11-07T22:15:35+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2154696",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 220000,
+   "surface": 92.32,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "12c8511231",
+   "premier_vu": "2026-11-07T22:15:35+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61696283",
+   "source": "Bien'ici",
+   "titre": "Appartement 4 pièces à Deuil-la-Barre",
+   "prix": 199000,
+   "surface": 75.81,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "0acb118c16",
+   "premier_vu": "2026-11-07T22:15:35+00:00",
+   "vu": "2026-11-07"
+  },
   {
    "url": "https://www.bienici.com/annonce/era-2-61720835",
    "source": "Bien'ici",
@@ -15457,7 +15529,13 @@
    "cp": "95280",
    "id": "4b02f42bb9",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61720775"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-ACCESS-Immobilier-2537",
