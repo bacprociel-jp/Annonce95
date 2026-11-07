@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-07T13:43:20+00:00",
+ "maj": "2026-11-07T18:27:03+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/era-2-61720835",
+   "source": "Bien'ici",
+   "titre": "Appartement 5 pièces à vendre à Taverny - Les Terrasses Carré d'Or",
+   "prix": 249900,
+   "surface": 94.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "1bfddaaaab",
+   "premier_vu": "2026-11-07T18:27:03+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag440414-558612638",
+   "source": "Bien'ici",
+   "titre": "EXCLUSIVITÉ ? Appartement T5 - 3 chambres - Grand séjour ? 1 box",
+   "prix": 249000,
+   "surface": 93.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "971091c259",
+   "premier_vu": "2026-11-07T18:27:03+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61706221",
+   "source": "Bien'ici",
+   "titre": "Appartement Saint Leu La Foret 4 pièce(s)",
+   "prix": 232000,
+   "surface": 92.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "d56f355adc",
+   "premier_vu": "2026-11-07T18:27:03+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6815",
+   "source": "Bien'ici",
+   "titre": "Bel investissement locatif sur Pontoise !",
+   "prix": 169900,
+   "surface": 74.59,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "c4f9020e9c",
+   "premier_vu": "2026-11-07T18:27:03+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "prix": 150000,
+   "surface": 36.0,
+   "commune": "Presles",
+   "cp": "95590",
+   "url": "https://www.pap.fr/annonces/-r465301710",
+   "source": "PAP",
+   "titre": "Presles (95590) Vente appartement 2 pièces 36 m² 150.000 € Voir l'annonce",
+   "id": "0e66e32cf6",
+   "premier_vu": "2026-11-07T18:27:03+00:00",
+   "vu": "2026-11-07"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6789",
    "source": "Bien'ici",
@@ -2303,7 +2363,13 @@
    "cp": "95320",
    "id": "4127601349",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720748"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag762216-555660977",
@@ -4711,7 +4777,13 @@
    "cp": "95150",
    "id": "443273e408",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720772"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/laforet-immo-facile-52898661",
@@ -4807,7 +4879,13 @@
    "cp": "95120",
    "id": "4a02b19735",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720552"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_639_677306",
@@ -13240,6 +13318,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-1619"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720560"
     }
    ]
   },
@@ -13550,6 +13632,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/netty-company53474tds-appt-9745"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720563"
     }
    ]
   },
@@ -26717,7 +26803,13 @@
    "cp": "95540",
    "id": "04b342efb0",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720568"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/era-2-61674615",
@@ -26734,6 +26826,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-60211084"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720573"
     }
    ]
   },
@@ -26783,7 +26879,13 @@
    "cp": "95150",
    "id": "7d170eb91a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720796"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/era-2-61674564",
@@ -26795,7 +26897,13 @@
    "cp": "95130",
    "id": "08287e9d3f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720799"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/era-2-61674511",
@@ -26807,7 +26915,13 @@
    "cp": "95130",
    "id": "fb36843e10",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720820"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-1628A",
@@ -29215,7 +29329,13 @@
    "cp": "95300",
    "id": "76c6a3287e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/la-residence-1-31922_21"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-31895_21",
@@ -37429,7 +37549,13 @@
    "cp": "95160",
    "id": "f2f72355d0",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720575"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61464899",
@@ -41867,7 +41993,13 @@
    "cp": "95110",
    "id": "a571033131",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720585"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/era-2-61674621",
@@ -41888,6 +42020,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/legget-PRO1DWA0E49Z"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61720590"
     }
    ]
   },
