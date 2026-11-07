@@ -1,21 +1,30 @@
 #!/usr/bin/env python3
-"""Collecteur cloud (GitHub Actions) : interroge directement Bien'ici.
-PAP, Leboncoin et SeLoger bloquent les serveurs : ils sont lus par collect_home.py.
+"""Collecteur cloud (GitHub Actions) :
+  - interroge directement Bien'ici ;
+  - lit les alertes e-mail des sites qui bloquent la lecture automatique (PAP, Leboncoin, SeLoger),
+    si IMAP_USER et IMAP_PASSWORD sont définis.
 
 Écrit data/annonces.json. Les adresses de recherche viennent de sources.json.
 Variables d'environnement facultatives :
   FULL=1       parcourt toutes les pages (sinon : s'arrête dès qu'une page n'apporte rien de nouveau)
   NTFY_TOPIC   canal ntfy pour les notifications
   SITE_URL     adresse du site, ajoutée aux notifications
+  IMAP_USER, IMAP_PASSWORD   boîte Gmail dédiée aux alertes (mot de passe d'application)
 """
+import email
+import imaplib
 import json
 import os
 import sys
 import time
 import urllib.request
+from datetime import datetime, timedelta
+from email.header import decode_header, make_header
+from email.utils import parseaddr
 from urllib.parse import quote
 
-from common import RACINE, charger, fusionner, maintenant_iso, notifier, sauver
+from common import (RACINE, charger, extraire_annonces, fusionner, maintenant_iso, notifier,
+                    sauver)
 
 DATA = RACINE / "data" / "annonces.json"
 CONFIG = RACINE / "sources.json"
@@ -163,6 +172,63 @@ def collecter_bienici(cfg: dict, connus: set, complet: bool):
     return resultat
 
 
+# =========================================================================== alertes e-mail
+NOMS_EMAIL = {"pap.fr": "PAP", "leboncoin": "Leboncoin", "seloger": "SeLoger", "logic-immo": "Logic-Immo",
+              "paruvendu": "ParuVendu", "bienici": "Bien'ici"}
+MOTIFS_EMAIL = {"PAP": "/annonces/"}  # les fiches PAP ont des adresses en /annonces/…
+
+
+def decoder(valeur: str) -> str:
+    try:
+        return str(make_header(decode_header(valeur or "")))
+    except Exception:
+        return valeur or ""
+
+
+def corps_html(msg) -> str:
+    texte = ""
+    for part in msg.walk():
+        type_ = part.get_content_type()
+        if type_ not in ("text/html", "text/plain"):
+            continue
+        try:
+            contenu = part.get_payload(decode=True).decode(part.get_content_charset() or "utf-8", errors="replace")
+        except Exception:
+            continue
+        if type_ == "text/html":
+            return contenu
+        texte += contenu
+    return texte
+
+
+def analyser_message(msg):
+    expediteur = parseaddr(decoder(msg.get("From", "")))[1].lower()
+    source = next((nom for cle, nom in NOMS_EMAIL.items() if cle in expediteur),
+                  expediteur.split("@")[-1].split(".")[0].capitalize() or "Autre")
+    annonces = extraire_annonces(corps_html(msg), source, motif=MOTIFS_EMAIL.get(source))
+    print(f"  E-mail {source:<10} {len(annonces)} annonce(s) : {decoder(msg.get('Subject', ''))[:60]}")
+    return annonces
+
+
+def lire_emails(cfg_mail: dict):
+    expediteurs = cfg_mail.get("expediteurs") or ["pap.fr"]
+    depuis = (datetime.now() - timedelta(days=int(cfg_mail.get("jours", 3)))).strftime("%d-%b-%Y")
+    imap = imaplib.IMAP4_SSL(os.environ.get("IMAP_HOST", "imap.gmail.com"))
+    imap.login(os.environ["IMAP_USER"], os.environ["IMAP_PASSWORD"])
+    imap.select("INBOX", readonly=True)
+    ids = set()
+    for exp in expediteurs:
+        _, data = imap.search(None, f'(SINCE "{depuis}" FROM "{exp}")')
+        ids.update(data[0].split())
+    print(f"  {len(ids)} e-mail(s) d'alerte des {depuis} à aujourd'hui.")
+    annonces = []
+    for num in sorted(ids):
+        _, data = imap.fetch(num, "(BODY.PEEK[])")
+        annonces.extend(analyser_message(email.message_from_bytes(data[0][1])))
+    imap.logout()
+    return annonces
+
+
 # =========================================================================== principal
 def main():
     cfg = json.loads(CONFIG.read_text(encoding="utf-8")) if CONFIG.exists() else {}
@@ -182,6 +248,15 @@ def main():
         except Exception as e:
             echecs += 1
             print("ERREUR Bien'ici :", repr(e))
+
+    cfg_mail = cfg.get("emails")
+    if cfg_mail and os.environ.get("IMAP_USER") and os.environ.get("IMAP_PASSWORD"):
+        actives += 1
+        try:
+            nouvelles += lire_emails(cfg_mail)
+        except Exception as e:
+            echecs += 1
+            print("ERREUR alertes e-mail :", repr(e))
 
     if actives and echecs == actives:
         sys.exit("Toutes les sources ont échoué : aucune mise à jour (rien n'est retiré).")
