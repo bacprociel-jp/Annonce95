@@ -7,13 +7,17 @@
     "surface_min": null,
     "surface_max": null
   },
-  "pap": [
-    "https://www.pap.fr/annonce/vente-appartement-maison-val-d-oise-95-g459-jusqu-a-200000-euros"
-  ],
+  "pap": [],
   "leboncoin": [
     "COLLE ICI L'ADRESSE D'UNE RECHERCHE LEBONCOIN (ventes immobilières, appartements, Val-d'Oise)"
   ],
   "seloger": [
     "COLLE ICI L'ADRESSE D'UNE RECHERCHE SELOGER (achat, appartements, Val-d'Oise)"
-  ]
+  ],
+  "emails": {
+    "expediteurs": [
+      "pap.fr"
+    ],
+    "jours": 3
+  }
 }
