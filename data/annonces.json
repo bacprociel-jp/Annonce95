@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-07T10:25:10+00:00",
+ "maj": "2026-11-07T13:43:20+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6789",
+   "source": "Bien'ici",
+   "titre": "Bel appartement F3 à 2 pas de la gare et des commodités !",
+   "prix": 209900,
+   "surface": 60.8,
+   "commune": "Courdimanche",
+   "cp": "95800",
+   "id": "6bbd4f42c7",
+   "premier_vu": "2026-11-07T13:43:20+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5480535",
+   "source": "Bien'ici",
+   "titre": "Appartement Pontoise 3 pièce(s) 63,54 m2",
+   "prix": 170000,
+   "surface": 63.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "6c19bda4e9",
+   "premier_vu": "2026-11-07T13:43:20+00:00",
+   "vu": "2026-11-07"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2151209",
    "source": "Bien'ici",
@@ -24036,6 +24060,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/nestenn-1-99939767749"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/apimo-87560650"
     }
    ]
   },
@@ -38205,7 +38233,13 @@
    "cp": "95170",
    "id": "082c185957",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag743447-558567431"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61140605",
@@ -38217,7 +38251,13 @@
    "cp": "95170",
    "id": "187bd3441f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-07",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag743447-558567545"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag952400-542968013",
