@@ -1,6 +1,90 @@
 {
- "maj": "2026-11-07T00:57:51+00:00",
+ "maj": "2026-11-07T06:53:27+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-558497018",
+   "source": "Bien'ici",
+   "titre": "T2 - Goussainville",
+   "prix": 167000,
+   "surface": 41.0,
+   "commune": "Goussainville",
+   "cp": "95190",
+   "id": "0d8317c881",
+   "premier_vu": "2026-11-07T06:53:27+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557764379",
+   "source": "Bien'ici",
+   "titre": "T3 - Arnouville",
+   "prix": 231000,
+   "surface": 60.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "id": "707e3fdc4b",
+   "premier_vu": "2026-11-07T06:53:27+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557768183",
+   "source": "Bien'ici",
+   "titre": "T4 - Argenteuil",
+   "prix": 268000,
+   "surface": 79.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "c6712d0146",
+   "premier_vu": "2026-11-07T06:53:27+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-558496226",
+   "source": "Bien'ici",
+   "titre": "T3 - Eaubonne",
+   "prix": 318000,
+   "surface": 65.0,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "f9910db56c",
+   "premier_vu": "2026-11-07T06:53:27+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-558500396",
+   "source": "Bien'ici",
+   "titre": "T5 - Argenteuil",
+   "prix": 415000,
+   "surface": 100.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "4d55752a1b",
+   "premier_vu": "2026-11-07T06:53:27+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-558499046",
+   "source": "Bien'ici",
+   "titre": "T4 - Enghien-les-Bains",
+   "prix": 587000,
+   "surface": 87.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "06f76380c4",
+   "premier_vu": "2026-11-07T06:53:27+00:00",
+   "vu": "2026-11-07"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/century-21-202_3496_3864",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces",
+   "prix": 182500,
+   "surface": 59.66,
+   "commune": "Le Thillay",
+   "cp": "95500",
+   "id": "3688846919",
+   "premier_vu": "2026-11-07T06:53:27+00:00",
+   "vu": "2026-11-07"
+  },
   {
    "url": "https://www.bienici.com/annonce/ubiflow-neuf-474072380",
    "source": "Bien'ici",
