@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-08T14:45:11+00:00",
+ "maj": "2026-11-08T19:18:08+00:00",
  "annonces": [
   {
    "url": "https://www.bienici.com/annonce/iad-france-2151848",
@@ -37265,7 +37265,13 @@
    "cp": "95520",
    "id": "42620a4880",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-08"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/apimo-87571088"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag440414-556386278",
