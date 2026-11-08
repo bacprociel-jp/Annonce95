@@ -1,6 +1,78 @@
 {
- "maj": "2026-11-08T10:33:41+00:00",
+ "maj": "2026-11-08T14:45:11+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2151848",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 149000,
+   "surface": 57.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "7185263509",
+   "premier_vu": "2026-11-08T14:45:11+00:00",
+   "vu": "2026-11-08"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2154615",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 259000,
+   "surface": 89.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "223df21d28",
+   "premier_vu": "2026-11-08T14:45:11+00:00",
+   "vu": "2026-11-08"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag922880-558764066",
+   "source": "Bien'ici",
+   "titre": "SAINT-GRATIEN – À 450 m du Lac d'Enghien Appartement T4 de 80 m² Carrez — Balcon, Box fermé & Cave",
+   "prix": 339000,
+   "surface": 80.0,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "id": "0b85b9dbbe",
+   "premier_vu": "2026-11-08T14:45:11+00:00",
+   "vu": "2026-11-08"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/dr-house-immo-1-1133446",
+   "source": "Bien'ici",
+   "titre": "NOUVEAU PRIX ! Bien de standing ! Saint-Gratien Bel appartement CLIMATISE en duplex avec grande terrasse avec vue magnif",
+   "prix": 482000,
+   "surface": 132.0,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "id": "c932ae7f39",
+   "premier_vu": "2026-11-08T14:45:11+00:00",
+   "vu": "2026-11-08"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2155151",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 194900,
+   "surface": 58.12,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "6fb4998e03",
+   "premier_vu": "2026-11-08T14:45:11+00:00",
+   "vu": "2026-11-08"
+  },
+  {
+   "prix": 181900,
+   "surface": 54.0,
+   "commune": null,
+   "cp": null,
+   "url": "https://www.pap.fr/annonces/-r465700517",
+   "source": "PAP",
+   "titre": "Pontoise (95) Vente appartement 2 pièces 54 m² 181.900 € Voir l'annonce",
+   "id": "f25e77eef7",
+   "premier_vu": "2026-11-08T14:45:11+00:00",
+   "vu": "2026-11-08"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag933595-556337639",
    "source": "Bien'ici",
@@ -1497,7 +1569,13 @@
    "cp": "95240",
    "id": "56450b41e7",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558670172"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558300752",
@@ -1509,7 +1587,13 @@
    "cp": "95120",
    "id": "a1f31310b8",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558669320"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558300782",
@@ -1521,7 +1605,13 @@
    "cp": "95120",
    "id": "c2b4049add",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558669302"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558300893",
@@ -1533,7 +1623,13 @@
    "cp": "95870",
    "id": "15fc8ddcd3",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558668771"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558297980",
@@ -1545,7 +1641,13 @@
    "cp": "95240",
    "id": "113e432cd9",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558670160"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558298061",
@@ -1557,7 +1659,13 @@
    "cp": "95240",
    "id": "55c973f7b5",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558670145"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558299912",
@@ -1569,7 +1677,13 @@
    "cp": "95240",
    "id": "8953c033d3",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558670133"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-558300851",
@@ -1581,7 +1695,13 @@
    "cp": "95120",
    "id": "5abe4dba11",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-06"
+   "vu": "2026-11-08",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-558669281"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2153754",
