@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-08T19:18:08+00:00",
+ "maj": "2026-11-08T22:57:31+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/netty-company56766aku-appt-1925",
+   "source": "Bien'ici",
+   "titre": "Appartement 4 pièces 79,5 m² avec balcon et parking – Pontoi",
+   "prix": 268000,
+   "surface": 79.5,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "1e6c77e394",
+   "premier_vu": "2026-11-08T22:57:31+00:00",
+   "vu": "2026-11-08"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2152164",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 5 pièces",
+   "prix": 309000,
+   "surface": 94.22,
+   "commune": "Osny",
+   "cp": "95520",
+   "id": "0d2d0e9c4d",
+   "premier_vu": "2026-11-08T22:57:31+00:00",
+   "vu": "2026-11-08"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2151848",
    "source": "Bien'ici",
@@ -41350,6 +41374,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61714679"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61722029"
     }
    ]
   },
@@ -41368,6 +41396,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61714695"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61722039"
     }
    ]
   },
