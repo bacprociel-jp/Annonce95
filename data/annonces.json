@@ -1,6 +1,282 @@
 {
- "maj": "2026-11-09T11:47:34+00:00",
+ "maj": "2026-11-09T20:51:39+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/adapt-immo-3011445624",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 335000,
+   "surface": 87.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "fc2dac4e96",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag440414-559009949",
+   "source": "Bien'ici",
+   "titre": "Studio 25 m² déjà loué, Revenus garantis dès l'achat - Goussainville",
+   "prix": 82000,
+   "surface": 24.0,
+   "commune": "Goussainville",
+   "cp": "95190",
+   "id": "93a8194bdc",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2153164",
+   "source": "Bien'ici",
+   "titre": "Vente Studio 1 pièce",
+   "prix": 114000,
+   "surface": 26.24,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "id": "48eb5c1910",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2134297",
+   "source": "Bien'ici",
+   "titre": "Vente Studio 1 pièce",
+   "prix": 120000,
+   "surface": 31.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "48ef8615b1",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2155193",
+   "source": "Bien'ici",
+   "titre": "Vente Duplex 3 pièces",
+   "prix": 199000,
+   "surface": 63.55,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "c0372561a3",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952031-559024058",
+   "source": "Bien'ici",
+   "titre": "Cergy-Le-Haut appartement de 4 pièces avec 2 places de parking",
+   "prix": 238000,
+   "surface": 77.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "700de8048e",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952539-558275483",
+   "source": "Bien'ici",
+   "titre": "PERSAN – CENTRE-VILLE | BEL APPARTEMENT 2 PIÈCES AVEC BALCON ET STATIONNEMENT",
+   "prix": 149000,
+   "surface": 42.0,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "9631cddbcb",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87394800",
+   "source": "Bien'ici",
+   "titre": "SARCELLES - 95200 - APPARTEMENT FAMILIAL 4 PIÈCES – 111 m²",
+   "prix": 184000,
+   "surface": 111.17,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "edb913b02e",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61676434",
+   "source": "Bien'ici",
+   "titre": "À VENDRE  SPACIEUX F5- 3 chambres, gare , écoles et collège",
+   "prix": 189900,
+   "surface": 87.58,
+   "commune": "Bruyères-sur-Oise",
+   "cp": "95820",
+   "id": "384a2eb497",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/la-residence-1-95728_64",
+   "source": "Bien'ici",
+   "titre": "Appartement de 4 pièces",
+   "prix": 237000,
+   "surface": 86.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "c2f493d848",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2153166",
+   "source": "Bien'ici",
+   "titre": "Vente Triplex 4 pièces",
+   "prix": 159000,
+   "surface": 63.49,
+   "commune": "Herblay",
+   "cp": "95220",
+   "id": "3b650a5f2c",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2153667",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 217000,
+   "surface": 62.69,
+   "commune": "Soisy-sous-Montmorency",
+   "cp": "95230",
+   "id": "2ab64db7ac",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2138722",
+   "source": "Bien'ici",
+   "titre": "Vente Duplex 5 pièces",
+   "prix": 320000,
+   "surface": 90.68,
+   "commune": "Herblay",
+   "cp": "95220",
+   "id": "da63eca7a0",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-53018622",
+   "source": "Bien'ici",
+   "titre": "Puiseux-Pontoise - 3 pièces au dernier étage",
+   "prix": 219900,
+   "surface": 65.43,
+   "commune": "Puiseux-Pontoise",
+   "cp": "95650",
+   "id": "abf82e61c2",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1737724",
+   "source": "Bien'ici",
+   "titre": "En plein centre, tout à proximité, ascenseur",
+   "prix": 270000,
+   "surface": 74.0,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "id": "d571548080",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1737314",
+   "source": "Bien'ici",
+   "titre": "Appartement duplex de 5 pièces de 108m² à Soisy-sous-Montmorency",
+   "prix": 390000,
+   "surface": 108.0,
+   "commune": "Soisy-sous-Montmorency",
+   "cp": "95230",
+   "id": "39bf2e01aa",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1737610",
+   "source": "Bien'ici",
+   "titre": "BEZONS CENTRE – APPARTEMENT avec TERRASSE de 46 m²",
+   "prix": 435000,
+   "surface": 87.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "f302944bdf",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952342-558930992",
+   "source": "Bien'ici",
+   "titre": "L'Isle-Adam-95290",
+   "prix": 260000,
+   "surface": 47.0,
+   "commune": "L'Isle-Adam",
+   "cp": "95290",
+   "id": "7264a38619",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-APOGEE-11809",
+   "source": "Bien'ici",
+   "titre": "Investissement en EHPAD",
+   "prix": 115507,
+   "surface": 21.0,
+   "commune": "Bouffémont",
+   "cp": "95570",
+   "id": "4500c2f89a",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "prix": 150000,
+   "surface": 47.0,
+   "commune": null,
+   "cp": null,
+   "url": "https://www.pap.fr/annonces/-r465802070",
+   "source": "PAP",
+   "titre": "Cergy (95) Vente appartement 2 pièces 47 m² 150.000 € Voir l'annonce",
+   "id": "5af4e9038a",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "prix": 130000,
+   "surface": 48.0,
+   "commune": null,
+   "cp": null,
+   "url": "https://www.pap.fr/annonces/-r465203403",
+   "source": "PAP",
+   "titre": "Pontoise (95) Vente appartement 2 pièces 48 m² 130.000 € Voir l'annonce",
+   "id": "1fd7aea4f1",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "prix": 158000,
+   "surface": 33.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "url": "https://www.pap.fr/annonces/-r465701009",
+   "source": "PAP",
+   "titre": "Saint-Leu-la-Forêt (95320) Vente appartement 2 pièces 33 m² 158.000 € Voir l'ann",
+   "id": "3c64b0f8ba",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "prix": 185000,
+   "surface": 48.0,
+   "commune": "Herblay",
+   "cp": "95220",
+   "url": "https://www.pap.fr/annonces/-r463201391",
+   "source": "PAP",
+   "titre": "Herblay (95220) Vente appartement 2 pièces 48 m² 185.000 € Voir l'annonce",
+   "id": "a56863c537",
+   "premier_vu": "2026-11-09T20:51:39+00:00",
+   "vu": "2026-11-09"
+  },
   {
    "url": "https://www.bienici.com/annonce/dr-house-immo-1-1144785",
    "source": "Bien'ici",
@@ -27653,7 +27929,13 @@
    "cp": "95130",
    "id": "8214dafff2",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-09",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61725782"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag130961-557405321",
@@ -28019,7 +28301,13 @@
    "cp": "95110",
    "id": "480c0aaca9",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-09",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2149874"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939785436",
