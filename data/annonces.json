@@ -1,6 +1,246 @@
 {
- "maj": "2026-11-09T02:27:56+00:00",
+ "maj": "2026-11-09T10:17:46+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag952400-558899237",
+   "source": "Bien'ici",
+   "titre": "MERY SUR OISE",
+   "prix": 338000,
+   "surface": 61.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "55acdb2296",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/gedeon-34186786",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces",
+   "prix": 159000,
+   "surface": 43.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "a4606a8447",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5483316",
+   "source": "Bien'ici",
+   "titre": "Appartement Bezons 2 pièce(s) 51 m2",
+   "prix": 219900,
+   "surface": 51.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "bc2dac2468",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5483317",
+   "source": "Bien'ici",
+   "titre": "Appartement Bezons 3 pièce(s) - 65m² - Au pied du T2",
+   "prix": 357000,
+   "surface": 65.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "f0af78f3c1",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557765960",
+   "source": "Bien'ici",
+   "titre": "T2 - Pontoise",
+   "prix": 170000,
+   "surface": 38.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "621c145588",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557770370",
+   "source": "Bien'ici",
+   "titre": "T2 - Arnouville",
+   "prix": 179000,
+   "surface": 42.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "id": "f78b297bd3",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557767379",
+   "source": "Bien'ici",
+   "titre": "T2 - Argenteuil",
+   "prix": 181000,
+   "surface": 37.0,
+   "commune": "Argenteuil",
+   "cp": "95000",
+   "id": "6a6c1d037c",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557767085",
+   "source": "Bien'ici",
+   "titre": "T3 - Baillet-en-France",
+   "prix": 189000,
+   "surface": 58.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "e93febb406",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557769116",
+   "source": "Bien'ici",
+   "titre": "T2 - Cormeilles-en-Parisis",
+   "prix": 212000,
+   "surface": 43.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "6dbf980cae",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-558495149",
+   "source": "Bien'ici",
+   "titre": "T3 - Bezons",
+   "prix": 242000,
+   "surface": 58.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "aa0c7c386d",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557770166",
+   "source": "Bien'ici",
+   "titre": "T2 - Domont",
+   "prix": 242000,
+   "surface": 47.0,
+   "commune": "Domont",
+   "cp": "95330",
+   "id": "163502fd9a",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557764670",
+   "source": "Bien'ici",
+   "titre": "T3 - Luzarches",
+   "prix": 266000,
+   "surface": 59.0,
+   "commune": "Luzarches",
+   "cp": "95270",
+   "id": "58a655e8fa",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557765552",
+   "source": "Bien'ici",
+   "titre": "T3 - Soisy-sous-Montmorency",
+   "prix": 284000,
+   "surface": 66.0,
+   "commune": "Soisy-sous-Montmorency",
+   "cp": "95230",
+   "id": "a2ab5428c4",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557768453",
+   "source": "Bien'ici",
+   "titre": "T4 - Puiseux-en-France",
+   "prix": 347000,
+   "surface": 80.0,
+   "commune": "Puiseux-en-France",
+   "cp": "95380",
+   "id": "eda7f06704",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557764520",
+   "source": "Bien'ici",
+   "titre": "T5 - Puiseux-en-France",
+   "prix": 380000,
+   "surface": 90.0,
+   "commune": "Puiseux-en-France",
+   "cp": "95380",
+   "id": "a9d47cc775",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-558496994",
+   "source": "Bien'ici",
+   "titre": "T4 - Eaubonne",
+   "prix": 439000,
+   "surface": 88.0,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "ed52daa524",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-557764037",
+   "source": "Bien'ici",
+   "titre": "T3 - Goussainville",
+   "prix": 198000,
+   "surface": 53.0,
+   "commune": "Goussainville",
+   "cp": "95190",
+   "id": "3fd547c1fd",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2152927",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 1 pièce",
+   "prix": 119000,
+   "surface": 23.9,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "612219c810",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "prix": 175000,
+   "surface": 71.0,
+   "commune": "Montigny-lès-Cormeilles",
+   "cp": "95370",
+   "url": "https://www.pap.fr/annonces/-r465102623",
+   "source": "PAP",
+   "titre": "Montigny-lès-Cormeilles (95370) Vente appartement 3 pièces 71 m² 175.000 € Voir ",
+   "id": "03d2574961",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
+  {
+   "prix": 180000,
+   "surface": 71.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "url": "https://www.pap.fr/annonces/-r462901110",
+   "source": "PAP",
+   "titre": "Saint-Leu-la-Forêt (95320) Vente appartement 3 pièces 71 m² 180.000 € Voir l'ann",
+   "id": "012982e02e",
+   "premier_vu": "2026-11-09T10:17:46+00:00",
+   "vu": "2026-11-09"
+  },
   {
    "url": "https://www.bienici.com/annonce/dr-house-immo-1-1147280",
    "source": "Bien'ici",
@@ -11105,7 +11345,13 @@
    "cp": "95500",
    "id": "ec821e8147",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-08"
+   "vu": "2026-11-09",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-558497057"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2135055",
