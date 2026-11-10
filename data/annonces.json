@@ -1,6 +1,150 @@
 {
- "maj": "2026-11-10T11:24:00+00:00",
+ "maj": "2026-11-10T18:47:55+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag060811-559237292",
+   "source": "Bien'ici",
+   "titre": "MONTMAGNY (95) DUPLEX lumineux 75 m², 3 chambres, box double 35 m²",
+   "prix": 244900,
+   "surface": 75.0,
+   "commune": "Montmagny",
+   "cp": "95360",
+   "id": "aac495dc66",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-129_macles-93380-5227",
+   "source": "Bien'ici",
+   "titre": "Beau duplex rénové   3 chambres   DPE C",
+   "prix": 220000,
+   "surface": 79.0,
+   "commune": "Moisselles",
+   "cp": "95570",
+   "id": "f821a15024",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag750949-559233452",
+   "source": "Bien'ici",
+   "titre": "Résidence Affaires",
+   "prix": 45000,
+   "surface": 29.0,
+   "commune": "Andilly",
+   "cp": "95580",
+   "id": "4999d7ce33",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5484963",
+   "source": "Bien'ici",
+   "titre": "Appartement en duplex type maison de ville",
+   "prix": 229000,
+   "surface": 62.27,
+   "commune": "Montigny-lès-Cormeilles",
+   "cp": "95370",
+   "id": "0973055665",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-1631",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 199000,
+   "surface": 64.48,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "ecc6791241",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag781419-559211930",
+   "source": "Bien'ici",
+   "titre": "QUARTIER CHAMPS GUILLAUME : 2 pièces avec terrasse et jardin",
+   "prix": 220000,
+   "surface": 43.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "b4ade48721",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-agencegare-4094",
+   "source": "Bien'ici",
+   "titre": "LOUVRES   IDÉAL INVESTISSEUR OU PREMIER ACHAT",
+   "prix": 63000,
+   "surface": 17.72,
+   "commune": "Louvres",
+   "cp": "95380",
+   "id": "5e1af8f252",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2156756",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 230000,
+   "surface": 67.0,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "fd0b282200",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2156874",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 299000,
+   "surface": 77.5,
+   "commune": "Herblay",
+   "cp": "95220",
+   "id": "6399dd08ff",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61715886",
+   "source": "Bien'ici",
+   "titre": "Appartement 4 pièces Taverny  avec vue panoramique forêt et balcon",
+   "prix": 235000,
+   "surface": 83.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "78ae8c10bb",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-53017818",
+   "source": "Bien'ici",
+   "titre": "Appartement Cergy 2 pièce(s) 34.94 m2",
+   "prix": 109450,
+   "surface": 34.94,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "77011a859d",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/netty-alibi-appt-2399",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre Enghien-les-Bains",
+   "prix": 199000,
+   "surface": 41.68,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "3346f2f598",
+   "premier_vu": "2026-11-10T18:47:55+00:00",
+   "vu": "2026-11-10"
+  },
   {
    "url": "https://www.bienici.com/annonce/apimo-87009213",
    "source": "Bien'ici",
@@ -2409,7 +2553,13 @@
    "cp": "95400",
    "id": "a9f4864de0",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/apimo-87574729"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2153435",
@@ -4053,7 +4203,13 @@
    "cp": "95000",
    "id": "3957952572",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag133861-559233140"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag603844-556975133",
@@ -11605,7 +11761,13 @@
    "cp": "95800",
    "id": "a47b820b6b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-08"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2155598"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2114898",
@@ -15417,7 +15579,13 @@
    "cp": "95610",
    "id": "c5132a6e3e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61729686"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/era-2-61674607",
@@ -28293,7 +28461,13 @@
    "cp": "95100",
    "id": "32c5248c1e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag133861-559233029"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag133861-557232539",
@@ -28305,7 +28479,13 @@
    "cp": "95170",
    "id": "51d000792c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag133861-559233131"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_592_27657",
@@ -28431,7 +28611,13 @@
    "cp": "95370",
    "id": "9dcfc9820e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ifsp6a-5484905"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1729131",
@@ -43170,6 +43356,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNFRPI281474977551468"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag762216-559201568"
     }
    ]
   },
