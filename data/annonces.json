@@ -1,6 +1,114 @@
 {
- "maj": "2026-11-10T03:07:54+00:00",
+ "maj": "2026-11-10T11:20:23+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/century21-1-3777-12233",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 150000,
+   "surface": 42.97,
+   "commune": "Montmagny",
+   "cp": "95360",
+   "id": "1062c6b7a3",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/century21-1-3777-10315",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 295000,
+   "surface": 97.96,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "727521abdf",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-agenceterminus-5629",
+   "source": "Bien'ici",
+   "titre": "DEUIL LA BARRE - Centre ville",
+   "prix": 135000,
+   "surface": 35.78,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "4f8540e0a1",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/eiffage-6593-6593_2P_D1-003",
+   "source": "Bien'ici",
+   "titre": "Clos Des Bleuets BRS",
+   "prix": 146000,
+   "surface": 34.95,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "3ec1ba7092",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/eiffage-6593-6593_3P_D1-001",
+   "source": "Bien'ici",
+   "titre": "Clos Des Bleuets BRS",
+   "prix": 213000,
+   "surface": 54.66,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "cffdc6c2ed",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/eiffage-6593-6593_5P_D1-002",
+   "source": "Bien'ici",
+   "titre": "Clos Des Bleuets BRS",
+   "prix": 319000,
+   "surface": 97.88,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "e266384583",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2155245",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 149000,
+   "surface": 47.76,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "0d73f2cf1a",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2153068",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 162000,
+   "surface": 48.25,
+   "commune": "Bessancourt",
+   "cp": "95550",
+   "id": "63179116c9",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "prix": 199900,
+   "surface": 77.0,
+   "commune": null,
+   "cp": null,
+   "url": "https://www.pap.fr/annonces/-r465901755",
+   "source": "PAP",
+   "titre": "Cergy (95) Vente appartement 3 pièces 77 m² 199.900 € Voir l'annonce",
+   "id": "f2c368bf76",
+   "premier_vu": "2026-11-10T11:20:23+00:00",
+   "vu": "2026-11-10"
+  },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_3496_3866",
    "source": "Bien'ici",
@@ -2259,11 +2367,15 @@
    "cp": "95240",
    "id": "d33198b35b",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-08",
+   "vu": "2026-11-10",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-558657026"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-559018907"
     }
    ]
   },
@@ -2373,11 +2485,15 @@
    "cp": "95120",
    "id": "c2b4049add",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-08",
+   "vu": "2026-11-10",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-558669302"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-559012046"
     }
    ]
   },
@@ -2391,11 +2507,15 @@
    "cp": "95870",
    "id": "15fc8ddcd3",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-08",
+   "vu": "2026-11-10",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-558668771"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-559021058"
     }
    ]
   },
@@ -3075,7 +3195,13 @@
    "cp": "95170",
    "id": "e9dfe1a9e8",
    "premier_vu": "2026-11-06T07:58:17+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12167"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_592_27544",
@@ -6713,7 +6839,13 @@
    "cp": "95170",
    "id": "b7872a43b9",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12303"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mgc-251897498",
@@ -10095,7 +10227,13 @@
    "cp": "95170",
    "id": "681d1290cc",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-11185"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-agenceduportmarly78-377",
@@ -13133,7 +13271,7 @@
    "cp": "95160",
    "id": "36e27ef862",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09",
+   "vu": "2026-11-10",
    "autres": [
     {
      "source": "Bien'ici",
@@ -13142,6 +13280,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/safti-1-1682843"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12288"
     }
    ]
   },
@@ -14613,7 +14755,13 @@
    "cp": "95370",
    "id": "4fbebeeda8",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag133861-559160732"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756204-557362397",
@@ -14655,7 +14803,13 @@
    "cp": "95300",
    "id": "bb935b4ff5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag133861-559160939"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag440414-557117177",
@@ -15447,7 +15601,13 @@
    "cp": "95170",
    "id": "85d2fd9c8b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12321"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1709038",
@@ -15927,7 +16087,13 @@
    "cp": "95170",
    "id": "844e686c11",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-11925"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_2759_7670",
@@ -23945,7 +24111,13 @@
    "cp": "95880",
    "id": "9884f2e08b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-11726"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-58135833",
@@ -28833,7 +29005,13 @@
    "cp": "95170",
    "id": "ec427bd250",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12295"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag060811-554440214",
@@ -29067,7 +29245,13 @@
    "cp": "95170",
    "id": "5b423bd696",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12235"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_3569_1410",
@@ -29367,7 +29551,13 @@
    "cp": "95170",
    "id": "baadf46078",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12304"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_3777_9186",
@@ -29379,7 +29569,13 @@
    "cp": "95170",
    "id": "aab43b9d6d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-9186"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_592_27598",
@@ -29475,7 +29671,13 @@
    "cp": "95300",
    "id": "8a99e644fa",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag752647-559151537"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87414866",
@@ -29901,7 +30103,13 @@
    "cp": "95170",
    "id": "2d5605c03c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12285"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/laforet-immo-facile-52934784",
@@ -32823,7 +33031,13 @@
    "cp": "95360",
    "id": "83517d73ec",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12107"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5271324",
@@ -34825,7 +35039,13 @@
    "cp": "95170",
    "id": "cd753a6876",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-11913"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag603844-502289597",
@@ -40865,7 +41085,13 @@
    "cp": "95160",
    "id": "9f348aaa02",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-12030"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/gedeon-33143505",
@@ -41387,7 +41613,13 @@
    "cp": "95170",
    "id": "f773064bc5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-11813"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-59982645",
@@ -45509,7 +45741,13 @@
    "cp": "95160",
    "id": "63d3e9e687",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/century21-1-3777-11735"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5147858",
@@ -46489,11 +46727,15 @@
    "cp": "95870",
    "id": "54a9c087fc",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-09",
+   "vu": "2026-11-10",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag951353-507936281"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/era-2-61725938"
     }
    ]
   },
