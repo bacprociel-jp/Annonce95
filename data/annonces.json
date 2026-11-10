@@ -1,6 +1,78 @@
 {
- "maj": "2026-11-10T18:47:55+00:00",
+ "maj": "2026-11-10T23:53:20+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2156371",
+   "source": "Bien'ici",
+   "titre": "Vente Duplex 5 pièces",
+   "prix": 357000,
+   "surface": 118.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "5eb68c0b16",
+   "premier_vu": "2026-11-10T23:53:20+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1740075",
+   "source": "Bien'ici",
+   "titre": "FRANCONVILLE -  Appartement tyê F2 de 51m2  présente de sérieux atouts – Un appartement à découvrir rapidement",
+   "prix": 169600,
+   "surface": 51.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "8184fa47f7",
+   "premier_vu": "2026-11-10T23:53:20+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1734526",
+   "source": "Bien'ici",
+   "titre": "Charmant 2 pièces - Centre ville St Leu La Foret",
+   "prix": 200000,
+   "surface": 50.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "00700c57f6",
+   "premier_vu": "2026-11-10T23:53:20+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-dupontimmobilierPONTOISE-936",
+   "source": "Bien'ici",
+   "titre": "PONTOISE CENTRE-VILLE BEL APPARTEMENT 3 PIECES avec PARKING",
+   "prix": 209000,
+   "surface": 67.45,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "7efe050ea2",
+   "premier_vu": "2026-11-10T23:53:20+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2156582",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 214000,
+   "surface": 85.32,
+   "commune": "Sannois",
+   "cp": "95110",
+   "id": "795b52f8ef",
+   "premier_vu": "2026-11-10T23:53:20+00:00",
+   "vu": "2026-11-10"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-52989305",
+   "source": "Bien'ici",
+   "titre": "Appartement Ermont 1 pièce(s) 29.19 m2",
+   "prix": 145200,
+   "surface": 29.19,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "489a487989",
+   "premier_vu": "2026-11-10T23:53:20+00:00",
+   "vu": "2026-11-10"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag060811-559237292",
    "source": "Bien'ici",
@@ -6845,7 +6917,13 @@
    "cp": "95610",
    "id": "909287e13d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/safti-1-1739966"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87523040",
@@ -17893,7 +17971,13 @@
    "cp": "95250",
    "id": "434e618c80",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/la-residence-1-95730_64"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-5871",
@@ -19933,7 +20017,13 @@
    "cp": "95000",
    "id": "70bdcaa9c5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-10",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2156389"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-agencegare-4023",
