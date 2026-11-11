@@ -1,6 +1,114 @@
 {
- "maj": "2026-11-11T11:10:38+00:00",
+ "maj": "2026-11-11T19:40:28+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2154843",
+   "source": "Bien'ici",
+   "titre": "Vente Souplex 2 pièces",
+   "prix": 165000,
+   "surface": 40.0,
+   "commune": "Soisy-sous-Montmorency",
+   "cp": "95230",
+   "id": "e9e8c13ea4",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2157671",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 175000,
+   "surface": 66.75,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "02e99f6749",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2157419",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 190000,
+   "surface": 74.43,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "cfa9df0543",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/netty-company54396zsr-appt-46605",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre Beaumont-sur-Oise",
+   "prix": 200000,
+   "surface": 83.0,
+   "commune": "Beaumont-sur-Oise",
+   "cp": "95260",
+   "id": "079651e660",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag933595-559436213",
+   "source": "Bien'ici",
+   "titre": "Appartement neuf T1 1 pièce(s) à Bouffémont",
+   "prix": 207511,
+   "surface": 34.0,
+   "commune": "Bouffémont",
+   "cp": "95570",
+   "id": "a0aca001c2",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5484784",
+   "source": "Bien'ici",
+   "titre": "HERBLAY sur SEINE , Appartement 3 pièces DUPLEX  avec terrasse et places de parkings",
+   "prix": 283000,
+   "surface": 67.12,
+   "commune": "Herblay",
+   "cp": "95220",
+   "id": "f9dcbd5f0a",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/mgc-ancien-243_1188L-0008",
+   "source": "Bien'ici",
+   "titre": "APPARTEMENT 4 pièces 97 m²",
+   "prix": 217338,
+   "surface": 97.0,
+   "commune": "Groslay",
+   "cp": "95410",
+   "id": "bd143068d4",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6873",
+   "source": "Bien'ici",
+   "titre": "Bel F2 de 41 m2 situé au coeur de ville !",
+   "prix": 179500,
+   "surface": 41.0,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "id": "a7998a4bf7",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2157445",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 190000,
+   "surface": 63.45,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "e7cbb97dc8",
+   "premier_vu": "2026-11-11T19:40:28+00:00",
+   "vu": "2026-11-11"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-APOGEE-11351",
    "source": "Bien'ici",
@@ -13575,7 +13683,13 @@
    "cp": "95310",
    "id": "c019d680a7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-11",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2157345"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2125916",
@@ -29040,6 +29154,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61725782"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61732012"
     }
    ]
   },
