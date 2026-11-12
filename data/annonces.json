@@ -1,6 +1,138 @@
 {
- "maj": "2026-11-12T17:37:48+00:00",
+ "maj": "2026-11-12T22:51:17+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2158013",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 239000,
+   "surface": 40.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "8a49a00bcc",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1738954",
+   "source": "Bien'ici",
+   "titre": "Studio 24M2 en Duplex proche Gare de Pontoise",
+   "prix": 99900,
+   "surface": 24.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "a701c76b20",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1741114",
+   "source": "Bien'ici",
+   "titre": "Très bel appartement rénové 1 chambre en RDC",
+   "prix": 159000,
+   "surface": 43.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "ae8347eaae",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2154776",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 170000,
+   "surface": 81.68,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "cf45ba1359",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2070521",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 188900,
+   "surface": 65.0,
+   "commune": "Garges-lès-Gonesse",
+   "cp": "95140",
+   "id": "f3205c07dc",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2157596",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 5 pièces",
+   "prix": 332000,
+   "surface": 91.0,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "b7c8cdd4ff",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61734346",
+   "source": "Bien'ici",
+   "titre": "Appartement  3 pièce(s)",
+   "prix": 224000,
+   "surface": 76.0,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "6cc11e6ce6",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-45478165",
+   "source": "Bien'ici",
+   "titre": "Appartement Montmorency 4 pièce(s) 103,43m2",
+   "prix": 421000,
+   "surface": 102.33,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "8093de0de6",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5486367",
+   "source": "Bien'ici",
+   "titre": "IDÉAL INVESTISSEUR ? STUDIO EN PLEIN C?UR DE PONTOISE",
+   "prix": 81000,
+   "surface": 15.05,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "caac63c15e",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag754248-559652741",
+   "source": "Bien'ici",
+   "titre": "Bel appartement T4, balcon, loggia et parking",
+   "prix": 232890,
+   "surface": 87.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "c93ddfdfd6",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-APOGEE-11892",
+   "source": "Bien'ici",
+   "titre": "Investissement en EHPAD",
+   "prix": 118924,
+   "surface": 21.06,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "f2d43f61b6",
+   "premier_vu": "2026-11-12T22:51:17+00:00",
+   "vu": "2026-11-12"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-agenceterminus-5631",
    "source": "Bien'ici",
@@ -21127,7 +21259,13 @@
    "cp": "95130",
    "id": "1b85325cb0",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-12"
+   "vu": "2026-11-12",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61728964"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61141077",
