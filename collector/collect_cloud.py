@@ -176,6 +176,8 @@ def collecter_bienici(cfg: dict, connus: set, complet: bool):
 NOMS_EMAIL = {"pap.fr": "PAP", "leboncoin": "Leboncoin", "seloger": "SeLoger", "logic-immo": "Logic-Immo",
               "paruvendu": "ParuVendu", "bienici": "Bien'ici"}
 MOTIFS_EMAIL = {"PAP": "/annonces/"}  # les fiches PAP ont des adresses en /annonces/…
+# Types de biens à écarter (les alertes PAP peuvent contenir des maisons ou des terrains)
+EXCLUSIONS_EMAIL = {"PAP": ("/annonces/maison", "/annonces/terrain", "/annonces/immeuble")}
 
 
 def decoder(valeur: str) -> str:
@@ -206,6 +208,8 @@ def analyser_message(msg):
     source = next((nom for cle, nom in NOMS_EMAIL.items() if cle in expediteur),
                   expediteur.split("@")[-1].split(".")[0].capitalize() or "Autre")
     annonces = extraire_annonces(corps_html(msg), source, motif=MOTIFS_EMAIL.get(source))
+    exclus = EXCLUSIONS_EMAIL.get(source, ())
+    annonces = [a for a in annonces if not any(x in a["url"] for x in exclus)]
     print(f"  E-mail {source:<10} {len(annonces)} annonce(s) : {decoder(msg.get('Subject', ''))[:60]}")
     return annonces
 
