@@ -217,8 +217,18 @@ def analyser_message(msg):
 def lire_emails(cfg_mail: dict):
     expediteurs = cfg_mail.get("expediteurs") or ["pap.fr"]
     depuis = (datetime.now() - timedelta(days=int(cfg_mail.get("jours", 3)))).strftime("%d-%b-%Y")
+    # Les secrets collés contiennent souvent une espace ou un retour à la ligne invisible : on les retire.
+    utilisateur = os.environ["IMAP_USER"].strip()
+    mot_de_passe = "".join(os.environ["IMAP_PASSWORD"].split())
+    print(f"  Identifiants lus : adresse de {len(utilisateur)} caractères (domaine « {utilisateur.split('@')[-1]} »), "
+          f"mot de passe de {len(mot_de_passe)} caractères (un mot de passe d'application en fait 16).")
     imap = imaplib.IMAP4_SSL(os.environ.get("IMAP_HOST", "imap.gmail.com"))
-    imap.login(os.environ["IMAP_USER"], os.environ["IMAP_PASSWORD"])
+    try:
+        imap.login(utilisateur, mot_de_passe)
+    except imaplib.IMAP4.error as e:
+        print("  Gmail refuse la connexion. Vérifie : mot de passe d'application créé avec CE compte, "
+              "adresse complète dans IMAP_USER, alerte de sécurité Google éventuelle dans la boîte.")
+        raise
     imap.select("INBOX", readonly=True)
     ids = set()
     for exp in expediteurs:
