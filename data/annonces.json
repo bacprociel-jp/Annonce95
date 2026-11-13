@@ -1,6 +1,132 @@
 {
- "maj": "2026-11-13T15:26:49+00:00",
+ "maj": "2026-11-13T16:54:20+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag752969-559827449",
+   "source": "Bien'ici",
+   "titre": "STUDIO - VENTE INVESTISSEUR - IMMEUBLE RECENT - CERGY A21 BIS",
+   "prix": 112500,
+   "surface": 23.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "56faf1b4a9",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag752969-559631723",
+   "source": "Bien'ici",
+   "titre": "STUDIO - VENTE INVESTISSEUR - IMMEUBLE RECENT - CERGY A53 BIS",
+   "prix": 128000,
+   "surface": 28.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "dc5514db66",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag752969-559822778",
+   "source": "Bien'ici",
+   "titre": "2 PIECES - VENTE INVESTISSEUR - IMMEUBLE RECENT - CERGY A53",
+   "prix": 196000,
+   "surface": 46.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "e190eb1e15",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag752969-559824290",
+   "source": "Bien'ici",
+   "titre": "3 PIECES - VENTE INVESTISSEUR - IMMEUBLE RECENT - CERGY A34",
+   "prix": 248000,
+   "surface": 62.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "b270a7c5e4",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61733621",
+   "source": "Bien'ici",
+   "titre": "L'Isle-Adam ? Maison 3 chambres avec véranda et suite parentale",
+   "prix": 369900,
+   "surface": 77.0,
+   "commune": "L'Isle-Adam",
+   "cp": "95290",
+   "id": "723e68999a",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/la-residence-1-2438_87",
+   "source": "Bien'ici",
+   "titre": "Appartement de 3 pièces",
+   "prix": 435000,
+   "surface": 69.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "02a24a186e",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag750949-559829951",
+   "source": "Bien'ici",
+   "titre": "Résidence Ehpad",
+   "prix": 119000,
+   "surface": 20.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "5ed26b681b",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939785801",
+   "source": "Bien'ici",
+   "titre": "FRANCONVILLE - APPARTEMENT DE CHARME À 3 MINUTES À PIED DE LA GARE - CAVE ET BOX",
+   "prix": 189900,
+   "surface": 57.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "de5db776d9",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "prix": 170000,
+   "surface": 67.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "url": "https://www.pap.fr/annonces/-r465203218",
+   "source": "PAP",
+   "titre": "Arnouville (95400) Vente appartement 3 pièces 67 m² 170.000 € Voir l'annonce",
+   "id": "7223d5e17c",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "prix": 182000,
+   "surface": 52.0,
+   "commune": "Frépillon",
+   "cp": "95740",
+   "url": "https://www.pap.fr/annonces/-r463800966",
+   "source": "PAP",
+   "titre": "Frépillon (95740) Vente maison 52 m² 182.000 € Voir l'annonce",
+   "id": "83d3946593",
+   "premier_vu": "2026-11-13T16:54:20+00:00",
+   "vu": "2026-11-13",
+   "autres": [
+    {
+     "source": "PAP",
+     "url": "https://www.pap.fr/annonces/-r465602996"
+    }
+   ]
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6925",
    "source": "Bien'ici",
@@ -23849,7 +23975,13 @@
    "cp": "95150",
    "id": "bfa27667a9",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-13"
+   "vu": "2026-11-13",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-vovardimmobilier-2305",
