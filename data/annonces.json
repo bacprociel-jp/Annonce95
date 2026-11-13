@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-13T16:54:20+00:00",
+ "maj": "2026-11-13T18:34:27+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag951006-559872248",
+   "source": "Bien'ici",
+   "titre": "FRANCONVILLE  MONTEDOUR",
+   "prix": 147000,
+   "surface": 49.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "ab1bf6bd2d",
+   "premier_vu": "2026-11-13T18:34:27+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag602800-559855547",
+   "source": "Bien'ici",
+   "titre": "Appartement T4 77m² - Margency - A11",
+   "prix": 334000,
+   "surface": 77.0,
+   "commune": "Margency",
+   "cp": "95580",
+   "id": "b597d95b17",
+   "premier_vu": "2026-11-13T18:34:27+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-FLATANDHOUSE2022-856",
+   "source": "Bien'ici",
+   "titre": "Franconville   3 pièces de 62,65 m2, deux balcons, cave et d",
+   "prix": 226500,
+   "surface": 62.65,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "0ac4f0c139",
+   "premier_vu": "2026-11-13T18:34:27+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "prix": 200000,
+   "surface": 45.0,
+   "commune": "Fosses",
+   "cp": "95470",
+   "url": "https://www.pap.fr/annonces/-r465501260",
+   "source": "PAP",
+   "titre": "Fosses (95470) Vente appartement 2 pièces 45 m² 200.000 € Voir l'annonce",
+   "id": "f3c54214eb",
+   "premier_vu": "2026-11-13T18:34:27+00:00",
+   "vu": "2026-11-13"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag752969-559827449",
    "source": "Bien'ici",
@@ -1253,7 +1301,7 @@
    "cp": "95570",
    "id": "a0aca001c2",
    "premier_vu": "2026-11-11T19:40:28+00:00",
-   "vu": "2026-11-12"
+   "vu": "2026-11-13"
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5484784",
