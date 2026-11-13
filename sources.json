@@ -8,16 +8,10 @@
     "surface_max": null
   },
   "pap": [],
-  "leboncoin": [
-    "COLLE ICI L'ADRESSE D'UNE RECHERCHE LEBONCOIN (ventes immobilières, appartements, Val-d'Oise)"
-  ],
-  "seloger": [
-    "COLLE ICI L'ADRESSE D'UNE RECHERCHE SELOGER (achat, appartements, Val-d'Oise)"
-  ],
+  "leboncoin": [],
+  "seloger": [],
   "emails": {
-    "expediteurs": [
-      "pap.fr"
-    ],
+    "expediteurs": ["pap.fr", "leboncoin", "seloger"],
     "jours": 3
   }
 }
