@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-13T11:12:45+00:00",
+ "maj": "2026-11-13T15:26:49+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6925",
+   "source": "Bien'ici",
+   "titre": "Construction récente pour ce bel F2 de 47 m2 !",
+   "prix": 189900,
+   "surface": 47.4,
+   "commune": "Courdimanche",
+   "cp": "95800",
+   "id": "4cc7e314c6",
+   "premier_vu": "2026-11-13T15:26:49+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2156939",
+   "source": "Bien'ici",
+   "titre": "Vente Duplex 5 pièces",
+   "prix": 239000,
+   "surface": 114.0,
+   "commune": "Arnouville",
+   "cp": "95400",
+   "id": "4c0cb95d8e",
+   "premier_vu": "2026-11-13T15:26:49+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1740952",
+   "source": "Bien'ici",
+   "titre": "Appartement en rez de chaussée avec 340 m² de jardin proche centre ville de Luzarches.",
+   "prix": 200000,
+   "surface": 84.0,
+   "commune": "Luzarches",
+   "cp": "95270",
+   "id": "28d79fd762",
+   "premier_vu": "2026-11-13T15:26:49+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/netty-company51105kou-appt-2835",
+   "source": "Bien'ici",
+   "titre": "À VENDRE – BEAU F4 DE 81 m² AU COEUR D'UN ENVIRONNEMENT VERD",
+   "prix": 209000,
+   "surface": 81.37,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "745b3384f8",
+   "premier_vu": "2026-11-13T15:26:49+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag603788-559800830",
+   "source": "Bien'ici",
+   "titre": "SECTEUR MERU",
+   "prix": 192000,
+   "surface": 79.0,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "509a54ecd0",
+   "premier_vu": "2026-11-13T15:26:49+00:00",
+   "vu": "2026-11-13"
+  },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_2168_680518",
    "source": "Bien'ici",
@@ -40698,6 +40758,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag757613-559591631"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag757613-559821848"
     }
    ]
   },
