@@ -120,6 +120,8 @@
     font-weight: 600; font-size: 0.85rem; padding: 0.05rem 0.55rem; border-radius: 99px; margin-left: 0.5rem;
     vertical-align: 0.2em;
   }
+  .suite { text-align: center; padding: 0.75rem 0; }
+  .bouton.plus { font-weight: 600; padding: 0.7rem 1.4rem; }
   .vide { padding: 2.5rem 1rem; text-align: center; color: var(--discret); }
   .vide strong { display: block; color: var(--encre); font-size: 1.15rem; margin-bottom: 0.3rem; }
   footer { margin-top: 2.5rem; color: var(--discret); font-size: 0.92rem; }
@@ -179,6 +181,8 @@
   const CLE_VISITE = "annonces95:derniereVisite";
 
   let annonces = [];
+  const PAGE = 50;
+  let affichees = PAGE;
   const visitePrecedente = Number(localStorage.getItem(CLE_VISITE) || 0);
 
   // --- Critères : URL d’abord, sinon mémoire du navigateur
@@ -239,7 +243,8 @@
     return el;
   }
 
-  function afficher() {
+  function afficher(raz) {
+    if (raz !== false) affichees = PAGE;
     ecrireCriteres();
     const res = filtrer();
     const nb = res.length;
@@ -255,7 +260,7 @@
         annonces.length ? "Élargissez la fourchette de prix ou de surface." : "Les premières annonces apparaîtront dès la prochaine collecte."));
       return;
     }
-    for (const a of res.slice(0, 300)) {
+    for (const a of res.slice(0, affichees)) {
       const nouveau = Date.parse(a.premier_vu) > visitePrecedente;
       const lieu = a.commune ? a.commune + (a.cp ? " (" + a.cp + ")" : "") : (a.cp || "Val-d’Oise");
       const prixM2 = Math.round(a.prix / a.surface);
@@ -278,6 +283,13 @@
         prix, details,
         creer("p", { className: "titre", title: a.titre }, a.titre + " — " + ilYa(a.premier_vu)),
         actions));
+    }
+    if (nb > affichees) {
+      const reste = nb - affichees;
+      const bouton = creer("button", { className: "bouton plus", type: "button" },
+        "Afficher " + Math.min(PAGE, reste) + " annonces de plus (" + euro.format(reste) + " restantes)");
+      bouton.addEventListener("click", () => { affichees += PAGE; afficher(false); });
+      liste.append(creer("li", { className: "suite" }, bouton));
     }
   }
 
@@ -325,7 +337,7 @@
   }
 
   for (const id of [...Object.keys(champs), "tri", "seulNouveau"]) {
-    $(id).addEventListener("input", afficher);
+    $(id).addEventListener("input", () => afficher());
   }
   $("partager").addEventListener("click", async () => {
     try { await navigator.clipboard.writeText(location.href); $("partager").textContent = "Lien copié"; }
