@@ -1,6 +1,90 @@
 {
- "maj": "2026-11-13T03:06:42+00:00",
+ "maj": "2026-11-13T11:08:40+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-52973108",
+   "source": "Bien'ici",
+   "titre": "Appartement Bezons 2 pièce(s) 33 m2",
+   "prix": 155000,
+   "surface": 31.9,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "f8126de576",
+   "premier_vu": "2026-11-13T11:08:40+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5471818",
+   "source": "Bien'ici",
+   "titre": "Appartement Franconville 2 pièces avec parking et cave",
+   "prix": 145000,
+   "surface": 46.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "d569279c9d",
+   "premier_vu": "2026-11-13T11:08:40+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2156181",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 365000,
+   "surface": 83.0,
+   "commune": "Bessancourt",
+   "cp": "95550",
+   "id": "ee080be5e9",
+   "premier_vu": "2026-11-13T11:08:40+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "prix": 159000,
+   "surface": 47.0,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "url": "https://www.pap.fr/annonces/-r465102498",
+   "source": "PAP",
+   "titre": "Deuil-la-Barre (95170) Vente appartement 2 pièces 47 m² 159.000 € Voir l'annonce",
+   "id": "6c302c7f27",
+   "premier_vu": "2026-11-13T11:08:40+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "prix": 189900,
+   "surface": 52.0,
+   "commune": "Ézanville",
+   "cp": "95460",
+   "url": "https://www.pap.fr/annonces/-r464301299",
+   "source": "PAP",
+   "titre": "Ézanville (95460) Vente appartement 2 pièces 52 m² 189.900 € Voir l'annonce",
+   "id": "dd4de997dd",
+   "premier_vu": "2026-11-13T11:08:40+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "prix": 179900,
+   "surface": 69.0,
+   "commune": "Presles",
+   "cp": "95590",
+   "url": "https://www.pap.fr/annonces/-r463903383",
+   "source": "PAP",
+   "titre": "Presles (95590) Vente maison 69 m² 179.900 € Voir l'annonce",
+   "id": "a0f2f07f43",
+   "premier_vu": "2026-11-13T11:08:40+00:00",
+   "vu": "2026-11-13"
+  },
+  {
+   "prix": 148500,
+   "surface": 42.0,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "url": "https://www.pap.fr/annonces/-r465902676",
+   "source": "PAP",
+   "titre": "Deuil-la-Barre (95170) Vente appartement 2 pièces 42 m² 148.500 € Voir l'annonce",
+   "id": "410832fd16",
+   "premier_vu": "2026-11-13T11:08:40+00:00",
+   "vu": "2026-11-13"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag752647-559711340",
    "source": "Bien'ici",
@@ -44420,6 +44504,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61731422"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61735594"
     }
    ]
   },
@@ -44446,6 +44534,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61731434"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61735612"
     }
    ]
   },
