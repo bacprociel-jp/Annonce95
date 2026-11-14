@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-14T11:55:02+00:00",
+ "maj": "2026-11-14T16:31:55+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2159054",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 150000,
+   "surface": 34.66,
+   "commune": "Sannois",
+   "cp": "95110",
+   "id": "2e9557002c",
+   "premier_vu": "2026-11-14T16:31:55+00:00",
+   "vu": "2026-11-14"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/era-2-61741320",
+   "source": "Bien'ici",
+   "titre": "Appartement 2 pièces à vendre à Taverny - Investissement idéal",
+   "prix": 179900,
+   "surface": 43.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "f30d69eb91",
+   "premier_vu": "2026-11-14T16:31:55+00:00",
+   "vu": "2026-11-14"
+  },
+  {
+   "prix": 147000,
+   "surface": 66.0,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "url": "https://www.pap.fr/annonces/-r464000627",
+   "source": "PAP",
+   "titre": "Sarcelles (95200) Vente appartement 3 pièces 66 m² 147.000 € Voir l'annonce",
+   "id": "4d9b7f9e57",
+   "premier_vu": "2026-11-14T16:31:55+00:00",
+   "vu": "2026-11-14"
+  },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939793311",
    "source": "Bien'ici",
