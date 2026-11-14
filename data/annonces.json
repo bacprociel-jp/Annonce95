@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-14T17:13:12+00:00",
+ "maj": "2026-11-14T17:36:54+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-2665",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre de 3 pièces de 65.86 m²",
+   "prix": 385000,
+   "surface": 65.86,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "705baf86d8",
+   "premier_vu": "2026-11-14T17:36:54+00:00",
+   "vu": "2026-11-14"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG2GvnIN4s5P46W8PPRzqT46gxZxxD77wqsXX4k6B8aSJUcJb8S0DuH69QfH14hTb2-jE8UW7NSXvToonYRc904K6v-hWgOqh-LQO-fQOs",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces - Neuf",
+   "prix": 195000,
+   "surface": 47.0,
+   "commune": "La Frette-sur-Seine",
+   "cp": "95530",
+   "id": "7c98523f70",
+   "premier_vu": "2026-11-14T17:36:54+00:00",
+   "vu": "2026-11-14"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNTksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFFWoZVR6L1F2v-s2U5WsSwjnwJS66C52IAOLSe1umSUQtYoDcAE61-DtzqyoUjsW5s3LEfWQgBktplKJNVu4HUw6D7tyKK81LbAX6d1YvA9iFoKw",
    "source": "SeLoger",
@@ -12783,7 +12807,13 @@
    "cp": "95560",
    "id": "cdd82d8899",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-14"
+   "vu": "2026-11-14",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG2QcWLkzBFAt1w1Obs1bvdEeU_0e7Q2a6svaHOrfEnLK6nBMjr75vKkJUjOi3DsWyI_JS5ZR-nr1lq2ubdsXsDmTzvpJS8xP9QQ2PUBeZxYNQ"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2010591",
