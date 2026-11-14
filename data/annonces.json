@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-14T10:38:55+00:00",
+ "maj": "2026-11-14T11:55:02+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939793311",
+   "source": "Bien'ici",
+   "titre": "ERMONT CENTRE-VILLE  - STUDIO AVEC BALCON ET PARKING - 35 m2",
+   "prix": 169900,
+   "surface": 35.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "0e40f37691",
+   "premier_vu": "2026-11-14T11:55:02+00:00",
+   "vu": "2026-11-14"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-APOGEE-11912",
    "source": "Bien'ici",
