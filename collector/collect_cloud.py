@@ -15,6 +15,7 @@ import email
 import imaplib
 import json
 import os
+import re
 import sys
 import time
 import urllib.request
@@ -23,8 +24,8 @@ from email.header import decode_header, make_header
 from email.utils import parseaddr
 from urllib.parse import quote
 
-from common import (RACINE, charger, extraire_annonces, fusionner, maintenant_iso, notifier,
-                    sauver)
+from common import (RACINE, RE_PRIX, charger, entier, extraire_annonces, fusionner, maintenant_iso,
+                    notifier, sauver)
 
 DATA = RACINE / "data" / "annonces.json"
 CONFIG = RACINE / "sources.json"
@@ -178,6 +179,8 @@ NOMS_EMAIL = {"pap.fr": "PAP", "leboncoin": "Leboncoin", "seloger": "SeLoger", "
 MOTIFS_EMAIL = {"PAP": "/annonces/"}  # les fiches PAP ont des adresses en /annonces/…
 # Types de biens à écarter (les alertes PAP peuvent contenir des maisons ou des terrains)
 EXCLUSIONS_EMAIL = {"PAP": ("/annonces/maison", "/annonces/terrain", "/annonces/immeuble")}
+# Biens autres que des appartements, repérés au sujet de l'e-mail ou au titre de l'annonce
+RE_AUTRE_BIEN = re.compile(r"^\s*(?:alerte e-?mail\s*:\s*)?(maison|terrain|villa|immeuble|parking|local)\b", re.I)
 
 
 def decoder(valeur: str) -> str:
@@ -203,15 +206,125 @@ def corps_html(msg) -> str:
     return texte
 
 
+# --- SeLoger : un bloc (tableau) par annonce, tous les liens passent par click.by.seloger.com
+RE_PIECES_SURFACE = re.compile(r"(\d+)\s*pi[èe]ces?\s*[·•.\-]\s*(\d+(?:[.,]\d+)?)\s*m(?:²|2)", re.I)
+RE_LIEU = re.compile(r"^\s*(?:[^,()]+,\s*)?([^,()]+?)\s*\((\d{5})\)")
+RE_EURO_M2 = re.compile(r"€\s*/\s*m\s*(?:²|2)")
+
+
+def bloc_seloger(noeud):
+    """Remonte depuis la mention « €/m² » jusqu'au plus petit bloc qui décrit toute l'annonce."""
+    n = noeud.parent
+    for _ in range(12):
+        if n is None:
+            return None, ""
+        texte = re.sub(r"\s+", " ", n.get_text(" ", strip=True))
+        if RE_PIECES_SURFACE.search(texte) and re.search(r"\(\d{5}\)", texte):
+            return n, texte
+        n = n.parent
+    return None, ""
+
+
+def extraire_seloger(html: str):
+    """Lit les annonces d'un e-mail d'alerte SeLoger.
+    L'adresse reste celle du lien de suivi : on ne retire surtout pas son paramètre qs."""
+    from bs4 import BeautifulSoup
+    soupe = BeautifulSoup(html, "lxml")
+    blocs, resultat = set(), []
+    for t in soupe.find_all(string=RE_EURO_M2):
+        bloc, texte = bloc_seloger(t)
+        if bloc is None or id(bloc) in blocs:
+            continue
+        blocs.add(id(bloc))
+        m_prix = RE_PRIX.search(texte)
+        m_surf = list(RE_PIECES_SURFACE.finditer(texte))
+        if not (m_prix and m_surf):
+            continue
+        m_surf = m_surf[-1]
+        prix = entier(m_prix.group(1))
+        surface = float(m_surf.group(2).replace(",", "."))
+        m_lieu = RE_LIEU.search(texte[m_surf.end():])
+        commune, cp = (m_lieu.group(1).strip(), m_lieu.group(2)) if m_lieu else (None, None)
+        if cp and not cp.startswith("95"):
+            continue
+        liens = [a for a in bloc.find_all("a", href=True) if a["href"].startswith("http")]
+        lien = next((a for a in liens if "voir l" in a.get_text(" ", strip=True).lower()), None) \
+            or (liens[0] if liens else None)
+        if not lien:
+            continue
+        m_m2 = RE_EURO_M2.search(texte)
+        titre = texte[m_m2.end():m_surf.start()].strip() if m_m2 else ""
+        resultat.append({
+            "url": lien["href"].strip(), "source": "SeLoger", "titre": (titre or "Appartement")[:120],
+            "prix": prix, "surface": surface, "commune": commune, "cp": cp,
+        })
+    return resultat
+
+
+def url_invalide(url: str) -> bool:
+    """Adresse inutilisable : lien de suivi SeLoger privé de son paramètre (ancienne version du lecteur)."""
+    return url.rstrip("/") in ("https://click.by.seloger.com", "http://click.by.seloger.com")
+
+
 def analyser_message(msg):
     expediteur = parseaddr(decoder(msg.get("From", "")))[1].lower()
     source = next((nom for cle, nom in NOMS_EMAIL.items() if cle in expediteur),
                   expediteur.split("@")[-1].split(".")[0].capitalize() or "Autre")
-    annonces = extraire_annonces(corps_html(msg), source, motif=MOTIFS_EMAIL.get(source))
+    sujet = decoder(msg.get("Subject", ""))
+    if source == "SeLoger":
+        annonces = extraire_seloger(corps_html(msg))
+    else:
+        annonces = extraire_annonces(corps_html(msg), source, motif=MOTIFS_EMAIL.get(source))
     exclus = EXCLUSIONS_EMAIL.get(source, ())
     annonces = [a for a in annonces if not any(x in a["url"] for x in exclus)]
-    print(f"  E-mail {source:<10} {len(annonces)} annonce(s) : {decoder(msg.get('Subject', ''))[:60]}")
+    if source == "PAP":
+        if RE_AUTRE_BIEN.match(sujet):
+            annonces = []
+        else:
+            annonces = [a for a in annonces if not RE_AUTRE_BIEN.match(a["titre"])]
+    print(f"  E-mail {source:<10} {len(annonces)} annonce(s) : {sujet[:60]}")
     return annonces
+
+
+def dossiers_speciaux(imap) -> dict:
+    """Repère, par leurs attributs IMAP, le dossier « Tous les messages » et le dossier Spam."""
+    res = {}
+    try:
+        _, lignes = imap.list()
+    except Exception:
+        return res
+    for brut in lignes or []:
+        texte = brut.decode("utf-8", errors="replace") if isinstance(brut, bytes) else str(brut)
+        m = re.match(r'\((?P<attrs>[^)]*)\)\s+(?:"[^"]*"|NIL)\s+(?P<nom>.+)$', texte)
+        if not m:
+            continue
+        nom = m.group("nom").strip().strip('"')
+        attrs = m.group("attrs").lower()
+        if "\\all" in attrs:
+            res["tous"] = nom
+        elif "\\junk" in attrs:
+            res["spam"] = nom
+    return res
+
+
+def diagnostiquer_absents(imap, absents, depuis):
+    """Pour chaque expéditeur sans e-mail en boîte de réception, regarde s'il en existe ailleurs.
+    N'affiche que des nombres : le journal d'un dépôt public est lisible par tout le monde."""
+    try:
+        dossiers = dossiers_speciaux(imap)
+        for exp in absents:
+            print(f"  Aucun e-mail « {exp} » dans la boîte de réception.")
+            for etiquette, cle in (("Tous les messages (archivés ou classés hors boîte de réception)", "tous"),
+                                   ("Spam", "spam")):
+                nom = dossiers.get(cle)
+                if not nom:
+                    continue
+                if imap.select('"' + nom + '"', readonly=True)[0] != "OK":
+                    continue
+                _, data = imap.search(None, f'(SINCE "{depuis}" FROM "{exp}")')
+                print(f"    {len(data[0].split())} e-mail(s) « {exp} » dans : {etiquette}")
+    except Exception as e:  # un diagnostic raté ne doit jamais casser la collecte
+        print("  Diagnostic des dossiers impossible :", repr(e))
 
 
 def lire_emails(cfg_mail: dict):
@@ -230,11 +343,17 @@ def lire_emails(cfg_mail: dict):
               "adresse complète dans IMAP_USER, alerte de sécurité Google éventuelle dans la boîte.")
         raise
     imap.select("INBOX", readonly=True)
-    ids = set()
+    ids, absents = set(), []
     for exp in expediteurs:
         _, data = imap.search(None, f'(SINCE "{depuis}" FROM "{exp}")')
-        ids.update(data[0].split())
+        trouves = data[0].split()
+        ids.update(trouves)
+        if not trouves:
+            absents.append(exp)
     print(f"  {len(ids)} e-mail(s) d'alerte des {depuis} à aujourd'hui.")
+    if absents:
+        diagnostiquer_absents(imap, absents, depuis)
+        imap.select("INBOX", readonly=True)
     annonces = []
     for num in sorted(ids):
         _, data = imap.fetch(num, "(BODY.PEEK[])")
@@ -249,6 +368,10 @@ def main():
     existantes = charger(DATA)
     complet = bool(os.environ.get("FULL")) or not existantes  # 1er lancement : tout lire
     avant = json.dumps(existantes, sort_keys=True)
+    invalides = [a for a in existantes if url_invalide(a["url"])]
+    if invalides:
+        print(f"  {len(invalides)} annonce(s) SeLoger sans lien exploitable retirée(s) (ancienne lecture).")
+        existantes[:] = [a for a in existantes if not url_invalide(a["url"])]
     connus = {a["url"] for a in existantes} | {o["url"] for a in existantes for o in a.get("autres", [])}
     maintenant = maintenant_iso()
     print(f"Mode {'complet' if complet else 'rapide'}, {len(existantes)} annonces déjà connues.")
