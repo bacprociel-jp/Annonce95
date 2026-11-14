@@ -11,7 +11,7 @@
   "leboncoin": [],
   "seloger": [],
   "emails": {
-    "expediteurs": ["pap.fr", "leboncoin", "seloger"],
+    "expediteurs": ["pap.fr", "leboncoin.fr", "seloger.com"],
     "jours": 3
   }
 }
