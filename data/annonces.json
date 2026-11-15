@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-15T08:25:18+00:00",
+ "maj": "2026-11-15T10:57:16+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHatMdq9kYthvs3KZyv89v-wEVv4B1EgBjIjHHc0WObgS8Fzi_ZEPSvjD4wMT2TUlZk_WJhvxLmc3ClbPk3YijwNn5xP2kLGz-ovC-Mk2C3lee",
+   "source": "SeLoger",
+   "titre": "Charmant T2 moderne à Taverny, 39 m² à découvrir !",
+   "prix": 193830,
+   "surface": 41.4,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "60adc1d896",
+   "premier_vu": "2026-11-15T10:57:16+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHbCRnvfziVjTa558Mv26z_yEiuuTtlqRrOswa2oUV5Fwsx6T-u61eyJFNX7cMqTAMP2MzRGEFWjzdT25Rtm9adLLNd0oP71fICnANmwXlieHd",
+   "source": "SeLoger",
+   "titre": "Charmant T2 lumineux au c?ur de Taverny",
+   "prix": 184511,
+   "surface": 41.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "3233595133",
+   "premier_vu": "2026-11-15T10:57:16+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHimF8817DGM-8pbh3KGpM_mKPH2j_4DsGULC_Vk4YwxGew7sxZ4R9VFoP6SOjI1w5WQVmpOcXz6QxpN5zzUlLJiuVKeMokAZ_4DgWK8ePO24v",
+   "source": "SeLoger",
+   "titre": "Bel F3 lumineux, vue dégagée, TOUT À PIED (RER A 2...",
+   "prix": 164000,
+   "surface": 75.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "44cade7f9f",
+   "premier_vu": "2026-11-15T10:57:16+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHh2x9aX2cB3qeT7FsKQWxHyXJWqY_HRMlHps2_j8s3AJ6j4G_GZlyNZJJed9dxY0VH0dstNov2wlevY0cpdEt8yP7yyrXXnVyQcyX7lhZ1Y-T",
+   "source": "SeLoger",
+   "titre": "PONTOISE - appartement 2 pièces - 40m2 - un balcon...",
+   "prix": 201000,
+   "surface": 40.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "26d3278e0f",
+   "premier_vu": "2026-11-15T10:57:16+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHndQeHkRInxTSN9XC-DhaZPjWL4tGJMrkov26anq9q70JOQ70jEd9K02PRE4R7ZAbdYizgkCLueaF3DFnh6FYC4XBACul_aQkkBlXM_QsFuAl",
+   "source": "SeLoger",
+   "titre": "F2 55m2 Cormeilles en parisis",
+   "prix": 200000,
+   "surface": 55.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "2fc0b60ee8",
+   "premier_vu": "2026-11-15T10:57:16+00:00",
+   "vu": "2026-11-15"
+  },
   {
    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0545-8022",
    "source": "Bien'ici",
@@ -19727,11 +19787,15 @@
    "cp": "95310",
    "id": "cd1aa09e89",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-14",
+   "vu": "2026-11-15",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61655971"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHh2x9Y8iD8pBokNZQ9-7batkprng9_uDRjgQ2ycTAXv9tfttlqqoosL8PN9FOOO1lwcnAgbUDDKF8C6Wtg_7w_yEq3JznvqeNbNdczLMG8qfq"
     }
    ]
   },
@@ -24301,7 +24365,13 @@
    "cp": "95100",
    "id": "091685fdac",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-14"
+   "vu": "2026-11-15",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://t14.news.leboncoin.fr/r"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_592_27471",
