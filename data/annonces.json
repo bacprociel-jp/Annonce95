@@ -1,6 +1,162 @@
 {
- "maj": "2026-11-15T15:51:27+00:00",
+ "maj": "2026-11-15T20:45:21+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1741964",
+   "source": "Bien'ici",
+   "titre": "Bel appartement 3 pièces avec vue imprenable sur l'oise",
+   "prix": 188000,
+   "surface": 60.0,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "8328751fdd",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/century21-1-3777-9047",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 243000,
+   "surface": 76.09,
+   "commune": "Montmagny",
+   "cp": "95360",
+   "id": "147de02eb4",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2160031",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 255000,
+   "surface": 86.0,
+   "commune": "Saint-Martin-du-Tertre",
+   "cp": "95270",
+   "id": "8aa3163b15",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHunJkjgc8yH_2AUi1Nz9Eq8QRqSnmjRayMJq3JnsJr20D0sP8VgkpCD89VhZaZTw3feh3SPQWkfwAzFKphPRl-gKBHWLgrjC2rNqFsIUEKAFK",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces avec parking — Cergy",
+   "prix": 204000,
+   "surface": 45.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "b382596488",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHwXiF-04DciU0NaroYl2R_k8wwerTqwAsRfWMFyJo9961LMX2lWqzFjlqu63j4r5BuvARBp_QDtIB0-RQVkGlSuKMs_yiVzffVL0nRkc_KVd7",
+   "source": "SeLoger",
+   "titre": "appartement de type F3 de 75 m2",
+   "prix": 170000,
+   "surface": 75.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "9afcb2cfdb",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "prix": 148000,
+   "surface": 50.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "url": "https://www.pap.fr/annonces/-r465600783",
+   "source": "PAP",
+   "titre": "Franconville (95130) Vente appartement 3 pièces 50 m² 148.000 € Voir l'annonce",
+   "id": "a633dd7d48",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHpYmQGFcPbhDwAhR7XEinuZk6gWbM-jxQ0y6S7gI7H6FhD8LnMkzakBwv5Spnt8aaVw3km4aTMG88r1kqWgtYRgmTM_VWxtLqHhP1W3mCQg",
+   "source": "SeLoger",
+   "titre": "APPARTEMENT de 57 m² – 2 CHAMBRES – BALCON VUE PAR...",
+   "prix": 182000,
+   "surface": 57.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "fc79edf7df",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH6g4O9olISyFkK78EgPCoB6Rk2JadfFf88wzFWLhbxHuBl-uIQkAg_qJD_rLNmxVrF948bECo0_Yf4Oz-G3TykPq_KnJo7ZJ2J6se_WBc93T8",
+   "source": "SeLoger",
+   "titre": "Eragny (95) - A 2 pas de la gare d'Eragny et des c...",
+   "prix": 158000,
+   "surface": 38.5,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "470731f84e",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH9usFTejSDoQU9nbOV60oZjNIxM51yqLVyPCv7cE4aBZyNjTGRNI-a5LPaWwK4mC_VHMLGll6tLB4Yw-7Zc3TjwzgDA6MQ5H7TKzGzsTXxZAq5w",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces avec parking — Cergy",
+   "prix": 220000,
+   "surface": 45.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "751da7b998",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH9usFU2tuhaH96aojTCQjukLiMlr_VgxiuLnwtDXT7oo2QXqMfXcj4QJNwrRSmwGfbQMRoUc1ctpNEbjMa5SVoPT7ZWEYIvcXBSEtN3_RnbozsQ",
+   "source": "SeLoger",
+   "titre": "Beauchamp — Appartement 2 pièces",
+   "prix": 220000,
+   "surface": 45.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "6846d90bd4",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH_Edfalbi1U8o6V0i4zwUxJQdBL_UhuZrms151gM-gpkEm6BdbJQHcTZf00PAjHm4MNFRaljQr0jsnwGVV18OUk7EtdlLnDHa5iaEP68L1gnm",
+   "source": "SeLoger",
+   "titre": "Appartement T2 de 41 m² avec extérieur de 7 m² et ...",
+   "prix": 197900,
+   "surface": 40.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "4f92c7e282",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH8OKEuZT1Zrwy8NzWiVVK0a7hUS5nJj3Ut6gkiyBdcrMbwoj05OQREAmLYvL_QeMRZRFyCyRkNUyX5rPD43Qx_XDEJ_yF5Xf7dvgS6RDAEBRCmw",
+   "source": "SeLoger",
+   "titre": "Méry-sur-Oise — Appartement 2 pièces",
+   "prix": 210000,
+   "surface": 40.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "097a5d976f",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH8OKEvz-8X6iIZjH9dELeJXU35eBg3blAGjz27vs8jJXsCF2-EVBV27KlgQdYAf-t3rSnu6rhrJ7oQNL1-wX3P1OOBF5lA3Vj9LnoU3GU5GDAEA",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces avec parking — Beauchamp",
+   "prix": 196000,
+   "surface": 38.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "0cf2ee07e4",
+   "premier_vu": "2026-11-15T20:45:21+00:00",
+   "vu": "2026-11-15"
+  },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1741251",
    "source": "Bien'ici",
@@ -600,6 +756,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHBDGldFP3UTWfmU6OB2iysJd9FE9EPf-l4U7ffkkI-64JHa3iRnwToyv7dTt-Z2B70getJ2U-xV61FeHFgqcZts54TORI1MD93r9RvaS-VjcwPg"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH7tqvsQkYBjldL7JCAwtc_EfDaEudzkaJLuqMQ36mRhO3N3e3IrLuPKSYFGpAhx5xOpF_zroXL956vcdO9orwTqEfgR5Ba0skwZloDfothHy-"
     }
    ]
   },
@@ -618,6 +778,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG4W8lwQOBRqz9uZ9m2OYxA8d8044IlZJHHNaFV3oUbHvAq5Ueyr820Cn7TxYM9zYaVXyao4wKm6Snod_4zMPK47O195NhVe05FChoqK31dfSC"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH7sm8GhD1YEpCmarzBoxbLI-JKfpNyGovQcvdQ-8ilC7WP0FAhg6mzmii2qamV9cB2BsnqBlhNVsoEX_vVLdpy_hx3VDelcNH5R7t-jQ5wrW1BA"
     }
    ]
   },
@@ -636,6 +800,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG-LmwSWuOavV43OJFiQhUqWPfsVibzSIY8NyyWO1X67Ra9CpemYNGYYb3LLXHwHasFxYK7w-PyGNFuPBs8yQCpZbhpijty_hQ2xmRApT85vV7"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH7tqvq_fvBJ7KLfTAGC2ugn9cZKhQgDEQ_0vIVACWXzE6-4GwpsGxpX_2zhJ8bzE4VOwBy-_DO7yGhHOfZvKL_ZxSjiU2S5HZQtyV42LGPhbJ"
     }
    ]
   },
@@ -683,7 +851,13 @@
    "cp": "95250",
    "id": "194f824491",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-15"
+   "vu": "2026-11-15",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH_EdfcdMuW-E7PNh9HUOViQbY2KAoz0Cthi2K0t4v-nm4hLQ85jhkxKhyu1NuMZ_XlDppqqyQLbBOjK7xEf47wttMQuiX9-rlo-MtKDQYljos"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNTksInQiOjYwMzAsInMiOjUxfQAzAAAAAAFF0NYltk30LeSLlgyrCCt_ugmE4nHTK4ujS4j4HUtEAKDmnv_OLcxLxbquvBj1jfRrAhaPUJADOGCNTBbtjskk5hy0zJ7fU7m0PLsV38Q83_ZR",
@@ -695,7 +869,13 @@
    "cp": "95250",
    "id": "e9df18976b",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-15"
+   "vu": "2026-11-15",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH8OKEszLU_iepGX-cipeysojdC_-BJoIbwJqhBaKw8_-6ZwPV1xUqN2OrBBb38-gMg1EmCNP5y9nb3PM29trJP7xQZJPUYJgi_wFk3V64O9DbYg"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFFjwTjSFCdSKNt-8mmWcXu-h-fxUJF-myNDaLGZkdrROo8wxAOzlcyLMLOnOcVo8QhnFulY9I0flcS7-QtLTBZSUWQuidiV5oWoCkYH_DfT8bs",
@@ -719,7 +899,13 @@
    "cp": "95320",
    "id": "b00a390dd7",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-15"
+   "vu": "2026-11-15",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH_d9mMnVmDwERHLAfDUcC8f2L9H9o4ZOZj1lcOQm9Y9f8EVd4gS_vsxEPgIIyFI5EBbJlfezxPkoBcloRqgPYo3xxZCIcc4veKmLpC0DQG5DedA"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFFjwTjVL-zua4HbHzNl2wGtLRLtekQ2b8_9QehMOc6BpICGX8N05zlr7Zl97OZbrRn2lV3aANrnmWDCoJI3mAPmGwDK3FX2dEOhHOH3gCm0zHd",
@@ -736,6 +922,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHBDGlgHGYZNmusy5sy8e89mW7VQ24lEappju8bZ2a_h7vRAS8tkOT1RT77UfDPGaTS_U00gq6261OzBE5zSxLPklKw_FW_DcXt3ePew3jvA3B_A"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH8OKExVVQBi_EbnTl0I3kQ2EBhQnEL_FT97-xRuPeY7NJgF1DZEjhLcfptdNqjJEgQ7NQF92nIzrUb2yii4m6_i4Hb8ULXrM2zCW8GMlG-KdGPA"
     }
    ]
   },
@@ -772,6 +962,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFGvfGCGCksiwKT2DSfI6qN_5jvuFQuoHcMgHY7OugU1284FydF_MGvhCwTK3SFGf2qtuVXU_8-CwvlvFs8g8ZAfnJMzkpnSLoeIDiki2RaFovE"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH_d9mOMK-ygRz_yADKrEy1MwvLqdykj3fg0Y0OSYGHKk8FALjIsC_pppwhSPBiWmF59H2wRGQ5XkHYKfkodsjS12yjd24_iy4pL-rgLv37CQ51Q"
     }
    ]
   },
@@ -12551,7 +12745,13 @@
    "cp": "95130",
    "id": "14cf4efa1f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-15"
+   "vu": "2026-11-15",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHzbHMEMWkvGbpEJ48w1Egd7SuLrKsRjvKL73DFtcNAxntjlhe25fT9eXMw0beam7gkUgKdrVnbk12aI_AlrqPA8GKNQjJJjaZcwNc_1t2ZcTY"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-1479_EXPERTIMO22-304566",
@@ -13655,7 +13855,13 @@
    "cp": "95310",
    "id": "d29a353523",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-15"
+   "vu": "2026-11-15",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH9vftKHpKIZtUE3zxDnborWz4R1LwUIoTNyH-iu4I0tqncr815k3oUQo8fOA5xK-4z-ORzcuNEm49Cy-48v__3H30tYlWDu9XXk0JiBPFKPVK"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-86890664",
@@ -23235,7 +23441,13 @@
    "cp": "95110",
    "id": "8f66c70672",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-15"
+   "vu": "2026-11-15",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHzbHMCr37nNfh8iMoA9UeOavkh3_zzklqk5Zazkw6YXYf19vv6EF19CJzISiyIN-awejUwbM9OQiCzi1VNg__PoC1KKfS-cb_tHfLLS07UXnM"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag951007-547692113",
