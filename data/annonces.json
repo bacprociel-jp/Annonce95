@@ -1,6 +1,396 @@
 {
- "maj": "2026-11-17T12:03:20+00:00",
+ "maj": "2026-11-17T18:38:52+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99938779787",
+   "source": "Bien'ici",
+   "titre": "FRANCONVILLE - APPARTEMENT 3 PIECES À PROXIMITÉ DU CENTRE-VILLE - Loggia et Cave",
+   "prix": 179900,
+   "surface": 65.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "cd77c8e3a6",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-1634",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre de 4 pièces de 72.48 m²",
+   "prix": 215000,
+   "surface": 72.48,
+   "commune": "Eaubonne",
+   "cp": "95600",
+   "id": "4742742c82",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560721233",
+   "source": "Bien'ici",
+   "titre": "2 pièces avec extérieur et parking",
+   "prix": 225000,
+   "surface": 44.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "30b6725a07",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560721152",
+   "source": "Bien'ici",
+   "titre": "2 pièces avec extérieur et parking",
+   "prix": 243000,
+   "surface": 45.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "7ac7616924",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560721182",
+   "source": "Bien'ici",
+   "titre": "4 pièces avec grande terrasse et parking",
+   "prix": 379000,
+   "surface": 84.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "863e4206b3",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560722967",
+   "source": "Bien'ici",
+   "titre": "4 PIÈCES EN REZ-DE-JARDIN – 3 CHAMBRES – JARDIN D'ENVIRON 69 M² – 2 PARKINGS",
+   "prix": 611000,
+   "surface": 90.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "397590a4ba",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560721089",
+   "source": "Bien'ici",
+   "titre": "5 PIÈCES FAMILIAL – 4 CHAMBRES – JARDIN D'HIVER – LAC À 5 MIN – 2 PARKINGS",
+   "prix": 682000,
+   "surface": 105.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "0ea597c44b",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag060811-560726699",
+   "source": "Bien'ici",
+   "titre": "Appartement à vendre 3 pièces 2 Chambres FRANCONVILLE (95) place de parking, loggia, Cave",
+   "prix": 175000,
+   "surface": 63.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "ff714dcdf7",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939813300",
+   "source": "Bien'ici",
+   "titre": "Appartement Bessancourt 3 pièce(s) 63.63 m2, lumineux, stationnement",
+   "prix": 279900,
+   "surface": 63.63,
+   "commune": "Bessancourt",
+   "cp": "95550",
+   "id": "cac4322f7d",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87603224",
+   "source": "Bien'ici",
+   "titre": "T4 SUD OUEST EN ETAGE TERRASSES ET PARKING",
+   "prix": 309900,
+   "surface": 80.0,
+   "commune": "Louvres",
+   "cp": "95380",
+   "id": "4dae89b9e3",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87603107",
+   "source": "Bien'ici",
+   "titre": "3 PIECES EST OUEST EN ETAGE TERRASSES ET 2 PARKINGS",
+   "prix": 243000,
+   "surface": 60.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "274e407aa0",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560711111",
+   "source": "Bien'ici",
+   "titre": "3 pièces avec extérieur et parking",
+   "prix": 269000,
+   "surface": 60.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "5120146887",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5490877",
+   "source": "Bien'ici",
+   "titre": "DERNIER ÉTAGE - SUD OUEST - 15 MIN GARE DE CORMEILLES",
+   "prix": 225000,
+   "surface": 67.0,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "ea2b70f406",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5490875",
+   "source": "Bien'ici",
+   "titre": "APPARTEMENT TYPE MAISON DE VILLE - 5 MIN GARE DE LA FRETTE",
+   "prix": 249000,
+   "surface": 77.0,
+   "commune": "La Frette-sur-Seine",
+   "cp": "95530",
+   "id": "8ef38103e4",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87602797",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces",
+   "prix": 188110,
+   "surface": 64.2,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "19f81c48a0",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag753775-560703257",
+   "source": "Bien'ici",
+   "titre": "Maison avec cour privative au calme",
+   "prix": 280000,
+   "surface": 67.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "1500fa33d1",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/century21-1-3777-11065",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 199000,
+   "surface": 78.9,
+   "commune": "Montmagny",
+   "cp": "95360",
+   "id": "41e0747f96",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1742017",
+   "source": "Bien'ici",
+   "titre": "Rare sur le secteur",
+   "prix": 142500,
+   "surface": 33.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "cbd433c057",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1742308",
+   "source": "Bien'ici",
+   "titre": "Appartement de 2 pièces lumineux et sans travaux",
+   "prix": 189000,
+   "surface": 48.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "a2bea31515",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK9Bp47GnUsEEdtL4ivZWq1Dutc_ykqCw0iRWufznF0smbEoQXQf7tMBXDbkvJsLNcVB4j5qusKBhoAQq92aM0oh3yaFs23wbb_xOGCbrjlgAT"
+    }
+   ]
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKt24GPFHQL2CVejirJbdoOzZLNjZff2TtxkTuqBVv6nyucGUrk6y7SvrytPYNYO7Yb6hnPzmMQ8gXYD2h-zTz5WThBC6KBnrx_ujL9r7AUz5h",
+   "source": "SeLoger",
+   "titre": "Appartement T2 de 41,07m² avec 5m² de balcon et pa...",
+   "prix": 196000,
+   "surface": 41.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "9296ca7f11",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKy4jSfU-gc3T1jBDg-RojoT7BlVe4tGWe2ujFyU8YEmYOAZnzjaaT3lHaUtWR1UDW7DGQg4tj6_IKOBqZnew68qf4kJPb1tYuvsbFRix0iqrz",
+   "source": "SeLoger",
+   "titre": "MÉRY-SUR-OISE – T3 lumineux avec balcon",
+   "prix": 175000,
+   "surface": 66.14,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "1b5f095da5",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKzLN4dHslvm_fzfuIMD96lGShR-vDBm_wGpayA2rRLbTpDRsZvKpGOCPLwOpV0meInttoRKNSB-uLQV-M3f0Zq11fOr2nks1Rhzfag9nb1eaZkA",
+   "source": "SeLoger",
+   "titre": "Appartement - 2 pièces",
+   "prix": 214000,
+   "surface": 42.94,
+   "commune": "Pierrelaye",
+   "cp": "95480",
+   "id": "05cc0e25ff",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK_VbyFVUfN7gYnbqYbTXc1xHlzO6TcO7r5SwVTQVCjuJgOM8_sTk1MK4EhY44Y3y34S-er0aSpE8AMDbWSdxKUPPslKoTcQhl9nmwrVc0DtVg",
+   "source": "SeLoger",
+   "titre": "T2 NEUF: Cadre privilégié et prestations modernes",
+   "prix": 201000,
+   "surface": 45.0,
+   "commune": "Pontoise",
+   "cp": "95000",
+   "id": "d25ec2818d",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK_VbyI8OXHTmfBRrFEWvizakDv1o2U449vnL0MJuu6xH78KBY78AOimyNOkmbzEfYSQA_LMmnHbCXNHWaVYGifFOjxQPRSQFXw_pBYl5eCTy7",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces à Baillet-en-France",
+   "prix": 203000,
+   "surface": 43.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "1c4e8fbae4",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "prix": 198000,
+   "surface": 42.0,
+   "commune": "Sannois",
+   "cp": "95110",
+   "url": "https://www.pap.fr/annonces/-r465301470",
+   "source": "PAP",
+   "titre": "Sannois (95110) Vente appartement 2 pièces 42 m² 198.000 € Voir l'annonce",
+   "id": "b53d6f3e76",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK9Bp4-BpbF40KxI-DdevTyMvPgUA0n79Cp6OqljCJ6-iDKd_vn_pmQpnBe-DI7hJh4QxdtMsPiboaOmNjbrtgEzDW9T1I__OrBdjDKb26DWNJ",
+   "source": "SeLoger",
+   "titre": "Bel Appartement à deux pas de la gare RER A",
+   "prix": 209000,
+   "surface": 67.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "74d81a34df",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLDs2KwyHaP4qzCJsq0nZycRmDyK1slB5TRKLAwsBNOX4wH_48JfGsJYdXlVg96qRNzADtw0dQBWXgJZ7c_6mf-iur9kDeglm8zQIiygzFwUU",
+   "source": "SeLoger",
+   "titre": "appartement",
+   "prix": 189900,
+   "surface": 59.1,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "547ed3f947",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLHVxc0nWc2-US5-2ShKEf7J6qVHDEdhjjCBNg-PBM6lu6ypuu229V_lzwV-i3rT3DO7obweh7S0A47qOgGXgwMIl7GLt4KqtIaOOdpTaxLpYJ4w",
+   "source": "SeLoger",
+   "titre": "3 pièces",
+   "prix": 199000,
+   "surface": 71.59,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "d96ac287c1",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLO5Lhoml2FVvIZ9K8h0B4dydH1khp0CF4Lp4B0bbCUZnmTmhRNs3xsRsbF2iqoWBgw410lis3jpl565GnVtQsjmfI9jehaVsvzKTnarchemU",
+   "source": "SeLoger",
+   "titre": "APPARTEMENT",
+   "prix": 179000,
+   "surface": 49.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "7e71c05661",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLRGrZ1MAJ9uQY7pWLKxxsrNqNpYMx1UD6KqTg7vyvUXVKoZJoQovbwoO0DLNw2UOmCpCjXl4bmIbjGs_SCEJ_VP1T5xKB9xdKnqaKAcuFlpA",
+   "source": "SeLoger",
+   "titre": "Appartement Pontoise 2 pièce(s) 40.30 m²",
+   "prix": 198500,
+   "surface": 40.3,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "ff2e5536a3",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLUTGTCmgk4H46SoMnNhgvEE1dvs5rDrbTvcbwznEi8CBprMPEfCIaeaOVQwgjrtiAQQahLIEOewKBFSgILmcmPrceqtAdXMjrX7L8ceUaJ3AW",
+   "source": "SeLoger",
+   "titre": "Cergy - Appartement T2 de 45,22m² avec 27m² de jar...",
+   "prix": 213000,
+   "surface": 45.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "6a9b5d9c08",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLYsC-r69Vvi0vYnlrRAMFFactu3_7mxrSXoTTBd2ZtxcqRgi1WS0KorPcAFV0RbFUcWtd-sHb2v_uyQBqwZ_qF4xbm2PhD6DTgq_HNx8E8G6kjw",
+   "source": "SeLoger",
+   "titre": "Plein centre-ville",
+   "prix": 219000,
+   "surface": 40.0,
+   "commune": "Le Plessis-Bouchard",
+   "cp": "95130",
+   "id": "49d1d9bea6",
+   "premier_vu": "2026-11-17T18:38:52+00:00",
+   "vu": "2026-11-17"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag951007-560666276",
    "source": "Bien'ici",
@@ -107,7 +497,13 @@
    "cp": "95000",
    "id": "be2204ea44",
    "premier_vu": "2026-11-17T12:03:20+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKzLN4egStdiMJAirbojaegYpCVCQC8-bvYENLIes3Ah-SasVFRRdYpVd6feqK-ckowsKt8FHMIxWQLCiDBp35B1C7q5qYTs4bhwCvtcXx0Vi_Mw"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-59373526",
@@ -311,7 +707,13 @@
    "cp": "95560",
    "id": "2955f7c483",
    "premier_vu": "2026-11-17T09:16:39+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK7_pX7N6cAOI7K-fbOrEKnHq6kdy4Ab2HXDhAFScE18t0GQiV_g1S7kq0C8UdFA8rquRgmgLlQKIy2aT7Yjj1gJ1ySqoan3JV3JUPYzUEV4ZE"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKHeDV9twu2LK0H2uS45q2jJLxHaVUBqCaGwDSYNYZ9ER3ZVM-GLZpYYeOVUTxjq2TECbUZGZH584Ymwm1234boXFYoVk_0v0e3drf3mX9PRckbA",
@@ -2236,6 +2638,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHxnd10kc1FredskBJsf0C-g6kvgrWxYDKLcUrhG_r-bzDwHQDYk-IvH_BAnDKREA0H7fHKMiQR4VJd3E4DsjYeEN_fkATmaKj4F2YcJsjGse7iw"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLYsC-qWPd9t4Kcp3slTxW8sCRCK758GymeXs41famz7xWcPjnBfvO1TLuBElJmuDb2s0Pt7Mql3NsFLMcNa5FjYNb9HppgdSggILK3bGXLtCIKA"
     }
    ]
   },
@@ -2344,6 +2750,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKEx5eXhAb1jXS0v14ndlKg41F1Ug-z35fzb1lz7676b38Sawxl5A24gHT_Qefr8bYIza71h3rXVDB_6tNa5_ir8LenRBhAYE0IwaEt6MjJBuf"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK05bs91Ve0l6md3xVx9wuvN3lB54TCCF37s3rTgosYuwtAlLfVSLnP9I5wLGbfNuydDTyonxm15UhvE9bKXsW5UzX6-FG-Rvx6EjG7HnLsZ1W"
     }
    ]
   },
@@ -2434,6 +2844,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFI2fRY61pLqP6bTRYoxTYwqxH11cyoI_C24SqBcXIlSMbgl083IH9ejJIYKt7rSDXhtuDZYEOLwv69OwTWm8mgp1GOSqOhP4nR4mI6-j_2Bpa0"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK9Bp48iEgbC0akG0HmIlWwzDlBgLXFCXpZw3vG-Gy9x45C7x01fEJfgt6MDpTkbE3UNDtKNWEKe1n_06eFVycVyULQdC-IN7rK-bwcikXE4GH"
     }
    ]
   },
@@ -2452,6 +2866,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH_EdfcdMuW-E7PNh9HUOViQbY2KAoz0Cthi2K0t4v-nm4hLQ85jhkxKhyu1NuMZ_XlDppqqyQLbBOjK7xEf47wttMQuiX9-rlo-MtKDQYljos"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK7JzOz2UjLtcrsQR8cbeEUIq6HgvG_TpNDMBhn-br5t1bcbh7UqDZor0weRgtq-gkJnZo-s9rFifHF87hCjdX2m5_OI1K1mssS9-roXfo"
     }
    ]
   },
@@ -2508,6 +2926,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFJ_NRFbPGns6zCdaHkyQBdfOwtnDmBairSFJFWycJwtVsY7XYAArMrv_2jvwA4Jt3bMg7RadXpSZCdOEZWyOVpj9M_1ic07wIgmTfaUci1pM1X"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560721131"
     }
    ]
   },
@@ -2882,6 +3304,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFI8su2nzFm3ZK7Dln6-i2win9irvQjcLV_34SQX1yw-fQ0Wr8QqmTI75pfMWPdL7Bo1nlLc718vQJXk15LslxHG-wATlJ6wKWg3YOupbvEiaSp"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK05bs_d3skXtJz_C7Qg4ShcjLNjSCGvKw2vPw0a3BID2Pgv0n8UQReQAqrI3lkDWRlBnCfPlrt9_YolG7zmxLobvCuI59jCwL-9eIPZb-bo8P"
     }
    ]
   },
@@ -2904,6 +3330,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFI2fRY5YLATT7RLilUuUoeEPXeXM3xZ3mX8zn5nY54FgtlyOiaERjlHLo-fQ08wEVkX133iA_rcqp1KGm7gUpl1i-qkotA-IT_VkhqsBNJ6aGn"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK_VbyVX_t9yefIQuUqE_uXe589sukcXNOHy-Y0clatdKvIDmjA3V-TXuG8GhG2n-Lo97yKZ0LL6CvN7ooKh81TkOM7Ja_riTldGoiU9rD9DXQ"
     }
    ]
   },
@@ -2926,6 +3356,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFJAJHYNIrcY6e1lZKsB8zIYj3JGZ9TTRnf89fn9smRgEQ6PHBc1OdiXYQ1ob-lZszYtc_XuapwQ63TBOvX7xAoRjsyaJs336beCQwTZ-vQao1g"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKzK7GFYVX81NDlPHJi0DYfHnNKa_uhGNEuuKJHnyvNlGrgOdM9-fjShmlXF89bbIVjwcj7iIxhM6Nd2KD2ZArvLqYdKyT7T_sY88Riwv_uZJN"
     }
    ]
   },
@@ -2968,6 +3402,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHqg3QkOxkwl82LxBph6mj9KjAs3oSXrWylvXv6JQMlyFYHlRna3rx4vlTXee1w7LtOqB17UG8Gx9kNPbs0x7W8S8e20af5d_lCTHFYUsDnyFT"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLBW3Q1fDyRlb05i3Tw7SSOFWfWKHSdWt-Qb6duPQ6jSkO-0d9kHr-CCKgIAQYtDH8h91kYfygMn2qd1iP_KemcU1kmWMyvlPb850hFeHnmLtF"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLYsC-tfIe6-WIVALTo9LBPcbvIAN5OkJ5RZu67W42o_umRerIR3jqiZY35gGjeVpJIS_TkfixLupuh8fZVMSEBCGFiEheyH87L2d2EC4dDe08Xg"
     }
    ]
   },
@@ -3101,7 +3543,13 @@
    "cp": "95280",
    "id": "fd8ae140cc",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLQ7JAOKht4H43O8KVET4tMONKjzzuvAl-eskAf08PoqvYhkaYcy8WWUhmoz4EM_LVrgYt5Klc0_Pg3YeCUH8LwvSvIn7vLkxsg0-SduMFiAr2"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG1v3QgxN0WAMGCAvTNloc904BEVZn_NLtQhCVL4KlwM5fHEIWeCEEDezTXBV4_DzCxpRI4946X3VhdBSTqd73WxEYgJIgYVo60bXk79qxAeLN",
@@ -14837,7 +15285,13 @@
    "cp": "95310",
    "id": "7addd28c5a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLH2ZAvk0hmhyvUroBkz8iy7N3JsaWziuGcA9-n6hO0K1AFlLipYUSVnSsE0fOKHSX7r4zuqSxW8ACJmJHSPW4FoF38dYKCSpEmc_ygIm7iA"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/laforet-immo-facile-22642521",
@@ -18395,7 +18849,13 @@
    "cp": "95540",
    "id": "464d75be9a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLUTGTENTteExlFh4PzpxdZmnTsb3yYMOD44_sY0qUgHrkYvTPMVYtDhAdeRKcmuXyZpnO6PnMLdP2CETXCJg_0W5XbW6pcB3mlCj4D3l7JZjC"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2103317",
@@ -21205,7 +21665,13 @@
    "cp": "95310",
    "id": "b75589d52c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLRHhqQHVOLlMijvYwmdlpabwo1FMSjTf0tDn_0iwr-GTJOGyGJ4-UV__lm0Hd2T8vZjvr337tq0WaCaRRAJKOx3eY2xN7Poh7-IBau1HrY0w"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61685155",
@@ -21423,7 +21889,13 @@
    "cp": "95310",
    "id": "5f5a60cde7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLRHhqLj-COxb5komm94TmGMrxVW5gexSWyPKywlOF9DdCVAX2YgNMMjyJvAJsQGrYQSnTLlTZh38Ox-zt4UwPKJhVhhtfj9SZPDxLZnvXYWE"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5471277",
@@ -21772,6 +22244,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHxCl6zKrIzCZW52lETs9h_-ixEuSsAcbdJgkmvWWiHE_VgAEQEBUQ6rM2F_oZtIOdSBKxkhXsgbAHSHPaWkOVGxj0-zqvshazzQ_xnpPRLYkE"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLQ7JAPlPcCKkBAlK8IO7-aYezKBP551T7oi9qNw8__xFTI5Ifcs8M6wGb7ccuKm-WKFNCljNsEXOarbiHJjxhlbWxncDc7vAtPQijoKHRzAcW"
     }
    ]
   },
@@ -23427,7 +23903,13 @@
    "cp": "95610",
    "id": "da24e730ac",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLDs2KylGa7wLYRXea9OTK2M5lrIpCF5pyXJYjR5lt6UMZ9Xv2i_BIfE-OJ03FvjMGmn4MhfnAaNcjModNCelnYp1DdUSva42Cyy1E3a3ACNc"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61566183",
@@ -24125,7 +24607,13 @@
    "cp": "95130",
    "id": "6713b48312",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLNssYrrKeRNpoCvs3gAvWCtl7bWV9xejnn-8ieQZXMpBz98H2AUeoikEJB-yEZOV38YhPA6cltoX9DodXfi1dMssOXWU7B1MJIRQzReU-5Hvm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/laforet-immo-facile-22593461",
@@ -25325,7 +25813,13 @@
    "cp": "95310",
    "id": "9ef3de9dfe",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLNssYiKPAe_b5PF7z7kqn_8Lz3S6kRAOwyC0II22nMpfSoHzx1vrujoA5WJXXRGOmMujFIdSZ8USZ2WhIZQjh5VyTgKRSKqmlHYlPgHCqHxWG"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756010-547094792",
@@ -27707,7 +28201,13 @@
    "cp": "95300",
    "id": "94c1f8db2e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKrVcIMtVaSh4amQxgl38DZke2THypKcliDzFOX88irzS3Cg5LE6pSwB79TPfk-m4_U_v0US1sPhbT8OM-Q37LSS1SkpHu5SmEph29towGvB4"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1666889",
@@ -35461,7 +35961,13 @@
    "cp": "95000",
    "id": "183bb3325c",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLHVxczO0zaakgHo_yCZDwP6CaRDpRUnAOmNYdYF_hZLQSgHgzSncUB3Qe3DA0zRAHEoKTsWKbozPKdRyUBpN4M02NTVKBZP0zmOzBWenFjH6FyA"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1729445",
@@ -36493,7 +36999,13 @@
    "cp": "95310",
    "id": "83a6cad8f1",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKyuppuBaplD92OfaiR_S4-4mYSXvQk4Rea0ZNgbBWevNYqlEaGs7_6YNQhUOJkhQKgsEK55Gq0jOS-Wixwc0LOCC9w7XTqwFgilxu9MWuRGvg"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/gedeon-34023338",
@@ -51453,7 +51965,13 @@
    "cp": "95880",
    "id": "094491009d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61715545"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61491414",
@@ -51609,7 +52127,13 @@
    "cp": "95880",
    "id": "40641ceabe",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-07"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560722040"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_639_677275",
@@ -52279,7 +52803,13 @@
    "cp": "95880",
    "id": "b11a7509aa",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-17",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560721515"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/nestenn-1-99939580330",
