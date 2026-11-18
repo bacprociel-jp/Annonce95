@@ -1,6 +1,222 @@
 {
- "maj": "2026-11-18T11:54:51+00:00",
+ "maj": "2026-11-18T17:32:43+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag762216-560942177",
+   "source": "Bien'ici",
+   "titre": "Chambre EHPAD – investissement LMNP géré – idéal investisseur",
+   "prix": 127948,
+   "surface": 20.0,
+   "commune": "Parmain",
+   "cp": "95620",
+   "id": "1c42302761",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-52614872",
+   "source": "Bien'ici",
+   "titre": "LOUVRES - Appartement 3pièces avec terrasse et parking",
+   "prix": 258000,
+   "surface": 64.27,
+   "commune": "Louvres",
+   "cp": "95380",
+   "id": "e3c017486d",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939814296",
+   "source": "Bien'ici",
+   "titre": "Appartement Pontoise 2 pièce(s) 39.14 m2",
+   "prix": 149000,
+   "surface": 39.14,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "573a327728",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5492525",
+   "source": "Bien'ici",
+   "titre": "F2 + Studio à Beaumont-sur-Oise  2 logements pour 50 m²",
+   "prix": 149000,
+   "surface": 50.0,
+   "commune": "Beaumont-sur-Oise",
+   "cp": "95260",
+   "id": "3acc25958f",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-52394031",
+   "source": "Bien'ici",
+   "titre": "Appartement Goussainville 1 pièce(s) 21.96 m2",
+   "prix": 70000,
+   "surface": 21.96,
+   "commune": "Goussainville",
+   "cp": "95190",
+   "id": "6ba2789b83",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/laforet-immo-facile-53030789",
+   "source": "Bien'ici",
+   "titre": "Appartement Sarcelles 3 pièces 49.73 m2",
+   "prix": 129600,
+   "surface": 49.73,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "5d5c2ee917",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5353431",
+   "source": "Bien'ici",
+   "titre": "Appartement Argenteuil 2 pièce(s) Argenteuil",
+   "prix": 165000,
+   "surface": 39.18,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "79fc757edc",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61751717",
+   "source": "Bien'ici",
+   "titre": "Appartement Deuil La Barre 4 pièces",
+   "prix": 234000,
+   "surface": 64.9,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "520cb712e9",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/netty-company53814uli-appt-12780",
+   "source": "Bien'ici",
+   "titre": "Appt 5 pièces de 95,66 m² avec balcon de 29.93 m²",
+   "prix": 245000,
+   "surface": 95.66,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "id": "c99bc35342",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87604883",
+   "source": "Bien'ici",
+   "titre": "APPARTEMENT 3 PIÈCES — PIERRELAYE (95480) — 58,31 M² AU DERNIER ÉTAGE AVEC BALCON (4,38 M²) & PARKING",
+   "prix": 276000,
+   "surface": 58.0,
+   "commune": "Pierrelaye",
+   "cp": "95480",
+   "id": "1fb52201a1",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "prix": 193500,
+   "surface": 61.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "url": "https://www.pap.fr/annonces/-r466200427",
+   "source": "PAP",
+   "titre": "Saint-Ouen-l'Aumône (95310) Vente appartement 3 pièces 61 m² 193.500 € Voir l'an",
+   "id": "fb7992c8e3",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "prix": 187000,
+   "surface": 76.0,
+   "commune": "Seraincourt",
+   "cp": "95450",
+   "url": "https://www.pap.fr/annonces/-r464101110",
+   "source": "PAP",
+   "titre": "Seraincourt (95450) Vente appartement 3 pièces 76 m² 187.000 € Voir l'annonce",
+   "id": "7aca933016",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNHzZUp9vLqx_Ut1LGvPGyKBt44ayqPxO4wHB5VLsvW-2Ur3owQHKPEpW1X5WEeOap7bRwH_o866wZZRht1AbqtcamsyejylPg7eo1D3YY2vEB",
+   "source": "SeLoger",
+   "titre": "Appartement de 2 pièces principales",
+   "prix": 199000,
+   "surface": 56.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "9552b72a4a",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNJXxPPvKEBI8bap7su3cuLfATLT2uKPMmPKdvpyH8VdbET-ZDQr112rx4O-POqaEq0nrlIbmoaXuhmu6bdib_mXXASd95IJi7BubMcSTbORsCWQ",
+   "source": "SeLoger",
+   "titre": "Appartement de 2 pièces principales",
+   "prix": 187000,
+   "surface": 46.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "6e000c161b",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNInDAH84Zd_jB97Qli7YaTv2jTnBsKAXPywIAqHjbEeGl8YVHF2Yr1syM8lidj7L3IhooqFtbQfcdu7xEeaXp8e94yzV6gM9soN9I5gxfes-R",
+   "source": "SeLoger",
+   "titre": "Mery/oise - Appartement T2 avec Garage",
+   "prix": 176000,
+   "surface": 48.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "ac1464a7fa",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNWIjP0kCRpj0EjYSunG8oQBgx1U_l6YwfRbuMcUhvrMuKZhW8VK5e23QPXn49oLBu-U0XI_GjA609PIkF_u94-2wIRpke2q81mda89lfcVH11xA",
+   "source": "SeLoger",
+   "titre": "Appartement",
+   "prix": 160300,
+   "surface": 61.46,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "95a6864d24",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNWIjP2Img-hWLEfm1RvobvVVNjioob0KHolBsGl6fZv-o29vSEyySmR9mAhihxo7pbRSbl6dwk-EHv-Adr34CVNbNJFHS3tTg5W1BMmNBIMGtaQ",
+   "source": "SeLoger",
+   "titre": "0017",
+   "prix": 163043,
+   "surface": 46.35,
+   "commune": "Pierrelaye",
+   "cp": "95480",
+   "id": "2562fd091c",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNWJ3BErWQslFx1V6d0mxrT50uTGrhqBMSJZcgHn4l76DouqqIAEYiqBXDf_qb_F5WmmKD5YZw3l_dQvb7g_eIJr5G5vf7Q1PvzcU9P2-uYiSx",
+   "source": "SeLoger",
+   "titre": "Appartement 3 pièces",
+   "prix": 199000,
+   "surface": 64.83,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "9b88414be3",
+   "premier_vu": "2026-11-18T17:32:43+00:00",
+   "vu": "2026-11-18"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2160631",
    "source": "Bien'ici",
@@ -587,7 +803,13 @@
    "cp": "95000",
    "id": "a26c07b955",
    "premier_vu": "2026-11-18T01:18:26+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-18",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNQgWFLrcvs7xqk0doGxs0IE48QHukJxZEt530GMx-S8R4fNYS4cN82pzjHPDNNGJnH9aBKp3C-l6TMN_BKz2eSxWoUW86luFDanzdGazJbB7C"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5490926",
@@ -1451,7 +1673,7 @@
    "cp": "95000",
    "id": "07ed49e954",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-18"
   },
   {
    "url": "https://www.bienici.com/annonce/ag921903-560545109",
@@ -2911,7 +3133,13 @@
    "cp": "95240",
    "id": "2fc0b60ee8",
    "premier_vu": "2026-11-15T10:57:16+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-18",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFMj5FvmYGH7ZXvQPJ1D2AHamoTkUzB5UD6PuT1rWxgj949myhRSaq0bUb0q9YZEyKCMmDM_1Kx5hIo2ZCzfKtMevJn-Hur-8NsQOei9Ff7bKSq"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0545-8022",
@@ -3046,6 +3274,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKIqHwICj8AIs35OJv58xKUUa3LprpX_C_IpqYtgD_43RxI7yusQIBJ5qYRZMYkHHMw-nXi_iLZvpc__r73irYPr_vPXet_k-B-c33OD6zk0hh"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFMj5FvpJFQSaNezbl3wum40WkSSFjQIGnpORyh_9IG2mrV6Qt25wNXh2__qkrJsEwn4YWYQ5sfSd_94Xa-kYASpfR4Bt3yD0aNTI6QNIIVztsF"
     }
    ]
   },
@@ -4018,6 +4250,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK_VbyVX_t9yefIQuUqE_uXe589sukcXNOHy-Y0clatdKvIDmjA3V-TXuG8GhG2n-Lo97yKZ0LL6CvN7ooKh81TkOM7Ja_riTldGoiU9rD9DXQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFMtgydNnrm5s6TX1QznlCyBQLoj6bCIUskroGrX_eQ79nGG9UyqFY7ukz-iBjTWWJGRGVuHWiTnM4-gK9LhwWoSBYuw-4F4HQ0jk9WV2IkS0GY"
     }
    ]
   },
@@ -4102,6 +4338,14 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLpd-eV8261bn7NDOcZCus4uGNQl9KiesEi5-CV9CA-lwq15oYi8uF_bEjkaAqM0OM1xzjTuWcdzAiUigb9huHqHXFwpYRbMnFwieIlfPKkA_g"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFMej4E5MjSKU9J3bf2e7YDjFkrcH-1uqs_SlrLcMbI750FWBeb5HlfddqRpwzLNHYz4pLHvvRn1nJtsc1xbbSOvrNPCkWQ-zTohh0dqyy4orRiQg"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFMmhVJWt-y1Jmh44Wt_BgwaY2pj9rcqsugBfAocB2QP-OQNucjRuyYAITrMZpcsPJrIjy7N-EZR35_Pf15PWwCJREIrbj4NWKQ_x8bjRrRI4Mz"
     }
    ]
   },
@@ -9289,7 +9533,7 @@
    "cp": "95240",
    "id": "d33198b35b",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-10",
+   "vu": "2026-11-18",
    "autres": [
     {
      "source": "Bien'ici",
@@ -9298,6 +9542,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-559018907"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560949080"
     }
    ]
   },
@@ -9377,11 +9625,15 @@
    "cp": "95240",
    "id": "56450b41e7",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-08",
+   "vu": "2026-11-18",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-558670172"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560947286"
     }
    ]
   },
@@ -9395,11 +9647,15 @@
    "cp": "95120",
    "id": "a1f31310b8",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-08",
+   "vu": "2026-11-18",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-558669320"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560948036"
     }
    ]
   },
@@ -9413,7 +9669,7 @@
    "cp": "95120",
    "id": "c2b4049add",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-10",
+   "vu": "2026-11-18",
    "autres": [
     {
      "source": "Bien'ici",
@@ -9422,6 +9678,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-559012046"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560948108"
     }
    ]
   },
@@ -9435,7 +9695,7 @@
    "cp": "95870",
    "id": "15fc8ddcd3",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-10",
+   "vu": "2026-11-18",
    "autres": [
     {
      "source": "Bien'ici",
@@ -9444,6 +9704,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-559021058"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560949716"
     }
    ]
   },
@@ -9457,11 +9721,19 @@
    "cp": "95240",
    "id": "113e432cd9",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-08",
+   "vu": "2026-11-18",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-558670160"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560947352"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560947394"
     }
    ]
   },
@@ -9475,11 +9747,15 @@
    "cp": "95240",
    "id": "55c973f7b5",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-08",
+   "vu": "2026-11-18",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-558670145"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560947460"
     }
    ]
   },
@@ -9493,11 +9769,15 @@
    "cp": "95240",
    "id": "8953c033d3",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-08",
+   "vu": "2026-11-18",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag756981-558670133"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560947517"
     }
    ]
   },
@@ -14795,7 +15075,13 @@
    "cp": "95670",
    "id": "9bdfcebe4f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-18",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/hektor-agencegare-4053"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag951007-550307837",
@@ -17517,7 +17803,13 @@
    "cp": "95300",
    "id": "9f5956d22e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-18",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/netty-company56766aku-appt-1923"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1962043",
@@ -22869,7 +23161,13 @@
    "cp": "95300",
    "id": "7a6008b8eb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-18",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFMej4E72pC5yxkphQDyQYOALLRtEEAySdcr0mTK1mQRvCyN5mpf6c2S-ip62jPEcgJjka_nZ-cZGoNM_Krg6yGg0RELjgVcoFD15iqqOntKmCXOw"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61667746",
@@ -28409,7 +28707,13 @@
    "cp": "95300",
    "id": "fa61b9a0ff",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-18",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNIPZWmtd9CGUAamJY_mpce2OqL0gmeNXwCvH5iVZQzGiI2BBKRG5E0_NhQXUtBBC-J2eBvf3nOfXxY7W_5JLvxSdZHW6eHKfYiOyr0wODwws"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/adapt-immo-3011444630",
@@ -50632,6 +50936,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61743226"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61755744"
     }
    ]
   },
