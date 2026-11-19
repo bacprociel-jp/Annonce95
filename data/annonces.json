@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-19T17:48:04+00:00",
+ "maj": "2026-11-19T18:48:53+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61762781",
+   "source": "Bien'ici",
+   "titre": "BEAU 3 PIÈCES DE 65 M² AVEC BALCON ET PARKING ? FRAIS DE NOTAIRE RÉDUITS",
+   "prix": 346000,
+   "surface": 66.0,
+   "commune": "La Frette-sur-Seine",
+   "cp": "95530",
+   "id": "61d16a57d5",
+   "premier_vu": "2026-11-19T18:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQTWWzRPMrDtfz43HxgOev6wsviB-gvQMVqK2YlvAil9DgZwjt8AWTWM9V23sPy3txSF9Vtnjr7KPoPMooe9xc8JQzj663hFjhPC30MH5F1ape",
+   "source": "SeLoger",
+   "titre": "Appartement T2 de 44 m² avec extérieur de 5 m² et ...",
+   "prix": 202900,
+   "surface": 43.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "31571e8e73",
+   "premier_vu": "2026-11-19T18:48:53+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-30375_107",
    "source": "Bien'ici",
