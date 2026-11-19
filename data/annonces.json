@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-19T18:48:53+00:00",
+ "maj": "2026-11-19T19:54:30+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2160609",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 201500,
+   "surface": 64.6,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "6c3273b5dc",
+   "premier_vu": "2026-11-19T19:54:30+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2160634",
+   "source": "Bien'ici",
+   "titre": "Vente Duplex 5 pièces",
+   "prix": 225000,
+   "surface": 121.47,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "5c49293cff",
+   "premier_vu": "2026-11-19T19:54:30+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2160564",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 234000,
+   "surface": 81.57,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "320c2982e2",
+   "premier_vu": "2026-11-19T19:54:30+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2163707",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 300000,
+   "surface": 44.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "2d0b518b06",
+   "premier_vu": "2026-11-19T19:54:30+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61762781",
    "source": "Bien'ici",
@@ -14792,6 +14840,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/century-21-202_639_677317"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2161231"
     }
    ]
   },
@@ -25585,7 +25637,13 @@
    "cp": "95000",
    "id": "5e3db9ba3e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2160562"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5446092",
