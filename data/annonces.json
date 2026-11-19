@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-19T20:44:50+00:00",
+ "maj": "2026-11-19T21:40:36+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/hektor-vovardimmobilier-2441",
+   "source": "Bien'ici",
+   "titre": "F5 - 3 CHAMBRES  DE 117 M2 AVEC TERRASSE DE 74 M2",
+   "prix": 399000,
+   "surface": 117.0,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "df45ff9a62",
+   "premier_vu": "2026-11-19T21:40:36+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQcUTFHWL2m8lIwWWNkf8ES_S3q5CFH0XJ8rcOIMqvzhH37wwAzx6Nk18aE_hHd8FGtfyykHRK9qlDyNuQ4AtpMxCkuKUV8SJK5aMpiaEgRQ",
    "source": "SeLoger",
