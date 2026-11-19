@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-19T00:28:44+00:00",
+ "maj": "2026-11-19T03:46:41+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/dr-house-immo-1-1147916",
+   "source": "Bien'ici",
+   "titre": "CENTRE VILLE - SUPERBE DUPLEX - 6P 110 m² - SEJOUR CATHEDRALE - 4 CHAMBRES - TERRASSE SUD OUEST",
+   "prix": 420000,
+   "surface": 110.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "94dba7fcfd",
+   "premier_vu": "2026-11-19T03:46:41+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag951353-561036314",
+   "source": "Bien'ici",
+   "titre": "TOP AFFAIRE - Idéal premier achat ou investissement - 2 pièces avec parking à Argenteuil",
+   "prix": 143500,
+   "surface": 39.0,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "77ec365d85",
+   "premier_vu": "2026-11-19T03:46:41+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/era-2-61758566",
    "source": "Bien'ici",
@@ -1811,7 +1835,7 @@
    "cp": "95340",
    "id": "ea68616d14",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61706304",
@@ -1823,7 +1847,7 @@
    "cp": "95800",
    "id": "20f95293a5",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2159853",
@@ -1835,7 +1859,7 @@
    "cp": "95300",
    "id": "3d09d15618",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2161032",
@@ -1847,7 +1871,7 @@
    "cp": "95170",
    "id": "2e500c5310",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2157213",
@@ -1859,7 +1883,7 @@
    "cp": "95490",
    "id": "be0811794d",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2156902",
@@ -1871,7 +1895,7 @@
    "cp": "95210",
    "id": "7f00303659",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2160265",
@@ -1883,7 +1907,7 @@
    "cp": "95610",
    "id": "7f03ce5fcc",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2158301",
@@ -1895,7 +1919,7 @@
    "cp": "95700",
    "id": "9202ea19f7",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/ag755942-560503394",
@@ -1907,7 +1931,7 @@
    "cp": "95110",
    "id": "ca1c672939",
    "premier_vu": "2026-11-17T01:02:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFJnCqPDLhFCw8k6uFsJwH8I1bG7lobHGpVOdoPILBXcaUbRR_wVR3ROt6Sbpgo_XFfxSBn46PU-Yy8WFddLqc30APaboQ4TjO3xixpKtNegn4X",
@@ -1961,7 +1985,7 @@
    "cp": "95200",
    "id": "430e9e6fa6",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87600608",
@@ -1973,7 +1997,7 @@
    "cp": "95240",
    "id": "43bc1a37e8",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6300",
@@ -2021,7 +2045,7 @@
    "cp": "95800",
    "id": "e1e5f625d7",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560472221",
@@ -2045,7 +2069,7 @@
    "cp": "95150",
    "id": "3c18fd9610",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560463584",
@@ -2069,7 +2093,7 @@
    "cp": "95380",
    "id": "9099788abd",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2160175",
@@ -2081,7 +2105,7 @@
    "cp": "95000",
    "id": "b5424165d8",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2159631",
@@ -2093,7 +2117,7 @@
    "cp": "95380",
    "id": "59e29e3226",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2160544",
@@ -2105,7 +2129,7 @@
    "cp": "95400",
    "id": "7f5d60ed61",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2159633",
@@ -2117,7 +2141,7 @@
    "cp": "95380",
    "id": "f51817acae",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2159591",
@@ -2129,7 +2153,7 @@
    "cp": "95220",
    "id": "39e870449a",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2159560",
@@ -2141,7 +2165,7 @@
    "cp": "95870",
    "id": "ded87e682b",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/ag753775-560456345",
@@ -2153,7 +2177,7 @@
    "cp": "95880",
    "id": "d9b77126f7",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560453960",
@@ -2189,7 +2213,7 @@
    "cp": "95800",
    "id": "ed2fadde21",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/ag755942-560438495",
@@ -2201,7 +2225,7 @@
    "cp": "95220",
    "id": "02b04a834d",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560432183",
@@ -2417,7 +2441,7 @@
    "cp": "95100",
    "id": "12e7e4645b",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2421_44",
@@ -2429,7 +2453,7 @@
    "cp": "95220",
    "id": "c325ec134b",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2425_44",
@@ -2441,7 +2465,7 @@
    "cp": "95130",
    "id": "fd526d2eda",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1985341",
@@ -2453,7 +2477,7 @@
    "cp": "95870",
    "id": "ca5de9e363",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-vovardimmobilier-2439",
@@ -2465,7 +2489,7 @@
    "cp": "95200",
    "id": "bddaa1ac81",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2416_44",
@@ -2477,7 +2501,7 @@
    "cp": "95220",
    "id": "5f5c372815",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2341_44",
@@ -2489,7 +2513,7 @@
    "cp": "95220",
    "id": "bf49ecf49e",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2404_44",
@@ -2501,7 +2525,7 @@
    "cp": "95220",
    "id": "8ad84b2bad",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2158178",
@@ -2513,7 +2537,7 @@
    "cp": "95210",
    "id": "eeb0931211",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2412_44",
@@ -2525,7 +2549,7 @@
    "cp": "95220",
    "id": "6c276b1cfd",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2247_44",
@@ -2537,7 +2561,7 @@
    "cp": "95220",
    "id": "5f0d3847a8",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2406_44",
@@ -2549,7 +2573,7 @@
    "cp": "95220",
    "id": "883ca55ba1",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2152636",
@@ -2561,7 +2585,7 @@
    "cp": "95130",
    "id": "b24decafc7",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-vovardimmobilier-1640",
@@ -2585,7 +2609,7 @@
    "cp": "95220",
    "id": "8242008197",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/la-residence-1-2413_44",
@@ -2597,7 +2621,7 @@
    "cp": "95220",
    "id": "b86293cbd6",
    "premier_vu": "2026-11-16T11:41:20+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFIHLe2w8O8mIPxo5N6onkt7t56bIvi8-47UGOXQ_YvGkKJdKdbWs2XNZyllWRmvTasuSQI5Vbgxrmi47tYd0ZrFkArclynYS0dZZCU_WGXrq96",
@@ -2687,7 +2711,7 @@
    "cp": "95230",
    "id": "cabe39f88f",
    "premier_vu": "2026-11-16T07:35:41+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_3891_15970",
@@ -2699,7 +2723,7 @@
    "cp": "95600",
    "id": "555c98540f",
    "premier_vu": "2026-11-16T07:35:41+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH2y7eT0IYi17-a_axxKiL46l4AT13qAEGwN7sMynNFv_V7TRmgHjf5Mof1rL0tUwKASBlT_WRvmJlwRA5eD63FtKlKQj0Hbo_SP__bcr71LE",
@@ -2817,7 +2841,7 @@
    "cp": "95370",
    "id": "fb6f426865",
    "premier_vu": "2026-11-16T00:41:14+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87598935",
@@ -2829,7 +2853,7 @@
    "cp": "95480",
    "id": "b91b60df57",
    "premier_vu": "2026-11-16T00:41:14+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87598937",
@@ -2841,7 +2865,7 @@
    "cp": "95480",
    "id": "42358f0047",
    "premier_vu": "2026-11-16T00:41:14+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH-FxXm4M4SrHcHqHZC8DFkaxW-bt991pIvn6hnqSMl8hLPnXZ9qqELGcPytoSpGuljXpPp-k0WeVVLgp4H8gX3cPUZ8Z7SQYBF92JVLGdQ_lb",
@@ -2883,7 +2907,7 @@
    "cp": "95360",
    "id": "147de02eb4",
    "premier_vu": "2026-11-15T20:45:21+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2160031",
@@ -2895,7 +2919,7 @@
    "cp": "95270",
    "id": "8aa3163b15",
    "premier_vu": "2026-11-15T20:45:21+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHunJkjgc8yH_2AUi1Nz9Eq8QRqSnmjRayMJq3JnsJr20D0sP8VgkpCD89VhZaZTw3feh3SPQWkfwAzFKphPRl-gKBHWLgrjC2rNqFsIUEKAFK",
@@ -3047,7 +3071,7 @@
    "cp": "95880",
    "id": "0ae7107789",
    "premier_vu": "2026-11-15T15:51:27+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHolgBmJACAmHQTzbf35yJvt4pULGGWLNPmtVc7ZRJl2FpStIN5iIa3IBIDPqaBgCXnEc9K9C2_1QS3kP9eLbJu-sDiguPCj2FtxOjw6XamxCqcA",
@@ -3245,7 +3269,7 @@
    "cp": "95120",
    "id": "ea727c2901",
    "premier_vu": "2026-11-15T08:25:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFGtGXnMR6Mhwls2lqEB9ke08VsC1GZhBGdeHdShjM6llygUdvyBpBdjURDqf7403QHMA-l-X5tYCMoKW96IFcxWHH6lcPtjzIadRMT9jNTUc4B",
@@ -3431,7 +3455,7 @@
    "cp": "95470",
    "id": "86d39b7d7e",
    "premier_vu": "2026-11-15T01:29:58+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/adapt-immo-75008156380",
@@ -3443,7 +3467,7 @@
    "cp": "95870",
    "id": "02b0f4040e",
    "premier_vu": "2026-11-15T01:29:58+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/laforet-immo-facile-53027806",
@@ -3455,7 +3479,7 @@
    "cp": "95800",
    "id": "b67e48fe7a",
    "premier_vu": "2026-11-14T21:40:17+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "SeLoger",
@@ -3473,7 +3497,7 @@
    "cp": "95120",
    "id": "47fbd7bc62",
    "premier_vu": "2026-11-14T21:40:17+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2157223",
@@ -3485,7 +3509,7 @@
    "cp": "95120",
    "id": "552fe57ff8",
    "premier_vu": "2026-11-14T21:40:17+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61741961",
@@ -3497,7 +3521,7 @@
    "cp": "95170",
    "id": "9815d3ba28",
    "premier_vu": "2026-11-14T21:40:17+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61741577",
@@ -3509,7 +3533,7 @@
    "cp": "95360",
    "id": "6dffebec8a",
    "premier_vu": "2026-11-14T21:40:17+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19"
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87597971",
@@ -5823,7 +5847,7 @@
    "cp": "95130",
    "id": "b5f5ddcc32",
    "premier_vu": "2026-11-12T17:37:48+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -6585,7 +6609,7 @@
    "cp": "95100",
    "id": "c42382b0f9",
    "premier_vu": "2026-11-11T11:10:38+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -6681,7 +6705,7 @@
    "cp": "95210",
    "id": "1d766420ef",
    "premier_vu": "2026-11-11T11:10:38+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -14013,7 +14037,7 @@
    "cp": "95000",
    "id": "1561f9b4f6",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -17609,7 +17633,7 @@
    "cp": "95440",
    "id": "977d5c32fc",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -21317,7 +21341,7 @@
    "cp": "95190",
    "id": "bebae7ac85",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -21457,7 +21481,7 @@
    "cp": "95380",
    "id": "596b1d0483",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -21561,7 +21585,7 @@
    "cp": "95300",
    "id": "2af2942fbb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -21819,7 +21843,7 @@
    "cp": "95480",
    "id": "b1a1151e3a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -21897,7 +21921,7 @@
    "cp": "95000",
    "id": "2393f81f2d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -21971,7 +21995,7 @@
    "cp": "95320",
    "id": "faf5223c23",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -22179,7 +22203,7 @@
    "cp": "95250",
    "id": "c4c4594fbf",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -22279,7 +22303,7 @@
    "cp": "95560",
    "id": "07e18a6409",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -22309,7 +22333,7 @@
    "cp": "95219",
    "id": "0647cffeda",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -22411,7 +22435,7 @@
    "cp": "95280",
    "id": "69671bc054",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -24387,7 +24411,7 @@
    "cp": "95000",
    "id": "47422ddea1",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -27109,7 +27133,7 @@
    "cp": "95130",
    "id": "5717c39d12",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -33617,7 +33641,7 @@
    "cp": "95400",
    "id": "a87d1d3c12",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -34541,7 +34565,7 @@
    "cp": "95220",
    "id": "ff22872b02",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -34821,7 +34845,7 @@
    "cp": "95200",
    "id": "67c3625732",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -34909,7 +34933,7 @@
    "cp": "95870",
    "id": "b201ebaf41",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -34961,7 +34985,7 @@
    "cp": "95240",
    "id": "05d2d6a307",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -35031,7 +35055,7 @@
    "cp": "95500",
    "id": "df6b4a1a92",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -35457,7 +35481,7 @@
    "cp": "95380",
    "id": "34dec23866",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -35521,7 +35545,7 @@
    "cp": "95300",
    "id": "872dfa4cb3",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -35885,7 +35909,7 @@
    "cp": "95000",
    "id": "cc9f737a5b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -36109,7 +36133,7 @@
    "cp": "95480",
    "id": "814f1bdd75",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -36279,7 +36303,7 @@
    "cp": "95870",
    "id": "cfe7928011",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -42363,7 +42387,7 @@
    "cp": "95100",
    "id": "c56e3fcd00",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -45409,7 +45433,7 @@
    "cp": "95210",
    "id": "49bf08283f",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -45669,7 +45693,7 @@
    "cp": "95250",
    "id": "929634f21d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -45835,7 +45859,7 @@
    "cp": "95219",
    "id": "ffcecb5678",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -46071,7 +46095,7 @@
    "cp": "95000",
    "id": "b32385c16e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -51599,7 +51623,7 @@
    "cp": "95880",
    "id": "27ef0f89eb",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -51783,7 +51807,7 @@
    "cp": "95210",
    "id": "02ddcad3d7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -51911,7 +51935,7 @@
    "cp": "95800",
    "id": "d9760742c7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -52011,7 +52035,7 @@
    "cp": "95160",
    "id": "21bde97739",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -55239,7 +55263,7 @@
    "cp": "95880",
    "id": "1b0d75a6c5",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -55353,7 +55377,7 @@
    "cp": "95870",
    "id": "54a9c087fc",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -55811,7 +55835,7 @@
    "cp": "95130",
    "id": "7bdd463063",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
