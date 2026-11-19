@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-19T21:40:36+00:00",
+ "maj": "2026-11-19T23:25:20+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag340369-561282065",
+   "source": "Bien'ici",
+   "titre": "Un grand Souplex de 5 pièces (100 m2) + jardin privative de 200m2 au cœur de  MONTMORENCY (95)",
+   "prix": 275000,
+   "surface": 112.0,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "c26067ee81",
+   "premier_vu": "2026-11-19T23:25:20+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-vovardimmobilier-2441",
    "source": "Bien'ici",
