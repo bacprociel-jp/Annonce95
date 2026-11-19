@@ -1,6 +1,66 @@
 {
- "maj": "2026-11-19T05:52:34+00:00",
+ "maj": "2026-11-19T06:57:54+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFORtDECmbavaPQPBQ2xfAngnolU4o9VLQnMio7sIigs4seqyBM3P4zZx7Cjqf1krRD5SXMJ3yep7XrSg3xXhWDsw4HwbtmztFRl31fZuEZEm70",
+   "source": "SeLoger",
+   "titre": "4 pièces",
+   "prix": 179000,
+   "surface": 74.91,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "189358ee12",
+   "premier_vu": "2026-11-19T06:57:54+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "prix": 175000,
+   "surface": 42.0,
+   "commune": "Gris - Bayonnes Herblay-sur-Seine",
+   "cp": "95220",
+   "url": "https://www.leboncoin.fr/vi/3312495688.htm",
+   "source": "Leboncoin",
+   "titre": "175 000 € 4 167 €/m² Pro Appartement · 2 pièces · 42 m² Terrain : 6300m² · Parki",
+   "id": "c22a66ceff",
+   "premier_vu": "2026-11-19T06:57:54+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "prix": 194900,
+   "surface": 41.0,
+   "commune": "Parking Saint-Martin Pontoise",
+   "cp": "95300",
+   "url": "https://www.leboncoin.fr/vi/3241757074.htm",
+   "source": "Leboncoin",
+   "titre": "194 900 € 4 754 €/m² Pro Appartement · 2 pièces · 41 m² Terrasse · Parking Saint",
+   "id": "01220d6e3a",
+   "premier_vu": "2026-11-19T06:57:54+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "prix": 168500,
+   "surface": 59.01,
+   "commune": "Village - Chauffour Sarcelles",
+   "cp": "95200",
+   "url": "https://www.leboncoin.fr/vi/3312373581.htm",
+   "source": "Leboncoin",
+   "titre": "168 500 € 2 855 €/m² Appartement · 3 pièces · 59.01 m² Parking Village - Chauffo",
+   "id": "8af294048c",
+   "premier_vu": "2026-11-19T06:57:54+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOV80xBKF6sUQgeITAoM1oAns1eTYCANEEayN6XcKzeq5mlqIOcncPcTAU7_x1RuZQr1sUoJb_EPf5c9KS0EhekE8XRL8YFHFPMFRWSNcQ2fk",
+   "source": "SeLoger",
+   "titre": "Appartement 3 pièces 42.80 m² carrez avec balcon e...",
+   "prix": 170000,
+   "surface": 42.8,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "4e74761aa5",
+   "premier_vu": "2026-11-19T06:57:54+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQPTD9GYMD_EF9iH4B6atXBwOPxQ3y2uen2GIid33zss9whHcBTfqUyojLMzHzaRp9ElZ2dF8R4AHR8ACnBzOhBiUVtTXB2b6DpY9um7AV5wTtQ",
    "source": "SeLoger",
@@ -2740,6 +2800,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFJslE-rswbxKkeOCO4MZ3FhbyXmrBXK9XPlUtX-roGUwE49TPqvt-0jZH4Szv9tdLZKIwC-ZeFBGLEAm9_Gd40rvvdIOBucEjqjCJuxGqbe6GW"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOSQfR6b8TZ39nwbUkKOKEWjBF-bF6c6Sh2RVB2-ONVeMGrJ92w-nKmoaMC4RfG8HRSGf0IGC5ImCvCvjrTQk8MYPVmwdyAvXiGSSX-Abd1QvUnQ"
     }
    ]
   },
@@ -3906,6 +3970,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQrb5VGZ7AjYBpoG_6rvLe0QT_KajlqpQ1WnXNIaTtBjtqoj6QFQUKAZpjs3K8NcSYyIixV_wLq6aJ3PIwWyXFk38mVXjMOOkMF8a4DrmzVVQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOSQfR9t2nyelLdWXqk2k31qkVApvDmLpUwS69g35KkvUXNm_pFqNfqcX50ANdhjs_jksXF2_t4QoErypYFWkX0_q-5f83n3h1gxw931KtjPODPw"
     }
    ]
   },
@@ -4693,7 +4761,13 @@
    "cp": "95000",
    "id": "b3f7565b74",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOV6jJWlwHrVRYBKFU_OmonoolsyIqup7xI1dB3tRBWFkLQ6VxThBAizV8o6P3EMZVPErLvYHjR_yIkLbd0vPtfDujx84RyRGDerV-3rHUKWkw"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG1v3QfTm3ceftiwdlDi2--wqS-JwG5zUqJZE9td362lH8ZJ6FiCemaRpcgLVrnMl5Mz-rDVOewDlfuzAQX7XWKFN1Q5q6KXyLFm72ZPioQUjI",
@@ -6715,7 +6789,7 @@
    "cp": "95250",
    "id": "8af7c6f321",
    "premier_vu": "2026-11-11T11:10:38+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-19",
    "autres": [
     {
      "source": "Bien'ici",
@@ -6724,6 +6798,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFF-2d3I0L4D67L-sz8Rk_jR1SPfnHv7itWkMVVcH8IqOFZ3I693D3umAOvATUIvldHZSzxNlUDjcb5htwHb5gg6FfEx21Sl8NllNywNY46L1CM"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFORycgiizCtcGBcELrgQoGeL5lXwgn6fd2XdIw5JPdKjnWuYxcu_3XoSRp6MTIGygJyfajcerfoSxSQmmgbodNpJ5Wu9dOtJdQPUxZi16Z4R6g-Q"
     }
    ]
   },
@@ -19667,7 +19745,13 @@
    "cp": "95280",
    "id": "cea4a4647e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3312482953.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2003562",
@@ -20003,7 +20087,13 @@
    "cp": "95220",
    "id": "8e1e41e856",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOV6jJYIbzxDmDf7fqBOdgutHiox0HEF2AQykHdFOWRQ4CyM0qD8-dVm9xRPKIj2aaTIAdrbZPnNjTQayzpAEG4ovoda2Dfg-gyhakvdr-_eyE"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2107222",
@@ -21952,6 +22042,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHC15edfKdd-DlhnIma8QcRfwvVy-NnmATMuHcS7iGWYOpMAu40GOwaWiJ_prtbiWBwdVcsMb40pXpbHv4uaA-2qdY1Z_nId8RfxMDOQFMmBQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFORycgfi849aFqYsMNrbvRskDZEsBSn44IhXuHHLKaNphZFHFscWE_X3ifmCuWCT9D6z0sPPVCWaydI5QuZKDZ-RyGHx5xFRqmuUQceqYH3Cb0WA"
     }
    ]
   },
@@ -22112,6 +22206,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG9ss6kvyd9Zu2F8LiP74KdM57k13ggQ4d3lnrICWQJWk8s6FOHuLKzBgZWN1CJuDzfSvhW61GCUWbi_dIH9zU50A_mi858Be_2-YWd6aVeDVu"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFORycghPb4GEh2yVwe8XkoTFxbc6_MfH988ORNi6HZXHajR5J339cPrBHDAGDFNAF_r5RzlotLOrGAHtsOyugEP8HlQSCZbaAGYMWDCA4d4yastg"
     }
    ]
   },
@@ -22312,6 +22410,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG9saVn1Cd3K_dmH4dR1Qg2MT15zI69ehYc3KUaHlDRYlTJq3NFXlEJx-mEr_u4KNrC2Ld5J7gE9ajlYcNVMWitzrB0v8_7z-Kcw1fzsa470A2"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFORycgePUj-A7SQiYDVDXO96239EQTEKx2LOts2R8SVykOpG4jK-Qt5TpzHOwslYp4ScYM8wiSM_VBpdCQ8ti2bYPZtGEH539j2OkHI16l_dpdVw"
     }
    ]
   },
