@@ -1,6 +1,114 @@
 {
- "maj": "2026-11-19T14:43:27+00:00",
+ "maj": "2026-11-19T15:48:53+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag340369-561178169",
+   "source": "Bien'ici",
+   "titre": "Appartement F4 SAINT OUEN L'AUMONE LIESSE (95)",
+   "prix": 230000,
+   "surface": 80.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "242877bc5d",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5493161",
+   "source": "Bien'ici",
+   "titre": "Appartement Saint-gratien 3 pièces",
+   "prix": 299000,
+   "surface": 66.0,
+   "commune": "Saint-Gratien",
+   "cp": "95210",
+   "id": "36b04d2b7b",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-ACCESS-Immobilier-2563",
+   "source": "Bien'ici",
+   "titre": "GROSLAY CENTRE - Appartement 2 pièces avec parking et à quel",
+   "prix": 156000,
+   "surface": 40.27,
+   "commune": "Groslay",
+   "cp": "95410",
+   "id": "008b2cbf31",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag951006-561177848",
+   "source": "Bien'ici",
+   "titre": "PROXIMITE IMMEDIATE AVEC LA GARE AU PIED DE L'IMMEUBLE - 2 PIECES AVEC DOUBLE TERRASSE - BELLE HAUTEUR SOUS PLAFOND",
+   "prix": 229000,
+   "surface": 56.0,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "15b51ef02c",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2162945",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 5 pièces",
+   "prix": 179000,
+   "surface": 93.15,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "b32469ab94",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2162137",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 236000,
+   "surface": 60.0,
+   "commune": "Herblay",
+   "cp": "95220",
+   "id": "ff127dd338",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560996993",
+   "source": "Bien'ici",
+   "titre": "IDÉAL 1ER ACHAT OU INVESTISSEMENT – STUDIO AVEC PARKING – GARE À 8 MIN",
+   "prix": 157370,
+   "surface": 26.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "e1142688d4",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560997017",
+   "source": "Bien'ici",
+   "titre": "RARE – 2 PIÈCES AVEC JARDIN PRIVATIF ET TERRASSE – PARKING INCLUS",
+   "prix": 262870,
+   "surface": 50.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "57fa94208b",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag756981-560997044",
+   "source": "Bien'ici",
+   "titre": "COUP DE CŒUR – 3 PIÈCES AVEC BALCON ET 2 TERRASSES – PARKING",
+   "prix": 335841,
+   "surface": 69.0,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "b6026e1ec6",
+   "premier_vu": "2026-11-19T15:48:53+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPV_s3akcP9RxxcUiITlWSiG4NlphnNwP5M4lNDaFUCE3kB0R0Slpo3-unstZQw2tPS_5oOXwJrtnzCO4q1NGKH2KaYvAXxc_zr3gd9TaXiiY-",
    "source": "SeLoger",
@@ -803,7 +911,13 @@
    "cp": "95120",
    "id": "d4d347b963",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560997062"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560876423",
@@ -815,7 +929,13 @@
    "cp": "95120",
    "id": "5270f4df25",
    "premier_vu": "2026-11-18T11:54:51+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-560997086"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFL_hWPQ4f_5o8dmAXiL0mOC3NcJ_WTmBojITnd-54D3wYeBvmysKcyQsvTvToqHvRXhE7HswxlNr7EIk9yN-prF4hx69XHIgHUah7Ot-3xSUC3gw",
@@ -3466,6 +3586,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFNgEnLjDuAgnhT2CvUwe6z5jweX0OIqpu6E0kc-AlbGjfJfnCwmlR8kVAjJW0DyRGoThsJR773hPQ63KoBy9915JtmooZ64EdobKYCQ4QGtA"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPsDP3q08GHZR-ek7nSPje9y1qvDcjU6dTXWpNg2V4Gss1shnXQuJl0Ko6wVWXxyFvFZUMgbRK4h2c1zKFp_5EiCjizbfVJ9cG_gUExh6Ig6PF"
     }
    ]
   },
@@ -10183,7 +10307,13 @@
    "cp": "95310",
    "id": "0e52a87bc6",
    "premier_vu": "2026-11-06T15:48:15+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPTy5ehmObqrdgzS3_S9ZyHeFr2mJJT9etSqla5ycocep7Gz9iNZ8H00GCb5doG6XQnJdP0-ZrlRmyB3CNwn8-W1aOsSfRKalGZiAoL-g1kc7U"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5473274",
@@ -20403,7 +20533,13 @@
    "cp": "95150",
    "id": "635f57bb5e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPtYQ4NYXyOQT7ewwP-grFJeYzflB7paK9HTzjVH1da-7jI-sM6JkNpcd-kgcRw6mSHtjPWLw2MCA8ak0OQERkbwbZduZlVqsuZwzp-vYUfEn-"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2126544",
@@ -51407,7 +51543,13 @@
    "cp": "95880",
    "id": "38ce88d1b4",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61761041"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-dupontimmobilierPONTOISE-804",
