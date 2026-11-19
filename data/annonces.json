@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-19T19:54:30+00:00",
+ "maj": "2026-11-19T20:44:50+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQcUTFHWL2m8lIwWWNkf8ES_S3q5CFH0XJ8rcOIMqvzhH37wwAzx6Nk18aE_hHd8FGtfyykHRK9qlDyNuQ4AtpMxCkuKUV8SJK5aMpiaEgRQ",
+   "source": "SeLoger",
+   "titre": "Appartement T3 de 73 m²,",
+   "prix": 182000,
+   "surface": 74.0,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "b82f042df7",
+   "premier_vu": "2026-11-19T20:44:50+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQaQc0xklxl_0bpR-SfBZHq6ZvbKLMjaqocuNXZ31aRfTJl87FdU6SFf5HMSpFH5nMIWxucV-sB2rwN3lOpGeZ8nggYdnMrxmasxe0GfTTluyc",
+   "source": "SeLoger",
+   "titre": "LE PLESSIS-BOUCHARD - 12' GARE",
+   "prix": 139000,
+   "surface": 52.9,
+   "commune": "Le Plessis-Bouchard",
+   "cp": "95130",
+   "id": "d0b91ece9b",
+   "premier_vu": "2026-11-19T20:44:50+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2160609",
    "source": "Bien'ici",
