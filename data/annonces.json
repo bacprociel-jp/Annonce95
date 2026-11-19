@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-19T08:20:20+00:00",
+ "maj": "2026-11-19T09:39:16+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/legendre-42-268885",
+   "source": "Bien'ici",
+   "titre": "Nouvelle Idylle",
+   "prix": 169000,
+   "surface": 32.43,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "685b75059b",
+   "premier_vu": "2026-11-19T09:39:16+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977571067",
    "source": "Bien'ici",
@@ -18721,7 +18733,13 @@
    "cp": "95300",
    "id": "4c670b9163",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/legendre-42-222056"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ladresse-1-adresse-13957480",
@@ -30629,7 +30647,13 @@
    "cp": "95310",
    "id": "b111d2bc4d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOlDSVEI3hYY3rpLl1B62eIePwJkqHFusbt9X1COxGl3zhvCaxSVO6qRaicAd_mF0dvim03Xg0p1KVBsTmGBIMkG4Xccumbg03XT25w8anmTU"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2016467",
