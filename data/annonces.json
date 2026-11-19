@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-19T12:36:25+00:00",
+ "maj": "2026-11-19T13:54:06+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5492909",
+   "source": "Bien'ici",
+   "titre": "Appartement Taverny 4 pièce(s) 69.04 m2",
+   "prix": 184000,
+   "surface": 69.04,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "ce3b4fbd79",
+   "premier_vu": "2026-11-19T13:54:06+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPOG-dnCBHRsWNuHY_9Dy5GvR0RDc-zfSv3NwHaGpUCv2XBNz_wR9fqLQJd4iE9QQA7rItlAsF08LyKg_wSIMgMf8X-FJi7zXraWu7HdpfZg",
    "source": "SeLoger",
@@ -11701,7 +11713,13 @@
    "cp": "95520",
    "id": "aa5d633f04",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/safti-1-1743693"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2045915",
@@ -56330,6 +56348,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61716374"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61761271"
     }
    ]
   },
