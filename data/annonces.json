@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-19T03:46:41+00:00",
+ "maj": "2026-11-19T04:53:49+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2162338",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 197000,
+   "surface": 67.23,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "7961285bb8",
+   "premier_vu": "2026-11-19T04:53:49+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2161190",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 269000,
+   "surface": 82.55,
+   "commune": "Éragny",
+   "cp": "95610",
+   "id": "047c1aef05",
+   "premier_vu": "2026-11-19T04:53:49+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/dr-house-immo-1-1147916",
    "source": "Bien'ici",
