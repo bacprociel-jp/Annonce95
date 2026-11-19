@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-19T11:52:02+00:00",
+ "maj": "2026-11-19T12:36:25+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPOG-dnCBHRsWNuHY_9Dy5GvR0RDc-zfSv3NwHaGpUCv2XBNz_wR9fqLQJd4iE9QQA7rItlAsF08LyKg_wSIMgMf8X-FJi7zXraWu7HdpfZg",
+   "source": "SeLoger",
+   "titre": "BEAUCHAMP / T2 / 45 M² / PROGRAMME DE STANDING /17...",
+   "prix": 179400,
+   "surface": 45.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "d8e171986b",
+   "premier_vu": "2026-11-19T12:36:25+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2162984",
    "source": "Bien'ici",
@@ -8049,7 +8061,7 @@
    "titre": "Cergy (95) Vente appartement 2 pièces 47 m² 150.000 € Voir l'annonce",
    "id": "5af4e9038a",
    "premier_vu": "2026-11-09T20:51:39+00:00",
-   "vu": "2026-11-12"
+   "vu": "2026-11-19"
   },
   {
    "prix": 130000,
@@ -8061,7 +8073,7 @@
    "titre": "Pontoise (95) Vente appartement 2 pièces 48 m² 130.000 € Voir l'annonce",
    "id": "1fd7aea4f1",
    "premier_vu": "2026-11-09T20:51:39+00:00",
-   "vu": "2026-11-12"
+   "vu": "2026-11-19"
   },
   {
    "prix": 158000,
