@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-19T15:48:53+00:00",
+ "maj": "2026-11-19T16:54:31+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/la-residence-1-30375_107",
+   "source": "Bien'ici",
+   "titre": "Appartement de 3 pièces",
+   "prix": 160000,
+   "surface": 51.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "66c4980441",
+   "premier_vu": "2026-11-19T16:54:31+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-ACCESS-Immobilier-2558",
+   "source": "Bien'ici",
+   "titre": "DEUIL-LA-BARRE - Appartement F2, secteur idéal !",
+   "prix": 140400,
+   "surface": 42.82,
+   "commune": "Deuil-la-Barre",
+   "cp": "95170",
+   "id": "ebed5209d0",
+   "premier_vu": "2026-11-19T16:54:31+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPwSRBuYazROISWzAC7Zo56ZRBHAvZw1rbDXIJ6BS0FTADLaWBY4wAAdEGqh2Bwxhxvf1rY29XY8etmKIILGB2CycuBQv5-QxKK0lxOj2Zz2Zh",
+   "source": "SeLoger",
+   "titre": "Appartement T2 de 42,85m² avec parking à Baillet-e...",
+   "prix": 201000,
+   "surface": 42.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "20b77d657a",
+   "premier_vu": "2026-11-19T16:54:31+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPvf_oCoueZBVRML2cwlMIN4RH4yv18f75NibhkHPv7JnwfsWkneT3OhiZs6pVJhJPAcwZJ6Mu-XICDmmKlCdlG-xr3eluhXWd0Ye-7m8YsFue",
+   "source": "SeLoger",
+   "titre": "EXCLUSIVITE",
+   "prix": 165000,
+   "surface": 41.39,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "33142f0bf9",
+   "premier_vu": "2026-11-19T16:54:31+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag340369-561178169",
    "source": "Bien'ici",
@@ -3525,7 +3573,13 @@
    "cp": "95300",
    "id": "fc79edf7df",
    "premier_vu": "2026-11-15T20:45:21+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFP1NMTsfnLrepCwlv1GUz5I-9oxI6MoUgv9Iy47g7uHXhVs1NV3pQLKXaULH2yu5kYtzHa5AMST7ZHOW6Blogi3zGAUYdMo3vMk9IhJRC23A"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFH6g4O9olISyFkK78EgPCoB6Rk2JadfFf88wzFWLhbxHuBl-uIQkAg_qJD_rLNmxVrF948bECo0_Yf4Oz-G3TykPq_KnJo7ZJ2J6se_WBc93T8",
@@ -13919,7 +13973,13 @@
    "cp": "95310",
    "id": "8721cda221",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFP_2UPi3eZ2Houim4jfY0TTSdZYDwE_zl1OGvYT600LDEpmatK1KwGllloAziDpqn9ldKh_9aZW9f_Cm97Uw3JGqJ04-n_wuyycCqrVBmIUZMw"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2068161",
@@ -16237,7 +16297,13 @@
    "cp": "95130",
    "id": "8c240cc6f9",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPzmwXRKJLZZ7xPAHDaMhHfaD8IXjHn7CgMVpE9DkUSsfsSCgfMErrVZvX38O30M3gkmrkLQGBjbJObNBHSDWVnduY3yUQrlaNBEldFujv3yY4"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/mki-54583",
