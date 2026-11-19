@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-19T13:54:06+00:00",
+ "maj": "2026-11-19T14:43:27+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPV_s3akcP9RxxcUiITlWSiG4NlphnNwP5M4lNDaFUCE3kB0R0Slpo3-unstZQw2tPS_5oOXwJrtnzCO4q1NGKH2KaYvAXxc_zr3gd9TaXiiY-",
+   "source": "SeLoger",
+   "titre": "Appartement T2 de 43 m² avec extérieur de 5 m² et ...",
+   "prix": 201900,
+   "surface": 42.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "46b76e6b65",
+   "premier_vu": "2026-11-19T14:43:27+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5492909",
    "source": "Bien'ici",
