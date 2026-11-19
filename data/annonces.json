@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-19T09:39:16+00:00",
+ "maj": "2026-11-19T10:34:42+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFO0DmfVIVW4YI21c8A8gA1F9edbFeAN8sb4_nYnVJjGyjL_cyZTPpYxdQsmVkqgWZmuzEZI5rMjDv9pEx1JSWMJDRHmm8dqCATV5n8HtoKWFEA_w",
+   "source": "SeLoger",
+   "titre": "Appartement de 2 pièces principales",
+   "prix": 159000,
+   "surface": 57.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "43900a04d6",
+   "premier_vu": "2026-11-19T10:34:42+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFO0DmfWmNrowAUUu5XxFCtoHBzaUy2qqvkTvGSUpYEWgLQPXNPyHs2epch8llCvDDvXEFPo-ymHpkj3uVPTepAF4ebFuqHXeell0I-xPX0NHlCnw",
+   "source": "SeLoger",
+   "titre": "Appartement de 2 pièces principales",
+   "prix": 182000,
+   "surface": 53.0,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "6bc975ce49",
+   "premier_vu": "2026-11-19T10:34:42+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFO38ZOei-OMyUuwRzyOPP5sKag8rmkw-Mj6dMSRQJnqpefPQVUq0yrHTtEFDk-gzK6EDSKn_ZADrVh9fLpPlLkTxbtI8l1SCT-3MUowgHsCvM",
+   "source": "SeLoger",
+   "titre": "0080",
+   "prix": 142857,
+   "surface": 46.78,
+   "commune": "Osny",
+   "cp": "95520",
+   "id": "14aa671e55",
+   "premier_vu": "2026-11-19T10:34:42+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/legendre-42-268885",
    "source": "Bien'ici",
