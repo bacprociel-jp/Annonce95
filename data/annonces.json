@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-19T04:53:49+00:00",
+ "maj": "2026-11-19T05:52:34+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQPTD9GYMD_EF9iH4B6atXBwOPxQ3y2uen2GIid33zss9whHcBTfqUyojLMzHzaRp9ElZ2dF8R4AHR8ACnBzOhBiUVtTXB2b6DpY9um7AV5wTtQ",
+   "source": "SeLoger",
+   "titre": "T2 NEUF CERGY 42 m² + balcon – Éligible Jeanbrun",
+   "prix": 184000,
+   "surface": 42.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "f334fa3c0b",
+   "premier_vu": "2026-11-19T05:52:34+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQPTD-69h85dXZQWtXUu32OD_i_sTt7K1VLl132LfWluMKbnvTzxwBcnZxHLSWFVKHbxYui-bIQJN_Xk69WANpApBUo65hlAd2ZPSQlpL6BP_Rg",
+   "source": "SeLoger",
+   "titre": "T2 NEUF SAINT-OUEN-L'AUMÔNE 43 m² + balcon – Éligi...",
+   "prix": 179000,
+   "surface": 43.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "c51e7e2578",
+   "premier_vu": "2026-11-19T05:52:34+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOFWwphdnwL2HkLT5bRtEWqCEelYGfo_FnGh5h4XnHMbFBUDGHykKeLXyY77H6rewvvvCX3P0gymgVj3w5diq_yQEL0oh4TrbW_7PH3bf3Rc1t",
+   "source": "SeLoger",
+   "titre": "L'Écrin de Méralie",
+   "prix": 178000,
+   "surface": 46.56,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "ace8ade321",
+   "premier_vu": "2026-11-19T05:52:34+00:00",
+   "vu": "2026-11-19"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQrb5Wu2mzlTyXZL-5MCjIPebyX05ELzakc1p20_GzDAiO36gMuRlJ8Xz1ELlq4442NhJUUFzs-1GVHExQvjM4blUVe-tQLPoWDzbTnm_FTqo",
+   "source": "SeLoger",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 179900,
+   "surface": 43.0,
+   "commune": "Jouy-le-Moutier",
+   "cp": "95280",
+   "id": "a94d424f32",
+   "premier_vu": "2026-11-19T05:52:34+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2162338",
    "source": "Bien'ici",
@@ -11,7 +59,13 @@
    "cp": "95150",
    "id": "7961285bb8",
    "premier_vu": "2026-11-19T04:53:49+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOFWwqCRaaz2fiFj1ed7RYJXhdk_qRVfY2byXhESsO6tibaQiTDUXeEx3j51geO6Bt0oL3fYICjg9i1F596WQFg8EORoqqOE8-gqg-t0hQEbv6"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2161190",
@@ -3605,7 +3659,13 @@
    "cp": "95300",
    "id": "4ac4cf94a2",
    "premier_vu": "2026-11-14T21:40:17+00:00",
-   "vu": "2026-11-17"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQrb5Tlaq84S_fYMiXEBpukJs7lh7tqP9BuhX5U0Vmfwq83nFSfHr_P2pT0bem0_MKVsIszPrXDlZwc6FixYdBO7CzSdzdIbwHbAd68NjIVa_"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT1152-2665",
@@ -3842,6 +3902,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjQsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOCcRnNUar_fOkAT5Mom0PMUghRDe2PkMWsoLujVdOYNCV065TpNWYdtx5NyJdNl7B7SH8jX9pZa8CKmWYNzBMIhKnkIYKS3_HXNIc8JBajGyP"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQrb5VGZ7AjYBpoG_6rvLe0QT_KajlqpQ1WnXNIaTtBjtqoj6QFQUKAZpjs3K8NcSYyIixV_wLq6aJ3PIwWyXFk38mVXjMOOkMF8a4DrmzVVQ"
     }
    ]
   },
@@ -20096,6 +20160,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag753775-560978453"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQrb5YFgPKDA3tezjyScXV1Rsu72IhVeMwRuXzDtsgxHU9zgnujOpSFX_vWMCDBEm6lphZERGUumOQVwmhQujJRRZnlqAFLaolayyEamLKqQY"
     }
    ]
   },
@@ -22344,6 +22412,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFG9saVpUNEu4WKmZfpSiBHr7ad0-lQQfEK7VPa9Tm20IukPxUO6LtoNq4U0gfbpIScXUWcNVy6BJsBRLqUSjhzArwntjxxhedwZQe4Cy-Ukio6"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFORk8t_6wDEcpYtRxi_pPx_NRuXPR0IbLilO9eAtqEgsSCeGf1ByFPVXrQNYEDkDsnx2VHKP-w2y6ukXijduNl3GASoKqX0QWAguWdM5Aby9gw"
     }
    ]
   },
@@ -29825,7 +29897,13 @@
    "cp": "95540",
    "id": "3ecee78bac",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFORmo0VRm3qPHvzv_7fIMmLSTDVpPQka6oy2XCazSfc7zDrhp_ASQYwxe2-XXwdyQOCgs1V8rE-tu265tqsh1oh-ISDQwHidU91Xc5HknBJHtS"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag951686-527143610",
