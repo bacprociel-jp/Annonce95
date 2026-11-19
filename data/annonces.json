@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-19T10:34:42+00:00",
+ "maj": "2026-11-19T11:29:44+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag951007-561101453",
+   "source": "Bien'ici",
+   "titre": "Sarcelles – 3 pièces en rez-de-jardin avec jardin de 35 m² et parking",
+   "prix": 182000,
+   "surface": 54.0,
+   "commune": "Sarcelles",
+   "cp": "95200",
+   "id": "80c29309b9",
+   "premier_vu": "2026-11-19T11:29:44+00:00",
+   "vu": "2026-11-19"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFO0DmfVIVW4YI21c8A8gA1F9edbFeAN8sb4_nYnVJjGyjL_cyZTPpYxdQsmVkqgWZmuzEZI5rMjDv9pEx1JSWMJDRHmm8dqCATV5n8HtoKWFEA_w",
    "source": "SeLoger",
@@ -1207,7 +1219,13 @@
    "cp": "95200",
    "id": "af02d1332d",
    "premier_vu": "2026-11-18T01:18:26+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-19",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag060811-561113096"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2160005",
@@ -3736,6 +3754,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFJxs4FJU-T6gvU2fh8_r6p9Bfhqz_Hql74pcOaHESTh51srzye-VoSQUi9tkCqBchR9lzYbyRu1CNh9VHO1ArJTG2LjorPvZBJpDQu0lMgjN1j"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFO-9_i6XHoLJz9_VloaqX8V-Fi6rWQBhicXDUI4vOGBmvpN0g53pwzosnFkgbPe7OQKjlpZWUDqHYrk1Fxeuhl8HyEkcAxribjYseAcEVrCKL3"
     }
    ]
   },
