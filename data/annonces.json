@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-20T09:21:33+00:00",
+ "maj": "2026-11-20T10:33:57+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/apimo-87617433",
+   "source": "Bien'ici",
+   "titre": ")APPARTEMENT 4 PIÈCES — PONTOISE (95300) — 76,24 M² AU 4ÈME ÉTAGE AVEC DOUBLES TERRASSES (34,57 M²) & PARKING",
+   "prix": 363000,
+   "surface": 76.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "8ce27a46e6",
+   "premier_vu": "2026-11-20T10:33:57+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61654098",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces à vendre à Margency",
+   "prix": 249000,
+   "surface": 77.53,
+   "commune": "Margency",
+   "cp": "95580",
+   "id": "4966c7deac",
+   "premier_vu": "2026-11-20T10:33:57+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977571940",
    "source": "Bien'ici",
@@ -3145,7 +3169,13 @@
    "cp": "95240",
    "id": "43bc1a37e8",
    "premier_vu": "2026-11-16T17:25:03+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/apimo-87617495"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6300",
@@ -52354,6 +52384,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61755744"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61763509"
     }
    ]
   },
@@ -52392,6 +52426,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61755754"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61763521"
     }
    ]
   },
