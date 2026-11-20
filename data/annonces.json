@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-20T10:33:57+00:00",
+ "maj": "2026-11-20T11:30:24+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFROMNiD4Y3Y3cj08YAe9sbxoaEMsqb0kNwML0BtrNB5ZWJwtuwfK781MDKdFNXm7EbKYgJmhuzX0kcdJHHvTGMnPACuVQ1vbodG1PbAeEWnMd-",
+   "source": "SeLoger",
+   "titre": "À propos",
+   "prix": 189900,
+   "surface": 44.0,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "1ee7cdcf32",
+   "premier_vu": "2026-11-20T11:30:24+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/apimo-87617433",
    "source": "Bien'ici",
