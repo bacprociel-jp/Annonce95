@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-20T04:16:01+00:00",
+ "maj": "2026-11-20T04:51:02+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2163781",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 4 pièces",
+   "prix": 339000,
+   "surface": 81.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "aa37c50b0f",
+   "premier_vu": "2026-11-20T04:51:02+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag571045-497316671",
    "source": "Bien'ici",
@@ -35405,7 +35417,13 @@
    "cp": "95370",
    "id": "12b569ce96",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-10"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2164042"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2096552",
