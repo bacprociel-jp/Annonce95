@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-20T16:51:02+00:00",
+ "maj": "2026-11-20T17:49:20+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSL9s0DyZ_LifItgd_i8-4r-mhxZrgkhOCaZgaItWrdUgrtHOjPdsX6Q2SwGcdWwmedeDbBY5I6TyVVnbHF3yIa098G8a8n6_qarWqotZNl4KnkQ",
+   "source": "SeLoger",
+   "titre": "T2 BAILLET-EN-FRANCE 42 M² – APPARTEMENT NEUF – JA...",
+   "prix": 180900,
+   "surface": 42.0,
+   "commune": "Baillet-en-France",
+   "cp": "95560",
+   "id": "876e922908",
+   "premier_vu": "2026-11-20T17:49:20+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61761551",
    "source": "Bien'ici",
@@ -21560,6 +21572,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOQrb5YFgPKDA3tezjyScXV1Rsu72IhVeMwRuXzDtsgxHU9zgnujOpSFX_vWMCDBEm6lphZERGUumOQVwmhQujJRRZnlqAFLaolayyEamLKqQY"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSG2Gx4HsAzcZAcIqz_XVsAxo0P4PoLJSv77Ra2LQH3fxekDuys9kHOPU1LBZLrNvXbdJKRA31yywg4XxNwQcAPlw-67WiWdQdDEoAhM13jn2d"
     }
    ]
   },
@@ -27940,6 +27956,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFIsN-4W6duEWZqjc_PNvzEMmH5RIozWRulq2Vu0X6GlbsEDa1mRWynbf2MwaL8Kl-11tkryXCXmzeQIoPlECzXJMSe6I47YM8_6e17K_Zg"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSL9s0CekSYw0tpsw_I5vHpIDDDmsB6aEQ089m3op6bZAAjVp4-qUWddmoFsHJc5abXah6ehBu6RCAQXXTy8h1Dxugh-E58m5Al6feQKxlW2JNdA"
     }
    ]
   },
