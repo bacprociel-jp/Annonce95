@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-20T15:47:53+00:00",
+ "maj": "2026-11-20T16:51:02+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/immo-facile-61761551",
+   "source": "Bien'ici",
+   "titre": "Appartement 3 pièces à vendre à Pontoise - Idéal investisseur",
+   "prix": 179000,
+   "surface": 62.65,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "9b4215d5b8",
+   "premier_vu": "2026-11-20T16:51:02+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFR8xRPv0mhRBqJVjVqZjpvlalofuYQONdkF--faOFYwk-mD1I-6usAeOhkO9oggAXM5fWTTEoAZ_C-kHNqynZDF9uWuGRYvuP6mWX56YjXG4w7Rg",
+   "source": "SeLoger",
+   "titre": "A VENDRE - Appartement 2 pièces - VAUREAL",
+   "prix": 169900,
+   "surface": 42.72,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "id": "8cfe24719c",
+   "premier_vu": "2026-11-20T16:51:02+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFR8xRPyz6ryqfkzF7WJcK9SN9mYog-qLBdBzEiFn2StEB1rHyJZPXb-YZRZwrrXjDIv0TrKjCaREug7UySq4wBewfnulmIvZQFw_rgcCBSBoiOAA",
+   "source": "SeLoger",
+   "titre": "APPARTEMENT 3 PIÈCES NEUF",
+   "prix": 169000,
+   "surface": 68.0,
+   "commune": "Cergy",
+   "cp": "95000",
+   "id": "aecb1db1a4",
+   "premier_vu": "2026-11-20T16:51:02+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/eiffage-6222-6222_3P_D2-102",
    "source": "Bien'ici",
@@ -3970,6 +4006,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOSQfR6b8TZ39nwbUkKOKEWjBF-bF6c6Sh2RVB2-ONVeMGrJ92w-nKmoaMC4RfG8HRSGf0IGC5ImCvCvjrTQk8MYPVmwdyAvXiGSSX-Abd1QvUnQ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFR8xRPxcvW7WqX5dEbSzzw1Isf12hcRU5AF13WbAG4tPxsI70FROt-DcYjBXibVGxDp3X-gJnKzZbPsnY9uuYd7j6KGMoHLMFnAX_TVwYV1p3EpQ"
     }
    ]
   },
@@ -42409,7 +42449,13 @@
    "cp": "95240",
    "id": "e6c4c77d79",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-56133970"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag952031-539391848",
