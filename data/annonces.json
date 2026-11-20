@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-20T04:51:02+00:00",
+ "maj": "2026-11-20T05:54:19+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQqVDRVLNRl7wxJO6fY-3grAtbi-koZttwNSQI9FZSz9ewbq6_rITNzX7S-co-kiSzytafiE-34iaZVoJWfp8Y1yJjGbIRyrZjtWsE1dKvDb8U",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces",
+   "prix": 180000,
+   "surface": 48.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "e9e52f96d3",
+   "premier_vu": "2026-11-20T05:54:19+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2163781",
    "source": "Bien'ici",
@@ -22596,6 +22608,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOYySmvZOqqSKMXKb7k6XN6qlCok9mgDezw-qnpGnVQrOgjBEjAdTeLj2pccHfkbrg8_KGb6sitmCZ7uxFvEeLIq6ohAKLMXNGJZ4KzAj1ErTN"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQfCSWHX1D279Mi7iesVMdjcl-9y7o0j61wh9y071EfvRpFqDr4UIn0ZY79hzjbzpLy5d7Dw78WQOxjSK9soNC-B6FwlfcjLu7QWuDc3j8UHJk"
     }
    ]
   },
@@ -23254,6 +23270,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977570843"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQqVDQjscNrfmm--bei_c29i9E9zcSM9RycuBYT_rYl10Y8efUliVP1UQnSGOdGmG9A1zu04NkmKTO7cVOK9KGlznNQk4uzPJbFv21BErsQPDe"
     }
    ]
   },
@@ -23366,6 +23386,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977570842"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQqUfky5xC3bSOpFR5XEZpxdxocUQUhZK6LA96dItmU4vhsFTkLMitiygrodU4fcJ1CjGNLwuqRrCCFC1BvI_K4wM0cqA0eC0xfSYQeqi98Y_T"
     }
    ]
   },
