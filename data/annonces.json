@@ -1,6 +1,78 @@
 {
- "maj": "2026-11-20T17:49:20+00:00",
+ "maj": "2026-11-20T18:48:57+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5494573",
+   "source": "Bien'ici",
+   "titre": "Appartement Bezons 4 pièce(s) 85 m2",
+   "prix": 394000,
+   "surface": 85.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "6224d30a00",
+   "premier_vu": "2026-11-20T18:48:57+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/hektor-FERALISSIMMO2020-6916",
+   "source": "Bien'ici",
+   "titre": "Superbe F2 au dernier étage à 7 min du RER !",
+   "prix": 164900,
+   "surface": 50.3,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "5f92675a28",
+   "premier_vu": "2026-11-20T18:48:57+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99937932467",
+   "source": "Bien'ici",
+   "titre": "FRANCONVILLE ? BEL APPARTEMENT F3 EN REZ-DE-JARDIN AVEC 54 M² D'EXTÉRIEUR ? RÉSIDENCE RÉCENTE DE 2019",
+   "prix": 239000,
+   "surface": 57.68,
+   "commune": "Franconville",
+   "cp": "95130",
+   "id": "7b96aa1374",
+   "premier_vu": "2026-11-20T18:48:57+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/nestenn-1-99939813384",
+   "source": "Bien'ici",
+   "titre": "ERMONT - APPARTEMENT 3 PIÈCES - BALCON - PARKING - CAVE - CENTRE VILLE",
+   "prix": 259000,
+   "surface": 64.65,
+   "commune": "Ermont",
+   "cp": "95120",
+   "id": "e2236ecd14",
+   "premier_vu": "2026-11-20T18:48:57+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSUWnmFgEPq2KNsOsJ91zgTU2ktdUtPXCMpmIZcG4x8qXxetMUf-DAo7dzf4dIlIjR7wctDuX-FRnGc90DXDNKBeFZWH3MTnLWfHpni2iy-WuU",
+   "source": "SeLoger",
+   "titre": "Appartement À Vendre",
+   "prix": 149000,
+   "surface": 45.52,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "1a0192a102",
+   "premier_vu": "2026-11-20T18:48:57+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSZVtDGizPMCdDduV2sgDDRTNO4N8OyBlmVgudxguf0nPxHy4IFir5R8RzKJFPec79V7EC6XrX0Jcs_vIbEMpOZUeshEY5NHVQsM9qqPDfWCuV",
+   "source": "SeLoger",
+   "titre": "Grand 2 pièces de 58 m²",
+   "prix": 154000,
+   "surface": 58.0,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "dea6cb44df",
+   "premier_vu": "2026-11-20T18:48:57+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSL9s0DyZ_LifItgd_i8-4r-mhxZrgkhOCaZgaItWrdUgrtHOjPdsX6Q2SwGcdWwmedeDbBY5I6TyVVnbHF3yIa098G8a8n6_qarWqotZNl4KnkQ",
    "source": "SeLoger",
@@ -833,7 +905,13 @@
    "cp": "95120",
    "id": "57fa94208b",
    "premier_vu": "2026-11-19T15:48:53+00:00",
-   "vu": "2026-11-19"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag756981-561496886"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag756981-560997044",
@@ -24295,7 +24373,13 @@
    "cp": "95130",
    "id": "4d2a5bb1f7",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag440414-561530630"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag060811-557106635",
@@ -58475,7 +58559,13 @@
    "cp": "95880",
    "id": "402cdca12a",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag440414-561530654"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/immo-facile-61628305",
