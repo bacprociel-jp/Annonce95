@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-20T01:50:03+00:00",
+ "maj": "2026-11-20T03:44:09+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag951353-561337319",
+   "source": "Bien'ici",
+   "titre": "Appartement Le Plessis Bouchard 4 pièce(s) 80 m2",
+   "prix": 240000,
+   "surface": 80.0,
+   "commune": "Le Plessis-Bouchard",
+   "cp": "95130",
+   "id": "3b1d5a5d6a",
+   "premier_vu": "2026-11-20T03:44:09+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952390-561341837",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 128000,
+   "surface": 49.0,
+   "commune": "Saint-Ouen-l'Aumône",
+   "cp": "95310",
+   "id": "3c69304dea",
+   "premier_vu": "2026-11-20T03:44:09+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952390-561341885",
+   "source": "Bien'ici",
+   "titre": "Appartement",
+   "prix": 153000,
+   "surface": 66.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "792e97fd5c",
+   "premier_vu": "2026-11-20T03:44:09+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag952390-561341849",
+   "source": "Bien'ici",
+   "titre": "Appartement bourgeois",
+   "prix": 367500,
+   "surface": 99.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "8d698802bc",
+   "premier_vu": "2026-11-20T03:44:09+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/century-21-202_3496_3706",
    "source": "Bien'ici",
