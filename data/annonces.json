@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-20T14:46:53+00:00",
+ "maj": "2026-11-20T15:47:53+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/eiffage-6222-6222_3P_D2-102",
+   "source": "Bien'ici",
+   "titre": "Clos Des Bleuets",
+   "prix": 300000,
+   "surface": 54.55,
+   "commune": "Beauchamp",
+   "cp": "95250",
+   "id": "40475098ec",
+   "premier_vu": "2026-11-20T15:47:53+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5493018",
+   "source": "Bien'ici",
+   "titre": "Charmant appartement 2 pièces au coeur de Pontoise",
+   "prix": 194000,
+   "surface": 45.7,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "612c27dc30",
+   "premier_vu": "2026-11-20T15:47:53+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag753775-561479786",
+   "source": "Bien'ici",
+   "titre": "ENGH﻿IEN-LES-BAINS – 3 PIECES AU DERNIER ETAGE FACE AUX JARDINS DU CASINO",
+   "prix": 529000,
+   "surface": 73.0,
+   "commune": "Enghien-les-Bains",
+   "cp": "95880",
+   "id": "d0bf7d29ba",
+   "premier_vu": "2026-11-20T15:47:53+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRj7s68bcGBdY5owL3q-tT62c2oceU5tXqWqrl-bXlqHCmGSPugq2KhCmi2NZDNOkJUqCw81j1HDk5rpmzSh5L50sy6jeGFrljPNF0e5_2vg",
    "source": "SeLoger",
