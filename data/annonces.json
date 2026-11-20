@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-20T12:34:16+00:00",
+ "maj": "2026-11-20T13:51:38+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRj7s68bcGBdY5owL3q-tT62c2oceU5tXqWqrl-bXlqHCmGSPugq2KhCmi2NZDNOkJUqCw81j1HDk5rpmzSh5L50sy6jeGFrljPNF0e5_2vg",
+   "source": "SeLoger",
+   "titre": "PONTOISE – T2 DE 43 M² - REMISE - STANDING - NEUF",
+   "prix": 164000,
+   "surface": 43.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "682a0acc73",
+   "premier_vu": "2026-11-20T13:51:38+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "prix": 186000,
+   "surface": 61.0,
+   "commune": "Montmagny",
+   "cp": "95360",
+   "url": "https://www.pap.fr/annonces/-r465802072",
+   "source": "PAP",
+   "titre": "Montmagny (95360) Vente appartement 3 pièces 61 m² 186.000 € Voir l'annonce",
+   "id": "4a5a1e3075",
+   "premier_vu": "2026-11-20T13:51:38+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2164081",
    "source": "Bien'ici",
@@ -4623,7 +4647,13 @@
    "titre": "190 000 € 3 654 €/m² Pro Appartement · 2 pièces · 52 m² Parking · Cave Le Bois -",
    "id": "ce4eae4384",
    "premier_vu": "2026-11-15T08:25:18+00:00",
-   "vu": "2026-11-18"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRs2hkcx1lGXmcrUfw2VAlffcJkahtN7PFIfBMqmPY3aLG-DHQqjKDFx9rYWzjIj0W_7Vd90n1IbbGJHvOkUhdi293dDMIJmGVIKlLipZmkCd-"
+    }
+   ]
   },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjEsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFHOHbQpXW2qg6plfOmFPpNC7JniEGD5jAZa31JjTdn1-FEr2ZV5DL1QbmJg58D-sfutN206kDZbNQrJK_xd6qdJk-bWTEFHpTgxVdHt7Tcbl-mhw",
@@ -23030,6 +23060,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977552682"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRs2hkUsdcNNQRvT6h7OeXU4laecsLw5J5wrgFRiqUxfUP0bqvlOU4pb0__wzo84q6tScPYXCo6gm-mAU6XcX9KlRIVm0Pc_RwzUhhlnF5jD8M"
     }
    ]
   },
@@ -43568,6 +43602,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag060811-513965999"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag060811-561460730"
     }
    ]
   },
