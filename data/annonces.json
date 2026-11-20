@@ -1,5 +1,5 @@
 {
- "maj": "2026-11-20T13:51:38+00:00",
+ "maj": "2026-11-20T14:46:53+00:00",
  "annonces": [
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRj7s68bcGBdY5owL3q-tT62c2oceU5tXqWqrl-bXlqHCmGSPugq2KhCmi2NZDNOkJUqCw81j1HDk5rpmzSh5L50sy6jeGFrljPNF0e5_2vg",
@@ -1091,7 +1091,13 @@
    "cp": "95130",
    "id": "189358ee12",
    "premier_vu": "2026-11-19T06:57:54+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRy0EqxRo6E7CxUX7OhBMPfwDHTG6EfePsnNYS_5ksohADrk6pLqJz6WpduH4KCNeoq7kSLFoHFOB-VQ0fN-YyTpvtu9ehRO4HqiLYM5l8K2oF"
+    }
+   ]
   },
   {
    "prix": 175000,
@@ -20815,7 +20821,13 @@
    "cp": "95610",
    "id": "e4d28310ae",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRwwSMhFhCS1sIHFmULhT5KLCzZ5L1bdIehofxPAuYX18eyiAiltrvOzs3k2daps2HeNJbv4xjTYmggCckHtsgQgMTD5YI6VK7GTMMAzxrRlnS"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2147794",
@@ -22824,6 +22836,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNQUPO281474977552685"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRueQ15HEwrPipRVm_3Zz6PWFijzpVHHWqUqZhYG1qvydl8bDiItpvLqpFG4HdmBJNa_5vAGLxsAHNhkP6Y8kHxkYaFFEnm-C4LTGa1a9dUtjH"
     }
    ]
   },
@@ -22948,6 +22964,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNWABE281474977570114"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRwwSMfuF_i7R3cVOxI6ZOwaYFB4JF2-5Dl6nXTe4gYJCUsYTq7fzex17YNNbDdoD8p2fKo4Ga5Q0HmpgAK8ksgMs7E-xLTcdpNVZnWaO0qy5O"
     }
    ]
   },
@@ -23508,6 +23528,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977572082"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRu3E7Xg-MnyGpDXyZ2cKZe_b54PVrgGAaHmGSuOqALcekyi1fkpS1yZfHWHUQTjefvLePbwwKUvhMeqfKokwWn2645v2GkQD62uQPHUyS74D5"
     }
    ]
   },
