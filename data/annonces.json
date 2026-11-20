@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-20T11:30:24+00:00",
+ "maj": "2026-11-20T12:34:16+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2164081",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 149500,
+   "surface": 43.5,
+   "commune": "Soisy-sous-Montmorency",
+   "cp": "95230",
+   "id": "895ce8bb9c",
+   "premier_vu": "2026-11-20T12:34:16+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2158682",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 3 pièces",
+   "prix": 240000,
+   "surface": 76.09,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "e3640ff752",
+   "premier_vu": "2026-11-20T12:34:16+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ifsp6a-5494230",
+   "source": "Bien'ici",
+   "titre": "Appartement Bezons 2 pièce(s) 50 m2",
+   "prix": 179900,
+   "surface": 50.0,
+   "commune": "Bezons",
+   "cp": "95870",
+   "id": "d05394c449",
+   "premier_vu": "2026-11-20T12:34:16+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRXorupVOJ6oDRh0O6hlHsQPMRBAj4D0s-8regtm_Z8BCiiEckY6mO2x0Cgev1VvrLJFQTLrVxpEYQQnrHncIK1-Y5F9kzBqZ2tV1mKSYQxukX",
+   "source": "SeLoger",
+   "titre": "Appartement de 3 pièces",
+   "prix": 201500,
+   "surface": 65.0,
+   "commune": "Cergy",
+   "cp": "95800",
+   "id": "75591dd56c",
+   "premier_vu": "2026-11-20T12:34:16+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFROMNiD4Y3Y3cj08YAe9sbxoaEMsqb0kNwML0BtrNB5ZWJwtuwfK781MDKdFNXm7EbKYgJmhuzX0kcdJHHvTGMnPACuVQ1vbodG1PbAeEWnMd-",
    "source": "SeLoger",
@@ -4865,11 +4913,15 @@
    "cp": "95000",
    "id": "6e9e6be5e5",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-19",
+   "vu": "2026-11-20",
    "autres": [
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjIsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFIjKrDdo3zw6CB6hyQVKC26U0F3Ij6qpBuJZt8LgUIMem9sw9QzwkEHrjDJVkQKaB7OqkxhXmCl8sSifDumxp9E-UTBxV6BIWTthlAi_gIIEas1g"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRgGLVxAQ-2rb9gkBKuicfFGST2Rg9Ql-QxuxJLa9PGTIwOAeV8gB2sd54FO1C_Ny0MR395-AbLe_OmoDMEeP2tVRGE3hXbShGk6cW4Si6Noft"
     }
    ]
   },
@@ -21468,6 +21520,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/nestenn-1-99939702371"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFRYZp6FX2cEWDJ6HcdkgVeBiqzyQThMuQp9z5CMCTSEar-gGrgyKiT1lM4iFsOuhUpE0eauII7Z7gqwCV5S5SUCJjqs_yPwY7YtOGIT-l9UYo"
     }
    ]
   },
