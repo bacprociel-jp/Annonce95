@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-20T18:48:57+00:00",
+ "maj": "2026-11-20T19:52:01+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1743885",
+   "source": "Bien'ici",
+   "titre": "L'ISLE-ADAM – Appartement 2 pièces face au parc avec box et cave",
+   "prix": 269900,
+   "surface": 39.0,
+   "commune": "L'Isle-Adam",
+   "cp": "95290",
+   "id": "4f7e451699",
+   "premier_vu": "2026-11-20T19:52:01+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/era-2-61734251",
+   "source": "Bien'ici",
+   "titre": "ARGENTEUIL CENTRE-VILLE ? CHARMANT T2 À PROXIMITÉ DE LA GARE !",
+   "prix": 120000,
+   "surface": 33.44,
+   "commune": "Argenteuil",
+   "cp": "95100",
+   "id": "822aba302b",
+   "premier_vu": "2026-11-20T19:52:01+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2162550",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 115000,
+   "surface": 36.57,
+   "commune": "Persan",
+   "cp": "95340",
+   "id": "d1fc658c69",
+   "premier_vu": "2026-11-20T19:52:01+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://www.bienici.com/annonce/ifsp6a-5494573",
    "source": "Bien'ici",
@@ -1271,7 +1307,13 @@
    "titre": "175 000 € 4 167 €/m² Pro Appartement · 2 pièces · 42 m² Terrain : 6300m² · Parki",
    "id": "c22a66ceff",
    "premier_vu": "2026-11-19T06:57:54+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSZk0uSDssRHKea6TM2tiH6nOpfuW3jBaxQuBqU_AyUY4xaaCNERML_twBDo8M9kA-LKAog956-BOZcODyvh0PMYtPcBnl7GEa5o9XCnT7WtA"
+    }
+   ]
   },
   {
    "prix": 194900,
@@ -26623,7 +26665,13 @@
    "cp": "95540",
    "id": "5682036e64",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSaYzU5zTPAmJl-OKZpf9q947sO909Y8dB3Jk2MvSVBNG9B1Z-R2CusCIrzNoDWR7KAW17fXvJhFgQ95SBX24-ysoY3OuUOQIPIIqu5dzQU6M"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag753775-552229325",
@@ -38356,6 +38404,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/immo-facile-61754838"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/immo-facile-61774117"
     }
    ]
   },
@@ -43441,7 +43493,13 @@
    "cp": "95300",
    "id": "e44269810d",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2164387"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/guy-hoquet-18-GT0545-7917",
@@ -52279,7 +52337,13 @@
    "cp": "95110",
    "id": "2bc7989824",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/iad-france-2164365"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-529_EXPERTIMO22-240071",
