@@ -1,6 +1,54 @@
 {
- "maj": "2026-11-20T05:54:19+00:00",
+ "maj": "2026-11-20T06:57:03+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQiwCVaDrNsFTf5aVP6TeEpIH1gzQG8aWPWMyrOW2FZIbosfejehLhwTqP9TRuSYF2m6L2GMB6XxnxvNFnsxaoHoegI1C6fXO7Q0YybF4lADfx",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces",
+   "prix": 170000,
+   "surface": 50.0,
+   "commune": "Bouffémont",
+   "cp": "95570",
+   "id": "608b73a6e4",
+   "premier_vu": "2026-11-20T06:57:03+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQiwCUuetDPas5XVv8anExC4V3e5QUNOmmShx1iLMZ2NPixA5siX4uMwVzg1ZwotAwzqxgJJ_rnMAWOQ2HxC4nAMbY2W8yRHfbaD7mxM0DzOay",
+   "source": "SeLoger",
+   "titre": "T2 NEUF AVEC 35 M² D'EXTÉRIEUR PRIVATIF – PROCHE G...",
+   "prix": 198000,
+   "surface": 45.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "119f2e7e67",
+   "premier_vu": "2026-11-20T06:57:03+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "prix": 187000,
+   "surface": 55.0,
+   "commune": "Parking Saint-Martin Pontoise",
+   "cp": "95300",
+   "url": "https://www.leboncoin.fr/vi/3211008492.htm",
+   "source": "Leboncoin",
+   "titre": "187 000 € 3 400 €/m² Pro Appartement · 2 pièces · 55 m² Parking Saint-Martin Pon",
+   "id": "6f0b72888c",
+   "premier_vu": "2026-11-20T06:57:03+00:00",
+   "vu": "2026-11-20"
+  },
+  {
+   "prix": 182000,
+   "surface": 73.0,
+   "commune": "Parking Papeterie Éragny",
+   "cp": "95610",
+   "url": "https://www.leboncoin.fr/vi/3313010489.htm",
+   "source": "Leboncoin",
+   "titre": "182 000 € 2 493 €/m² Appartement · 3 pièces · 73 m² Terrasse · Parking Papeterie",
+   "id": "292aff3ee2",
+   "premier_vu": "2026-11-20T06:57:03+00:00",
+   "vu": "2026-11-20"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQqVDRVLNRl7wxJO6fY-3grAtbi-koZttwNSQI9FZSz9ewbq6_rITNzX7S-co-kiSzytafiE-34iaZVoJWfp8Y1yJjGbIRyrZjtWsE1dKvDb8U",
    "source": "SeLoger",
@@ -22886,6 +22934,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNKHOU281474977570871"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjYsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFQssPwZDHHcMGudw9QqlD3f8O6K4NC3m3u2UigjEAG_4hhpvSFBpekYJzElgNi0B-A2ZmWgB1cgwac8XTPammyyQUvB_BNCofEN5hUCtMoWRXA"
     }
    ]
   },
@@ -25786,6 +25838,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/iad-france-2160562"
+    },
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3312875207.htm"
     }
    ]
   },
@@ -29574,6 +29630,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjAsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFF_rwF5tRnz80uFhscnhAHcnZGv9cJT4j4nmBPZRVuFLm3Lf8DSfTYo03QJN5KZacNeuWS0B1op3kBKC9ErK0-1R4ueI1GyByDqeYDUFqXBlc"
+    },
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3276021338.htm"
     }
    ]
   },
@@ -30323,7 +30383,13 @@
    "cp": "95800",
    "id": "2faf1dd96e",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-20"
+   "vu": "2026-11-20",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3210607908.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-immoducentreplailly-13928",
