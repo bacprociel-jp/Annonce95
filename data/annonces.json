@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-21T04:12:51+00:00",
+ "maj": "2026-11-21T04:47:24+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/iad-france-2164093",
+   "source": "Bien'ici",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 262000,
+   "surface": 46.18,
+   "commune": "Cormeilles-en-Parisis",
+   "cp": "95240",
+   "id": "90963a2178",
+   "premier_vu": "2026-11-21T04:47:24+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzzDVkWdT7dxXo55GIW3vQSq5Cx9beDTpBrmgx6w5QX8RY_wTBctmYFEHXI7DZq_j_AvShgm4-4kiJw8x260jyGVQqXK0OVdvwZjYwUIOxx9Q",
+   "source": "SeLoger",
+   "titre": "LE PLESSIS-BOUCHARD - 12' GARE",
+   "prix": 199000,
+   "surface": 41.7,
+   "commune": "Le Plessis-Bouchard",
+   "cp": "95130",
+   "id": "5a540d35d1",
+   "premier_vu": "2026-11-21T04:47:24+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/hektor-APOGEE-11756",
    "source": "Bien'ici",
@@ -4610,6 +4634,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFPsDP3q08GHZR-ek7nSPje9y1qvDcjU6dTXWpNg2V4Gss1shnXQuJl0Ko6wVWXxyFvFZUMgbRK4h2c1zKFp_5EiCjizbfVJ9cG_gUExh6Ig6PF"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzy-0RzyTuPBDJKG1GhOOS1Ad-7sLfSHPekxy1iK2fN1s8uO1m1ckbEIYrCaeNhf5KpTksr4sLWAy3n1exocnqzXJ_gzHETmeXCFZxuJX_SQg"
     }
    ]
   },
@@ -5422,6 +5450,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOSQfR9t2nyelLdWXqk2k31qkVApvDmLpUwS69g35KkvUXNm_pFqNfqcX50ANdhjs_jksXF2_t4QoErypYFWkX0_q-5f83n3h1gxw931KtjPODPw"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzy9WgkqoeFsDr_IYbD8YIlg0-RyJgqRjNUKYarbBdSZrVAg-r1kzJA7a05Bc0yqOSq0dwncqTf9O8y-Gu7dqRnLb-HHVAB4UZF9CwuWrT82g"
     }
    ]
   },
@@ -5435,11 +5467,15 @@
    "cp": "95220",
    "id": "3f56a4dca2",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-20",
+   "vu": "2026-11-21",
    "autres": [
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFLeiPqg2LQzxmSSOSgoqeugWs9s3grXQ42iNFGzsTTIjKjkoOYUGFZAqWMXgWSr-HEWbKHNmzpVNNCoFWZAGxP6lTQle4PVjnYlhMuQiowZHk"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzzE6LhQsc839BOC8OaSbcKAckX0weQ231x3jl-0F29yZTLLpxCG3jD32Vb68rbMTUgoLbWUCcxQ4l4cFLPQFRZ9DTuHAEqYz3wEImI-YvyHA"
     }
    ]
   },
@@ -5483,7 +5519,7 @@
    "cp": "95250",
    "id": "194f824491",
    "premier_vu": "2026-11-14T17:13:12+00:00",
-   "vu": "2026-11-20",
+   "vu": "2026-11-21",
    "autres": [
     {
      "source": "SeLoger",
@@ -5492,6 +5528,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFK7JzOz2UjLtcrsQR8cbeEUIq6HgvG_TpNDMBhn-br5t1bcbh7UqDZor0weRgtq-gkJnZo-s9rFifHF87hCjdX2m5_OI1K1mssS9-roXfo"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzzAWKt1k7UxvrnWRSRbkarPiX-IQM5BGiLp9D2f72LamTh9yD8DXn5T8fP0nWrHmzIINQf2UcHzn_QzCN5Fw2ZB6jtYuTjLWysu4T0nWbXzg"
     }
    ]
   },
@@ -14507,7 +14547,13 @@
    "cp": "95310",
    "id": "c960b5f482",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzzByOSHIUklfR_-uQ2TID3svPPvp96jm4UP995XxgxQKKZlTwKNkwSN36NAnBqkFZWVB07-qd41BVP2TZr4XjUrfRqGhQuxwSf84_4qQrwIA"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2133596",
@@ -21311,7 +21357,13 @@
    "cp": "95370",
    "id": "2d6db68941",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSi3NBlVS8EyKeTHDBseSCgR_ZNaNgrijWLm5USUlm6C9DmiW_FT9_l8rOqC0fIPL-mHA0dY-MXjxSwfZ1gdPJKpkcUt_VEinDNv9bqrVxfg"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/iad-france-1935292",
