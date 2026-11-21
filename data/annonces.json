@@ -1,6 +1,30 @@
 {
- "maj": "2026-11-21T11:02:08+00:00",
+ "maj": "2026-11-21T11:58:46+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTG09JAWbfrfa_iEahfg8qStTPTapa3b7-y3QseZRAzXvubBJ7AsLK37fLVQiPcU1z7iC_YYTaTXhgCO3JfQIKjrUThkrnNY_WmE9oZITaSbz7",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces",
+   "prix": 181000,
+   "surface": 47.0,
+   "commune": "Saint-Leu-la-Forêt",
+   "cp": "95320",
+   "id": "f2186511c1",
+   "premier_vu": "2026-11-21T11:58:46+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTFkUQnOlT8gPPiVcoozsMPApg2F11imeWDAgYZJ3weuXzctovPZmtI3qtzFjLTE4--r6E-JWB6qXDtVMe0nmNDfC0gHVMoS7prkUV4auCoQg4lA",
+   "source": "SeLoger",
+   "titre": "Appartement T2 de 37,84m² avec terrasse 4,29m² et ...",
+   "prix": 180000,
+   "surface": 37.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "1557a0d073",
+   "premier_vu": "2026-11-21T11:58:46+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTFX8WLB7acjlMICQgb4sjtpLZZWnuWl54aNrtC0YWFYDHKW3qSum17o3uqQgVz-L1nGNyyabfEiJQwdoKFADTyIHVxprxxZWTyoBdXO9NcqiE",
    "source": "SeLoger",
@@ -5734,6 +5758,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSsnqIWCdMSm206ZZ8cz7gQ7Y6wIYLrzZUSuNVELqZPrbQrtRbKMloGVsc0fT-E1wfonyLTrfbdY84pG8ZI3Wxy-92pz-5PwHJDU11rXhdw0RZ"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTFkUQlqJQPFxq57gg6nxenzKI5j6NFXRQS9mVN-Eq-CTQUcITuZ3m4Ttp3m6QxP3YYOAF7_vSZo7tVshZNSfnk6dxveH2BFFEk0fvoAYGK4OgOQ"
     }
    ]
   },
@@ -20556,6 +20584,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/safti-1-1723944"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTFjiu481FNWZiThxRuNfD7x89AnrRNI_P1Vv04WRqoOgiSEpEswK5nBnkhweN0ujqT2H5vlp6F3BsMSzwdGe_diXF-spqJi8ileRegBi5gv3Z"
     }
    ]
   },
