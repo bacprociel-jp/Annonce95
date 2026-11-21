@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-21T08:03:28+00:00",
+ "maj": "2026-11-21T09:02:30+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFS2evrtsPW1I-CDxOZkXQqv4KBDHhiADjUV9Z0C8HXdABYEDEJMPsbXCU20RYHHimPsOvU4M4iyKLDG3v41q5KfoqKYzYLk9pi8jPuhAeZ3eW1",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces",
+   "prix": 166000,
+   "surface": 47.0,
+   "commune": "Bouffémont",
+   "cp": "95570",
+   "id": "36ec4f8ebf",
+   "premier_vu": "2026-11-21T09:02:30+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/mgc-BPEBNCHDI281474977573291",
    "source": "Bien'ici",
@@ -32653,7 +32665,13 @@
    "cp": "95300",
    "id": "45350b4aea",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSzrPsYB9oBMsOkPpJgyXD64PyyIUqggOKygcBeoSF0cVjLlDqnlyKmEAYx-Az7nbkdJ9SsTHrwImkmr1un0UPFXTLTbhYyWIKYAX_7K2x92o"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/gedeon-32804835",
