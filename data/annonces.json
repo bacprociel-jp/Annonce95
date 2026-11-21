@@ -1,6 +1,90 @@
 {
- "maj": "2026-11-21T04:47:24+00:00",
+ "maj": "2026-11-21T05:47:36+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-561648797",
+   "source": "Bien'ici",
+   "titre": "T2 - Goussainville",
+   "prix": 159000,
+   "surface": 44.0,
+   "commune": "Goussainville",
+   "cp": "95190",
+   "id": "968d23ccef",
+   "premier_vu": "2026-11-21T05:47:36+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-561645821",
+   "source": "Bien'ici",
+   "titre": "T1 - Soisy-sous-Montmorency",
+   "prix": 190000,
+   "surface": 30.0,
+   "commune": "Soisy-sous-Montmorency",
+   "cp": "95230",
+   "id": "ed5f5232ee",
+   "premier_vu": "2026-11-21T05:47:36+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-560842892",
+   "source": "Bien'ici",
+   "titre": "T2 - Luzarches",
+   "prix": 206000,
+   "surface": 39.0,
+   "commune": "Luzarches",
+   "cp": "95270",
+   "id": "589ff0e55b",
+   "premier_vu": "2026-11-21T05:47:36+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://www.bienici.com/annonce/ag773658-560841377",
+   "source": "Bien'ici",
+   "titre": "T3 - Domont",
+   "prix": 300000,
+   "surface": 63.0,
+   "commune": "Domont",
+   "cp": "95330",
+   "id": "20067e7b86",
+   "premier_vu": "2026-11-21T05:47:36+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "prix": 172000,
+   "surface": 43.0,
+   "commune": "Parking Bessancourt",
+   "cp": "95550",
+   "url": "https://www.leboncoin.fr/vi/3313950613.htm",
+   "source": "Leboncoin",
+   "titre": "172 000 € 4 000 €/m² Pro Appartement · 2 pièces · 43 m² Balcon · Parking Bessanc",
+   "id": "6a64584e36",
+   "premier_vu": "2026-11-21T05:47:36+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "prix": 199000,
+   "surface": 46.0,
+   "commune": "Parking Centre-ville Pontoise",
+   "cp": "95300",
+   "url": "https://www.leboncoin.fr/vi/3313950564.htm",
+   "source": "Leboncoin",
+   "titre": "199 000 € 4 326 €/m² Pro Appartement · 2 pièces · 46 m² Parking Centre-ville Pon",
+   "id": "63705dbbac",
+   "premier_vu": "2026-11-21T05:47:36+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "prix": 190000,
+   "surface": 63.0,
+   "commune": "Parking Papeterie Éragny",
+   "cp": "95610",
+   "url": "https://www.leboncoin.fr/vi/3313896244.htm",
+   "source": "Leboncoin",
+   "titre": "190 000 € 3 016 €/m² Pro Appartement · 3 pièces · 63 m² Balcon · Parking Papeter",
+   "id": "6c23a77ac4",
+   "premier_vu": "2026-11-21T05:47:36+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/iad-france-2164093",
    "source": "Bien'ici",
@@ -23,7 +107,13 @@
    "cp": "95130",
    "id": "5a540d35d1",
    "premier_vu": "2026-11-21T04:47:24+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3313728358.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/hektor-APOGEE-11756",
@@ -2343,7 +2433,17 @@
    "cp": "95320",
    "id": "8cb2c4e496",
    "premier_vu": "2026-11-18T08:38:20+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-560836055"
+    },
+    {
+     "source": "Leboncoin",
+     "url": "https://www.leboncoin.fr/vi/3313954991.htm"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/apimo-87573984",
@@ -8306,6 +8406,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/mgc-BPEBNFRPI281474977570920"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSnWx-OHsxfvZLaj5T3ug0CUi9sS1y7antJmEQrMza7l9sj7n1GZCPnaE_8FSp5su6Suk068QcOM2NO8_08NoTm2a519ZwSrrJD6gTi2eJSgQH"
     }
    ]
   },
@@ -9579,11 +9683,15 @@
    "cp": "95000",
    "id": "6a6c1d037c",
    "premier_vu": "2026-11-09T10:17:46+00:00",
-   "vu": "2026-11-18",
+   "vu": "2026-11-21",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag773658-559958222"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-561648608"
     }
    ]
   },
@@ -9699,11 +9807,15 @@
    "cp": "95380",
    "id": "eda7f06704",
    "premier_vu": "2026-11-09T10:17:46+00:00",
-   "vu": "2026-11-13",
+   "vu": "2026-11-21",
    "autres": [
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/ag773658-559340792"
+    },
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-561645842"
     }
    ]
   },
@@ -10885,7 +10997,13 @@
    "cp": "95100",
    "id": "4d55752a1b",
    "premier_vu": "2026-11-07T06:53:27+00:00",
-   "vu": "2026-11-08"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "Bien'ici",
+     "url": "https://www.bienici.com/annonce/ag773658-561643811"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/ag773658-558499046",
