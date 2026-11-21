@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-21T09:02:30+00:00",
+ "maj": "2026-11-21T10:03:55+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTBgR6SzdWT83q3_jNMlcZk-kcjWtU2MDgw0cUbaGrKUKV0ib03Nc61rfLVbgS_gYDwRyCXuq53PG2AYmFG4AmNkeWkvTgeEwC5zqn02ZxYPKD",
+   "source": "SeLoger",
+   "titre": "vente appartement locatif , quartier hermitage",
+   "prix": 141500,
+   "surface": 42.0,
+   "commune": "Pontoise",
+   "cp": "95300",
+   "id": "e1f20f2dd8",
+   "premier_vu": "2026-11-21T10:03:55+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFS2evrtsPW1I-CDxOZkXQqv4KBDHhiADjUV9Z0C8HXdABYEDEJMPsbXCU20RYHHimPsOvU4M4iyKLDG3v41q5KfoqKYzYLk9pi8jPuhAeZ3eW1",
    "source": "SeLoger",
@@ -5057,11 +5069,15 @@
    "cp": "95150",
    "id": "3233595133",
    "premier_vu": "2026-11-15T10:57:16+00:00",
-   "vu": "2026-11-20",
+   "vu": "2026-11-21",
    "autres": [
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjMsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFKgSsvW9mU3vua-vPlDfxjRLQ4vioUO8ivp-Xvj-hZsudmmuOnyWRYe1qkisYE93tRIBos5XEjf4H0FI6yI7hODJZVUahYwjMPcnEbPMLPVu-h"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTBgR6Ra9j7bDS6_y25fPL4TSrqRZg_RT087WRH88MYsMw_p0GH12ymjvKsZiUbqPzTUg8dZnsr26JmvEIaEOEkwXVzuOf8ERwkJ8mF2u9HYlM"
     }
    ]
   },
