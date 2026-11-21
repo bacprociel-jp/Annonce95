@@ -1,6 +1,18 @@
 {
- "maj": "2026-11-21T10:03:55+00:00",
+ "maj": "2026-11-21T11:02:08+00:00",
  "annonces": [
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTFX8WLB7acjlMICQgb4sjtpLZZWnuWl54aNrtC0YWFYDHKW3qSum17o3uqQgVz-L1nGNyyabfEiJQwdoKFADTyIHVxprxxZWTyoBdXO9NcqiE",
+   "source": "SeLoger",
+   "titre": "Appartement 2 pièces",
+   "prix": 182000,
+   "surface": 49.0,
+   "commune": "Méry-sur-Oise",
+   "cp": "95540",
+   "id": "4f70d3cf0c",
+   "premier_vu": "2026-11-21T11:02:08+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFTBgR6SzdWT83q3_jNMlcZk-kcjWtU2MDgw0cUbaGrKUKV0ib03Nc61rfLVbgS_gYDwRyCXuq53PG2AYmFG4AmNkeWkvTgeEwC5zqn02ZxYPKD",
    "source": "SeLoger",
