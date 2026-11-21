@@ -1,6 +1,42 @@
 {
- "maj": "2026-11-21T05:47:36+00:00",
+ "maj": "2026-11-21T06:54:21+00:00",
  "annonces": [
+  {
+   "url": "https://www.bienici.com/annonce/safti-1-1736306",
+   "source": "Bien'ici",
+   "titre": "Duplex Bas Montmorency",
+   "prix": 609000,
+   "surface": 126.0,
+   "commune": "Montmorency",
+   "cp": "95160",
+   "id": "e8c78fba46",
+   "premier_vu": "2026-11-21T06:54:21+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSnl_VZtdazKKO2d7MrA8rWTEO1Q7vpmVN_EoNXtAptaURsDlUVQ4_dJBcpZeqCYGrRm_nwcbF2FxmyCVUKkggK8u_52i0fzAMt2Pdukl2OuBD",
+   "source": "SeLoger",
+   "titre": "Parking + Appartement + Parking",
+   "prix": 170000,
+   "surface": 44.51,
+   "commune": "Vauréal",
+   "cp": "95490",
+   "id": "5d08db40bd",
+   "premier_vu": "2026-11-21T06:54:21+00:00",
+   "vu": "2026-11-21"
+  },
+  {
+   "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSnl_UVQEqKQKOUuN8xgAFoDPyXIH8hxhQ9_q3j5uZw00pAdrH_PSsl59E6Y1wP5tDedrxHh8PHIxFLtFDwJfhOnabGgu6XHJqjaFsgdtZiMZw",
+   "source": "SeLoger",
+   "titre": "Vente Appartement 2 pièces",
+   "prix": 149900,
+   "surface": 40.8,
+   "commune": "Taverny",
+   "cp": "95150",
+   "id": "3ff08c817a",
+   "premier_vu": "2026-11-21T06:54:21+00:00",
+   "vu": "2026-11-21"
+  },
   {
    "url": "https://www.bienici.com/annonce/ag773658-561648797",
    "source": "Bien'ici",
@@ -2210,6 +2246,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjUsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFOd76c2QD-mTvv8C8jZj7Up0vvhFtiU3I-z_uJ0kAtTDmb0R77vto0tcTtBXc0FakS9GZQaVKNyKiiRMtx1zc0F7VzNMbF_eX_Y4hPREfr_TEM"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSr00Qek6i4qi_68OH85k7dKCfRLIBm9-AmTajeVcrF-42g8MpgRXLX3Fnp_9NmgUdfN0fYiN4DA9-CqDPFjfw0VZkAelyFxSIalMUM6_86-Jd"
     }
    ]
   },
@@ -5554,6 +5594,10 @@
     {
      "source": "SeLoger",
      "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSXxzy9WgkqoeFsDr_IYbD8YIlg0-RyJgqRjNUKYarbBdSZrVAg-r1kzJA7a05Bc0yqOSq0dwncqTf9O8y-Gu7dqRnLb-HHVAB4UZF9CwuWrT82g"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSquiQJe-T1DY7hqw0dRYTUgGywGwYl-9a79IypM64rEL2_jKUMUMoI3EpmWKA2CyAyknxPp89Ki_F2fV0kS5M9AisZh1f-GtGqHW-fUf2sn426Q"
     }
    ]
   },
@@ -20378,6 +20422,10 @@
     {
      "source": "Bien'ici",
      "url": "https://www.bienici.com/annonce/netty-company53474tds-appt-9796"
+    },
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSr00QFxSFRys7-B8G8WbN84qzPeozAcIz8VW-W8lrl3IYGRzNbiKsNYjA11ECDKHOQoBmoy90NiCLftJA24P9o69YRxzw9UjvcNSQa_CuuKod"
     }
    ]
   },
@@ -24865,7 +24913,13 @@
    "cp": "95370",
    "id": "000e250a7b",
    "premier_vu": "2026-11-04T18:35:18+00:00",
-   "vu": "2026-11-21"
+   "vu": "2026-11-21",
+   "autres": [
+    {
+     "source": "SeLoger",
+     "url": "https://click.by.seloger.com/?qs=ABp7ImQiOjUwNjcsInQiOjYwMzAsInMiOjUxfQAzAAAAAAFSquiQK39ppOHBg9ZaU6LFv6GQqA4smHhahtXkXBvw8rRWXXN9c2V9QGzmLRc_hEQ5k9BtTp5eLJYtwJbKR4_nlw-easE9InhCdoT4xqk-FZjMSw"
+    }
+   ]
   },
   {
    "url": "https://www.bienici.com/annonce/safti-1-1731325",
